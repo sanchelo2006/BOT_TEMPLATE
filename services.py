@@ -30,25 +30,42 @@ def get_data(symbol, interval):
 
 
 # function for get MACD cross 0
-def get_MACD_change(symbol, interval, ts, fast_period = 12, slow_period = 26, signal_period = 9):
+def get_MACD_change(ts, fast_period = 12, slow_period = 26, signal_period = 9):
 
-    result = 'no cross 0'
+    result_macd = '0'
 
-    check_df = ts.without_ohlc().with_macd(fast_period = fast_period,
+    check_macd = ts.without_ohlc().with_macd(fast_period = fast_period,
                                             slow_period = slow_period,
                                             signal_period = signal_period).as_pandas()
     
-    if check_df['macd_hist'].iloc[1] > 0 and check_df['macd_hist'].iloc[0] < 0:
-        result = 'MACD cross 0! UP > DOWN'
+    if check_macd['macd_hist'].iloc[1] > 0 and check_macd['macd_hist'].iloc[0] < 0:
+        result_macd = 'MACD cross 0! UP > DOWN'
 
-    elif check_df['macd_hist'].iloc[1] < 0 and check_df['macd_hist'].iloc[0] > 0:
-        result = 'MACD cross 0! DOWN > UP'
+    elif check_macd['macd_hist'].iloc[1] < 0 and check_macd['macd_hist'].iloc[0] > 0:
+        result_macd = 'MACD cross 0! DOWN > UP'
 
+    return result_macd
 
-    return result
+# function for get RSC cross
+def get_RSI(ts, time_period  =14):
+
+    result_rsi = '0'
+
+    check_rsi = ts.without_ohlc().with_rsi(time_period = time_period).as_pandas()
+
+    if check_rsi['rsi'].iloc[1] > 40 and check_rsi['rsi'].iloc[0] < 40:
+        result_rsi = 'RSI cross 40 DOWN > UP'
+    
+    elif check_rsi['rsi'].iloc[1] < 60 and check_rsi['rsi'].iloc[0] > 60:
+        result_rsi = 'RSI cross 60 UP > DOWN'
+
+    return result_rsi
 
 # next code only for checking!!!!!!------------------
-check = get_MACD_change('BTC/USD', '1h', td)
+ts = get_data('BTC/USD', '1h')
+check = get_MACD_change(ts)
+check_rsi = get_RSI(ts)
 
 print(check)
+print(check_rsi)
 #----------------------------------------------------
