@@ -1,0 +1,3870 @@
+	symbol	available_exchanges	currency_base	currency_quote
+0	0xBTC/BTC	['Hotbit', 'Mercatox']	0xBitcoin	Bitcoin
+1	0xBTC/ETH	['Hotbit', 'Mercatox']	0xBitcoin	Ethereum
+2	0xBTC/USD	['Synthetic']	0xBitcoin	US Dollar
+3	1000SATS/USD	['Binance']	SATS	US Dollar
+4	1INCH/BTC	['Binance']	1inch	Bitcoin
+5	1INCH/INR	['Bitbns']	1inch	Indian Rupee
+6	1INCH/USD	['Binance', 'Huobi']	1inch	US Dollar
+7	1ST/ETH	['HitBTC']	FirstBlood	Ethereum
+8	1ST/USD	['Synthetic']	FirstBlood	US Dollar
+9	2GIVE/USD	['Synthetic']	2GIVE	US Dollar
+10	300/USD	['Synthetic']	300 Token	US Dollar
+11	611/USD	['Synthetic']	SixEleven	US Dollar
+12	808/USD	['Synthetic']	808Coin	US Dollar
+13	888/BTC	['YoBit']	OctoCoin	Bitcoin
+14	888/USD	['Synthetic']	OctoCoin	US Dollar
+15	8BIT/USD	['Synthetic']	8Bit	US Dollar
+16	999/USD	['Synthetic']	999	US Dollar
+17	AAC/BTC	['CoinTiger']	Acute Angle Cloud	Bitcoin
+18	AAC/USD	['OKEx']	Acute Angle Cloud	US Dollar
+19	AAVE/BRL	['Synthetic']	Aave	Brazil Real
+20	AAVE/BTC	['Bibox', 'Binance']	Aave	Bitcoin
+21	AAVE/CAD	['Synthetic']	Aave	Canadian Dollar
+22	AAVE/ETH	['Bibox', 'Binance']	Aave	Ethereum
+23	AAVE/EUR	['Coinbase Pro', 'Kraken']	Aave	Euro
+24	AAVE/INR	['Bitbns']	Aave	Indian Rupee
+25	AAVE/TRY	['Paribu']	Aave	Turkish Lira
+26	AAVE/USD	['Binance', 'Gate.io']	Aave	US Dollar
+27	ABBC/BTC	['BitForex']	ABBC Coin	Bitcoin
+28	ABBC/USD	['BitForex', 'DragonEX']	ABBC Coin	US Dollar
+29	ABN/USD	['Synthetic']	Abncoin	US Dollar
+30	ABT/USD	['OKEx']	Arcblock	US Dollar
+31	ABY/USD	['Synthetic']	ArtByte	US Dollar
+32	ACA/BTC	['Binance']	Acala Token	Bitcoin
+33	ACA/BUSD	['Binance']	Acala Token	Binance USD
+34	ACAT/BTC	['Hotbit']	Alphacat	Bitcoin
+35	ACAT/ETH	['Hotbit']	Alphacat	Ethereum
+36	ACAT/USD	['Synthetic']	Alphacat	US Dollar
+37	ACA/USD	['Binance', 'Gate.io', 'KuCoin']	Acala Token	US Dollar
+38	ACC/USD	['Synthetic']	AdCoin	US Dollar
+39	ACES/USD	['Synthetic']	Aces	US Dollar
+40	ACH/USD	['Coinbase Pro', 'Gate.io', 'Huobi']	Alchemy Pay	US Dollar
+41	ACN/USD	['Synthetic']	Avoncoin	US Dollar
+42	ACOIN/BTC	['YoBit']	Acoin	Bitcoin
+43	ACOIN/USD	['Synthetic']	Acoin	US Dollar
+44	ACP/USD	['Synthetic']	AnarchistsPrime	US Dollar
+45	ACT/BTC	['Huobi', 'OKEx']	Achain	Bitcoin
+46	ACT/ETH	['Huobi', 'Kucoin']	Achain	Ethereum
+47	ACT/USD	['OKEx']	Achain	US Dollar
+48	AC/USD	['Synthetic']	AsiaCoin	US Dollar
+49	ADA/AUD	['Synthetic']	Cardano	Australian Dollar
+50	ADA/BNB	['Binance']	Cardano	Binance Coin
+51	ADA/BRL	['Binance', 'MercadoBitcoin', 'NovaDAX']	Cardano	Brazil Real
+52	ADA/BTC	['Binance', 'HitBTC']	Cardano	Bitcoin
+53	ADA/CAD	['Synthetic']	Cardano	Canadian Dollar
+54	ADA/CNY	['Synthetic']	Cardano	Chinese Yuan
+55	ADA/ETH	['Binance', 'Huobi']	Cardano	Ethereum
+56	ADA/EUR	['Binance', 'Kraken', 'Synthetic']	Cardano	Euro
+57	ADA/HKD	['Synthetic']	Cardano	Hong Kong Dollar
+58	ADA/ILS	['Synthetic']	Cardano	Israeli Shekel
+59	ADA/INR	['Bitbns', 'Synthetic']	Cardano	Indian Rupee
+60	ADA/KRW	['Upbit']	Cardano	Korean Won
+61	ADA/MXN	['Synthetic']	Cardano	Mexican Peso
+62	ADA/MYR	['Synthetic']	Cardano	Malaysian Ringgit
+63	ADA/PLN	['Synthetic']	Cardano	Polish Zloty
+64	ADA/RUB	['Synthetic']	Cardano	Russian Ruble
+65	ADA/SAR	['Synthetic']	Cardano	Saudi Riyal
+66	ADA/SEK	['Synthetic']	Cardano	Swedish Krona
+67	ADA/THB	['Bitkub']	Cardano	Thai Baht
+68	ADA/TRY	['Binance', 'Bitexen', 'BTCTurk', 'Paribu', 'Synthetic']	Cardano	Turkish Lira
+69	ADA/USD	['Binance', 'HitBTC', 'Huobi', 'Synthetic']	Cardano	US Dollar
+70	ADA/VND	['Synthetic']	Cardano	Vietnamese Dong
+71	ADA/ZAR	['Synthetic']	Cardano	South African Rand
+72	ADC/BTC	['YoBit']	AudioCoin	Bitcoin
+73	ADCN/USD	['Synthetic']	Asiadigicoin	US Dollar
+74	ADC/USD	['Synthetic']	AudioCoin	US Dollar
+75	ADS/BTC	['Graviex']	Adshares	Bitcoin
+76	ADS/LTC	['Graviex']	Adshares	Litecoin
+77	ADS/USD	['Synthetic']	Adshares	US Dollar
+78	ADT/BTC	['Bittrex']	adToken	Bitcoin
+79	ADT/KRW	['Upbit']	adToken	Korean Won
+80	ADT/USD	['Synthetic']	adToken	US Dollar
+81	ADX/BTC	['Binance', 'Huobi']	AdEx	Bitcoin
+82	ADX/ETH	['Binance']	AdEx	Ethereum
+83	ADX/USD	['Synthetic']	AdEx	US Dollar
+84	ADZ/BTC	['YoBit']	Adzcoin	Bitcoin
+85	ADZ/USD	['Synthetic']	Adzcoin	US Dollar
+86	AE/BTC	['Coinbene', 'Huobi']	Aeternity	Bitcoin
+87	AE/ETH	['Gate.io', 'Huobi']	Aeternity	Ethereum
+88	AEON/BTC	['Bittrex', 'HitBTC']	AEON	Bitcoin
+89	AEON/USD	['Synthetic']	AEON	US Dollar
+90	AERM/USD	['Synthetic']	Aerium	US Dollar
+91	AERO/USD	['Coinbase Pro']	Aerodrome Finance	US Dollar
+92	AE/USD	['DragonEX', 'Gate.io', 'Hotbit', 'Huobi']	Aeternity	US Dollar
+93	AGI/BTC	['Binance', 'Kucoin']	SingularityNET	Bitcoin
+94	AGI/ETH	['Kucoin']	SingularityNET	Ethereum
+95	AGI/USD	['Synthetic']	SingularityNET	US Dollar
+96	AGRS/USD	['Synthetic']	Agoras Tokens	US Dollar
+97	AGVC/BTC	['SouthXchange']	AgaveCoin	Bitcoin
+98	AGVC/USD	['Synthetic']	AgaveCoin	US Dollar
+99	AIB/USD	['Synthetic']	Advanced Internet Blocks	US Dollar
+100	AIDOC/BTC	['Huobi']	AI Doctor	Bitcoin
+101	AIDOC/ETH	['Huobi']	AI Doctor	Ethereum
+102	AIDOC/USD	['Synthetic']	AI Doctor	US Dollar
+103	Aidos Kuneen/USD	['Kraken']	Aidos Kuneen	US Dollar
+104	AION/BTC	['Binance', 'Bitrue']	Aion	Bitcoin
+105	AION/ETH	['Binance', 'Kucoin']	Aion	Ethereum
+106	AION/USD	['Binance', 'Synthetic']	Aion	US Dollar
+107	AIR/USD	['Synthetic']	AirToken	US Dollar
+108	AI/USD	['Synthetic']	POLY AI	US Dollar
+109	AIX/BNT	['Bancor Network']	Aigang	Bancor
+110	AIX/USD	['Synthetic']	Aigang	US Dollar
+111	AKT/BTC	['Bittrex']	Akash Network	Bitcoin
+112	AKT/ETH	['Gate.io']	Akash Network	Ethereum
+113	AKT/USD	['Bittrex', 'Gate.io']	Akash Network	US Dollar
+114	AKY/USD	['Synthetic']	Akuya Coin	US Dollar
+115	ALGO/BTC	['Binance', 'Kraken']	Algorand	Bitcoin
+116	ALGO/ETH	['Bibox']	Algorand	Ethereum
+117	ALGO/INR	['Bitbns']	Algorand	Indian Rupee
+118	ALGO/USD	['Binance', 'Hotbit']	Algorand	US Dollar
+119	ALICE/BTC	['Binance']	MyNeighborAlice	Bitcoin
+120	ALICE/EUR	['Synthetic']	MyNeighborAlice	Euro
+121	ALICE/USD	['Binance']	MyNeighborAlice	US Dollar
+122	ALIS/USD	['Synthetic']	ALIS	US Dollar
+123	ALPHA/BTC	['Binance']	Alpha Finance Lab	Bitcoin
+124	ALPHA/USD	['Binance', 'FTX']	Alpha Finance Lab	US Dollar
+125	ALPINE/BTC	['Binance']	Alpine F1 Team Fan Token	Bitcoin
+126	ALPINE/EUR	['Binance']	Alpine F1 Team Fan Token	Euro
+127	ALPINE/TRY	['Binance']	Alpine F1 Team Fan Token	Turkish Lira
+128	ALPINE/USD	['Binance']	Alpine F1 Team Fan Token	US Dollar
+129	ALQO/USD	['Synthetic']	ALQO	US Dollar
+130	ALTCOM/BTC	['YoBit']	AltCommunity Coin	Bitcoin
+131	ALTCOM/USD	['Synthetic']	AltCommunity Coin	US Dollar
+132	ALTC/USD	['Synthetic']	Antilitecoin	US Dollar
+133	AMB/BTC	['Binance', 'Kucoin']	Ambrosus	Bitcoin
+134	AMBER/USD	['Synthetic']	AmberCoin	US Dollar
+135	AMB/ETH	['HitBTC', 'Kucoin']	Ambrosus	Ethereum
+136	AMB/USD	['HitBTC', 'Synthetic']	Ambrosus	US Dollar
+137	AMM/BTC	['Mercatox']	MicroMoney	Bitcoin
+138	AMM/ETH	['Mercatox']	MicroMoney	Ethereum
+139	AMMO/USD	['Synthetic']	Ammo Reloaded	US Dollar
+140	AMM/USD	['Synthetic']	MicroMoney	US Dollar
+141	AMPL/BTC	['Kucoin']	Ampleforth	Bitcoin
+142	AMPL/ETH	['Kucoin']	Ampleforth	Ethereum
+143	AMPL/USD	['Gate.io', 'Kucoin']	Ampleforth	US Dollar
+144	AMPt/USD	['Coinbase Pro']	Amp	US Dollar
+145	AMP/USD	['Synthetic']	Synereo	US Dollar
+146	AMS/BTC	['YoBit']	AmsterdamCoin	Bitcoin
+147	AMS/USD	['Synthetic']	AmsterdamCoin	US Dollar
+148	ANCp/BTC	['Binance']	Anchor Protocol	Bitcoin
+149	ANCp/USD	['Binance', 'KuCoin']	Anchor Protocol	US Dollar
+150	ANI/USD	['Synthetic']	Animecoin	US Dollar
+151	ANKR/BTC	['Binance']	Ankr	Bitcoin
+152	ANKR/KRW	['Upbit']	Ankr	Korean Won
+153	ANKR/TRY	['BTCTurk']	Ankr	Turkish Lira
+154	ANKR/USD	['Binance']	Ankr	US Dollar
+155	Anoncoin/USD	['Kraken']	Anoncoin	US Dollar
+156	ANT/BTC	['Binance', 'Bittrex']	Aragon	Bitcoin
+157	ANT/ETH	['Bitfinex', 'Bittrex']	Aragon	Ethereum
+158	ANTI/USD	['Synthetic']	AntiBitcoin	US Dollar
+159	ANT/USD	['Binance', 'Bitfinex']	Aragon	US Dollar
+160	ANTX/USD	['Synthetic']	Antimatter	US Dollar
+161	ANY/BTC	['Binance']	Anyswap	Bitcoin
+162	ANY/USD	['Binance']	Anyswap	US Dollar
+163	AOAR/BTC	['Kucoin']	Aurora	Bitcoin
+164	AOAR/USD	['Synthetic']	Aurora	US Dollar
+165	APE/BTC	['Binance']	ApeCoin	Bitcoin
+166	APE/CAD	['Synthetic']	ApeCoin	Canadian Dollar
+167	APE/USD	['Binance', 'Coinbase Pro', 'Huobi']	ApeCoin	US Dollar
+168	API3/USD	['Binance', 'Gate.io']	API3	US Dollar
+169	APIS/USD	['Synthetic']	APIS	US Dollar
+170	APL/BTC	['BitMart']	Apollo Currency	Bitcoin
+171	APL/USD	['Synthetic']	Apollo Currency	US Dollar
+172	APPC/BTC	['Binance', 'Huobi']	AppCoins	Bitcoin
+173	APPC/ETH	['HitBTC']	AppCoins	Ethereum
+174	APPC/USD	['Synthetic']	AppCoins	US Dollar
+175	APT/USD	['Binance']	Aptos	US Dollar
+176	APX/USD	['Synthetic']	APX	US Dollar
+177	ARB/BTC	['YoBit']	ARbit	Bitcoin
+178	ARBIT/USD	['Synthetic']	ARbit	US Dollar
+179	ARBI/USD	['Synthetic']	ARBITRAGE	US Dollar
+180	AR/BRL	['Synthetic']	Arweave	Brazil Real
+181	ARB/USD	['Binance']	 Arbitrum	US Dollar
+182	AR/CAD	['Synthetic']	Arweave	Canadian Dollar
+183	ARCO/BTC	['YoBit']	AquariusCoin	Bitcoin
+184	ARCO/USD	['Synthetic']	AquariusCoin	US Dollar
+185	ARDR/BTC	['Binance', 'HitBTC']	Ardor	Bitcoin
+186	ARDR/ETH	['TOKOK']	Ardor	Ethereum
+187	ARDR/KRW	['Upbit']	Ardor	Korean Won
+188	ARDR/USD	['Synthetic']	Ardor	US Dollar
+189	AR/EUR	['Synthetic']	Arweave	Euro
+190	ARGUS/BTC	['YoBit']	Argus	Bitcoin
+191	ARG/USD	['Synthetic']	Argentum	US Dollar
+192	ARGUS/USD	['Synthetic']	Argus	US Dollar
+193	ARI/USD	['Synthetic']	Aricoin	US Dollar
+194	ARK/AUD	['Synthetic']	Ark	Australian Dollar
+195	ARK/BTC	['Binance', 'Bittrex']	Ark	Bitcoin
+196	ARK/KRW	['Upbit']	Ark	Korean Won
+197	ARK/USD	['OKEx', 'Synthetic']	Ark	US Dollar
+198	ARN/ETH	['Gate.io']	Aeron	Ethereum
+199	ARN/USD	['Synthetic']	Aeron	US Dollar
+200	ARNX/BTC	['HitBTC']	Aeron	Bitcoin
+201	ARPA/BTC	['Binance']	ARPA Chain	Bitcoin
+202	ARPA/USD	['Binance']	ARPA Chain	US Dollar
+203	ART/BTC	['HitBTC']	Maecenas	Bitcoin
+204	ART/USD	['Synthetic']	Maecenas	US Dollar
+205	AR/USD	['Binance', 'Huobi']	Arweave	US Dollar
+206	ARV/USD	['ProBit Exchange']	Ariva	US Dollar
+207	ASN/USD	['Synthetic']	Aseancoin	US Dollar
+208	AST/BTC	['Binance', 'Huobi']	AirSwap	Bitcoin
+209	ASTRO/USD	['Synthetic']	Astro	US Dollar
+210	ASTR/USD	['Binance', 'Gate.io', 'KuCoin']	Astar	US Dollar
+211	AST/USD	['OKEx']	AirSwap	US Dollar
+212	ATA/BTC	['Binance']	Automata Network	Bitcoin
+213	ATA/USD	['Binance']	Automata Network	US Dollar
+214	ATB/BTC	['TOPBTC']	ATBCoin	Bitcoin
+215	ATB/USD	['YoBit']	ATBCoin	US Dollar
+216	ATLAS/USD	['FTX', 'Gate.io']	Star Atlas	US Dollar
+217	ATL/BTC	['YoBit']	ATLANT	Bitcoin
+218	ATL/USD	['Synthetic']	ATLANT	US Dollar
+219	ATMS/USD	['Synthetic']	Atmos	US Dollar
+220	ATM/USD	['YoBit']	ATMChain	US Dollar
+221	ATOM/BNB	['Binance']	Cosmos	Binance Coin
+222	ATOM/BTC	['Binance', 'OKEx']	Cosmos	Bitcoin
+223	ATOM/CAD	['Synthetic']	Cosmos	Canadian Dollar
+224	ATOMc/USD	['Synthetic']	Atomic Coin	US Dollar
+225	ATOM/ETH	['Huobi', 'OKEx']	Cosmos	Ethereum
+226	ATOM/EUR	['Kraken']	Cosmos	Euro
+227	ATOM/INR	['Bitbns']	Cosmos	Indian Rupee
+228	ATOM/TRY	['BTCTurk', 'Paribu']	Cosmos	Turkish Lira
+229	ATOM/USD	['Binance', 'OKEx']	Cosmos	US Dollar
+230	ATS/BNT	['Bancor Network']	Authorship	Bancor
+231	ATS/USD	['Synthetic']	Authorship	US Dollar
+232	ATX/BTC	['Livecoin']	Artex Coin	Bitcoin
+233	ATXN/BTC	['Coinbene']	Aston	Bitcoin
+234	ATXN/USD	['Synthetic']	Aston	US Dollar
+235	ATX/USD	['Synthetic']	Artex Coin	US Dollar
+236	AUDIO/BTC	['Binance']	Audius	Bitcoin
+237	AUDIO/EUR	['BitStamp']	Audius	Euro
+238	AUDIO/USD	['Binance']	Audius	US Dollar
+239	AURA/USD	['Synthetic']	Aurora-DAO	US Dollar
+240	AUR/BTC	['YoBit']	Auroracoin	Bitcoin
+241	AUR/USD	['Synthetic']	Auroracoin	US Dollar
+242	AUSD/USD	['Uniswap']	AUSD	US Dollar
+243	AUTO/BTC	['HitBTC']	Cube	Bitcoin
+244	AUTO/USD	['Synthetic']	Cube	US Dollar
+245	AU/USD	['Synthetic']	AurumCoin	US Dollar
+246	AVAX/BRL	['Binance']	Avalanche	Brazil Real
+247	AVAX/BTC	['Binance', 'Huobi']	Avalanche	Bitcoin
+248	AVAX/CAD	['Synthetic']	Avalanche	Canadian Dollar
+249	AVAX/EUR	['Binance']	Avalanche	Euro
+250	AVAX/TRY	['Paribu']	Avalanche	Turkish Lira
+251	AVAX/USD	['Binance', 'Huobi']	Avalanche	US Dollar
+252	AV/BTC	['YoBit']	AvatarCoin	Bitcoin
+253	AVT/BTC	['Mercatox']	Aventus	Bitcoin
+254	AVT/ETH	['HitBTC', 'Mercatox']	Aventus	Ethereum
+255	AVT/USD	['Synthetic']	Aventus	US Dollar
+256	AV/USD	['Synthetic']	AvatarCoin	US Dollar
+257	AWR/USD	['Synthetic']	AWARE	US Dollar
+258	AXIOM/BTC	['YoBit']	Axiom	Bitcoin
+259	AXIOM/USD	['Synthetic']	Axiom	US Dollar
+260	AXL/USD	['Binance']	Axelar	US Dollar
+261	AXPR/BTC	['Kucoin']	aXpire	Bitcoin
+262	AXPR/ETH	['Kucoin']	aXpire	Ethereum
+263	AXPR/USD	['Synthetic']	aXpire	US Dollar
+264	AXS/BRL	['Synthetic']	Axie Infinity	Brazil Real
+265	AXS/CAD	['Synthetic']	Axie Infinity	Canadian Dollar
+266	AXS/EUR	['Coinbase Pro', 'Kraken']	Axie Infinity	Euro
+267	AXS/KRW	['Bithumb']	Axie Infinity	Korean Won
+268	AXS/USD	['Binance']	Axie Infinity	US Dollar
+269	B2B/BTC	['YoBit']	B2BX	Bitcoin
+270	B2B/USD	['Synthetic']	B2BX	US Dollar
+271	B2M/USD	['Bittrex']	Bit2Me	US Dollar
+272	B2X/BTC	['YoBit']	SegWit2x	Bitcoin
+273	B2X/USD	['YoBit']	SegWit2x	US Dollar
+274	BAC/USD	['Synthetic']	BitAlphaCoin	US Dollar
+275	BADGER/USD	['Binance', 'Coinbase Pro']	Badger DAO	US Dollar
+276	BAKE/INR	['Bitbns']	BakeryToken	Indian Rupee
+277	BAKE/USD	['Binance']	BakeryToken	US Dollar
+278	BAL/USD	['Binance', 'Coinbase Pro']	Balancer	US Dollar
+279	BAN/BTC	['Mercatox']	Banano Coin	Bitcoin
+280	BANCA/ETH	['HitBTC', 'Hotbit']	Banca	Ethereum
+281	BANCA/USD	['Synthetic']	Banca	US Dollar
+282	BAND/BNB	['Binance']	Band Protocol	Binance Coin
+283	BAND/BTC	['Binance']	Band Protocol	Bitcoin
+284	BAND/USD	['Binance']	Band Protocol	US Dollar
+285	BAN/USD	['Synthetic']	Banano Coin	US Dollar
+286	BASH/USD	['Synthetic']	LuckChain	US Dollar
+287	BAT/BTC	['Binance', 'IDCM']	Basic Attention Token 	Bitcoin
+288	BAT/ETH	['Bibox', 'Binance', 'Coinbase Pro']	Basic Attention Token	Ethereum
+289	BAT/EUR	['Kraken']	Basic Attention Token	Euro
+290	BAT/INR	['Bitbns']	Basic Attention Token	Indian Rupee
+291	BAT/JPY	['Bitbank']	Basic Attention Token	Japanese Yen
+292	BAT/MXN	['Bitso']	Basic Attention Token	Mexican Peso
+293	BAT/TRY	['Paribu']	Basic Attention Token	Turkish Lira
+294	BAT/USD	['Bibox', 'Binance']	Basic Attention Token	US Dollar
+295	BAT/USDC	['Coinbase Pro']	Basic Attention Token	USD Coin
+296	BAX/ETH	['CoinTiger']	BABB	Ethereum
+297	BAX/USD	['CoinTiger', 'Synthetic']	BABB	US Dollar
+298	BAY/USD	['Synthetic']	BitBay	US Dollar
+299	BBC/BTC	['CoinAll']	TraDove B2BCoin	Bitcoin
+300	BBC/USD	['Synthetic']	TraDove B2BCoin	US Dollar
+301	BBK/ETH	['IDEX']	Brickblock	Ethereum
+302	BBK/USD	['Synthetic']	Brickblock	US Dollar
+303	BBT/BTC	['Mercatox', 'YoBit']	BitBoost	Bitcoin
+304	BBT/USD	['Synthetic']	BitBoost	US Dollar
+305	BCA/BTC	['STEX', 'YoBit']	Bitcoin Atom	Bitcoin
+306	BCAP/USD	['Synthetic']	BCAP	US Dollar
+307	BCA/USD	['YoBit']	Bitcoin Atom	US Dollar
+308	BCD/BTC	['Binance', 'Huobi']	Bitcoin Diamond	Bitcoin
+309	BCD/ETH	['Kucoin']	Bitcoin Diamond	Ethereum
+310	BCD/IDR	['Indodax']	Bitcoin Diamond	Indonesian Rupiah
+311	BCD/KRW	['Bithumb']	Bitcoin Diamond	Korean Won
+312	BCDN/USD	['Gate.io']	BlockCDN	US Dollar
+313	BCD/USD	['Gate.io', 'OKEx']	Bitcoin Diamond	US Dollar
+314	BCHABC/AUD	['BTC Markets']	Bitcoin Cash	Australian Dollar
+315	BCHABC/BTC	['Binance', 'OKEx']	Bitcoin Cash	Bitcoin
+316	BCHABC/IDR	['Indodax']	Bitcoin Cash	Indonesian Rupiah
+317	BCHABC/INR	['Bitbns']	Bitcoin Cash	Indian Rupee
+318	BCHABC/ZAR	['AltCoinTrader']	Bitcoin Cash	South African Rand
+319	BCH/AUD	['Synthetic']	Bitcoin Cash	Australian Dollar
+320	BCH/BNB	['Binance']	Bitcoin Cash	Binance Coin
+321	BCH/BRL	['MercadoBitcoin']	Bitcoin Cash	Brazil Real
+322	BCH/BTC	['Bibox', 'Bittrex']	Bitcoin Cash	Bitcoin
+323	BCH/CAD	['Synthetic']	Bitcoin Cash	Canadian Dollar
+324	BCH/CNY	['Synthetic']	Bitcoin Cash	Chinese Yuan
+325	BCH/ETH	['Bibox', 'Exmo']	Bitcoin Cash	Ethereum
+326	BCH/EUR	['Binance', 'BitStamp', 'Coinbase Pro']	Bitcoin Cash	Euro
+327	BCH/GBP	['Coinbase Pro']	Bitcoin Cash	British Pound
+328	BCH/HKD	['Synthetic']	Bitcoin Cash	Hong Kong Dollar
+329	BCH/HT	['Huobi']	Bitcoin Cash	Huobi Token
+330	BCH/ILS	['Synthetic']	Bitcoin Cash	Israeli Shekel
+331	BCH/INR	['Synthetic']	Bitcoin Cash	Indian Rupee
+332	BCH/JPY	['Bitbank', 'Zaif']	Bitcoin Cash	Japanese Yen
+333	BCH/KRW	['Bithumb', 'Upbit']	Bitcoin Cash	Korean Won
+334	BCH/MXN	['Synthetic']	Bitcoin Cash	Mexican Peso
+335	BCH/MYR	['Synthetic']	Bitcoin Cash	Malaysian Ringgit
+336	BCH/PLN	['BitBay', 'Synthetic']	Bitcoin Cash	Polish Zloty
+337	BCH/RUB	['Exmo', 'Synthetic']	Bitcoin Cash	Russian Ruble
+338	BCH/SAR	['Synthetic']	Bitcoin Cash	Saudi Riyal
+339	BCH/SEK	['Synthetic']	Bitcoin Cash	Swedish Krona
+340	BCH/SGD	['QUOINE']	Bitcoin Cash	Singapore Dollar
+341	BCHSV/AUD	['BTC Markets']	Bitcoin SV	Australian Dollar
+342	BCHSV/BTC	['Poloniex']	Bitcoin SV	Bitcoin
+343	BCHSV/DOGE	['YoBit']	Bitcoin SV	Dogecoin
+344	BCHSV/ETH	['Bibox', 'Kucoin']	Bitcoin SV	Ethereum
+345	BCHSV/IDR	['Indodax']	Bitcoin SV	Indonesian Rupiah
+346	BCHSV/INR	['Bitbns']	Bitcoin SV	Indian Rupee
+347	BCHSV/USD	['Bitfinex', 'IDCM']	Bitcoin SV	US Dollar
+348	BCH/THB	['Bitkub']	Bitcoin Cash	Thai Baht
+349	BCH/TRY	['Koinim', 'Paribu', 'Synthetic']	Bitcoin Cash	Turkish Lira
+350	BCH/USD	['Binance', 'Coinbene']	Bitcoin Cash	US Dollar
+351	BCH/VND	['Synthetic']	Bitcoin Cash	Vietnamese Dong
+352	BCH/XRP	['Bitrue']	Bitcoin Cash	XRP
+353	BCH/ZAR	['Synthetic']	Bitcoin Cash	South African Rand
+354	BCI/BTC	['STEX']	Bitcoin Interest	Bitcoin
+355	BCI/USD	['Synthetic']	Bitcoin Interest	US Dollar
+356	BCN/ETH	['HitBTC']	Bytecoin	Ethereum
+357	BCN/USD	['HitBTC']	Bytecoin	US Dollar
+358	BCO/USD	['Synthetic']	BridgeCoin	US Dollar
+359	BCPT/BNB	['Binance DEX']	Blockmason Credit Protocol	Binance Coin
+360	BCPT/BTC	['HitBTC']	Blockmason Credit Protocol	Bitcoin
+361	BCPT/ETH	['HitBTC']	Blockmason Credit Protocol	Ethereum
+362	BCPT/USD	['Synthetic']	Blockmason Credit Protocol	US Dollar
+363	BCV/BTC	['Huobi']	BitCapitalVendor	Bitcoin
+364	BCV/USD	['Synthetic']	BitCapitalVendor	US Dollar
+365	BCX/BTC	['Gate.io', 'Huobi']	BitcoinX	Bitcoin
+366	BCX/USD	['Gate.io']	BitcoinX	US Dollar
+367	BCZERO/BTC	['Livecoin']	Buggyra Coin Zero	Bitcoin
+368	BCZERO/USD	['Synthetic']	Buggyra Coin Zero	US Dollar
+369	BDG/BTC	['HitBTC']	BitDegree	Bitcoin
+370	BDG/ETH	['HitBTC']	BitDegree	Ethereum
+371	BDG/USD	['Synthetic']	BitDegree	US Dollar
+372	BDL/USD	['Synthetic']	Bitdeal	US Dollar
+373	BEAM/BTC	['Binance', 'Hotbit']	Beam	Bitcoin
+374	BEAM/ETH	['Gate.io']	Beam	Ethereum
+375	BEAM/USD	['Binance', 'DragonEX']	Beam	US Dollar
+376	BEE/USD	['Synthetic']	Bee-Token	US Dollar
+377	BELA/BTC	['Mercatox']	Bela	Bitcoin
+378	BELA/USD	['Synthetic']	Bela	US Dollar
+379	BENJI/USD	['Synthetic']	BenjiRolls	US Dollar
+380	BERN/BTC	['YoBit']	BERNcash	Bitcoin
+381	BERN/USD	['Synthetic']	BERNcash	US Dollar
+382	BERRY/BTC	['HitBTC']	Rentberry	Bitcoin
+383	BERRY/ETH	['HitBTC']	Rentberry	Ethereum
+384	BERRY/USD	['HitBTC']	Rentberry	US Dollar
+385	BESTb/BTC	['Bitpanda Pro']	Bitpanda Ecosystem Token	Bitcoin
+386	BESTb/EUR	['Bitpanda Pro']	Bitpanda Ecosystem Token	Euro
+387	BEST/BTC	['YoBit']	BestChain	Bitcoin
+388	BESTb/USD	['Synthetic']	Bitpanda Ecosystem Token	US Dollar
+389	BEST/USD	['Synthetic']	BestChain	US Dollar
+390	BETA/BTC	['Binance']	Beta Finance	Bitcoin
+391	BETA/ETH	['Binance']	Beta Finance	Ethereum
+392	BETA/USD	['Binance']	Beta Finance	US Dollar
+393	BEZ/BTC	['TOPBTC']	Bezop	Bitcoin
+394	BEZ/ETH	['TOPBTC']	Bezop	Ethereum
+395	BEZ/USD	['Synthetic']	Bezop	US Dollar
+396	BFT/BTC	['DragonEX', 'Huobi']	BnkToTheFuture	Bitcoin
+397	BFT/ETH	['Huobi']	BnkToTheFuture	Ethereum
+398	BFT/USD	['Synthetic']	BnkToTheFuture	US Dollar
+399	BIGUP/USD	['Synthetic']	BigUp	US Dollar
+400	BIOB/USD	['Synthetic']	BioBar	US Dollar
+401	BIOS/USD	['Synthetic']	BiosCrypto	US Dollar
+402	BIRDS/USD	['Synthetic']	Birds	US Dollar
+403	BIS/BTC	['Graviex']	Bismuth	Bitcoin
+404	BIS/USD	['Synthetic']	Bismuth	US Dollar
+405	BITB/BTC	['YoBit']	Bean Cash	Bitcoin
+406	BIT/BTC	['Livecoin']	First Bitcoin	Bitcoin
+407	BITB/USD	['Synthetic']	Bean Cash	US Dollar
+408	BITCAR/ETH	['IDEX']	BitCar	Ethereum
+409	BITCAR/USD	['Synthetic']	BitCar	US Dollar
+410	BITOK/ETH	['YoBit']	Bitok	Ethereum
+411	BITOK/USD	['Synthetic']	Bitok	US Dollar
+412	BITS/BTC	['YoBit']	Bitstar	Bitcoin
+413	BITS/USD	['Synthetic']	Bitstar	US Dollar
+414	BIT/USD	['Huobi']	First Bitcoin	US Dollar
+415	BITZ/BTC	['YoBit']	Bitz	Bitcoin
+416	BITZ/USD	['Synthetic']	Bitz	US Dollar
+417	BIX/BTC	['Bibox']	Bibox Token	Bitcoin
+418	BIX/ETH	['Bibox']	Bibox Token	Ethereum
+419	BIX/USD	['Bibox']	Bibox Token	US Dollar
+420	BKX/USD	['Synthetic']	BANKEX	US Dollar
+421	BLAST/USD	['Bybit']	Blast	US Dollar
+422	BLAZR/BTC	['YoBit']	BlazerCoin	Bitcoin
+423	BLAZR/USD	['Synthetic']	BlazerCoin	US Dollar
+424	BLC/BTC	['C-Patex']	Blakecoin	Bitcoin
+425	BLC/USD	['Synthetic']	Blakecoin	US Dollar
+426	BLITZ/USD	['Synthetic']	Blitzcash	US Dollar
+427	BLK/BTC	['Bittrex']	BlackCoin	Bitcoin
+428	BLK/USD	['Synthetic']	BlackCoin	US Dollar
+429	BLN/BTC	['Crex24']	Bolenum	Bitcoin
+430	BLOCK/BTC	['Bittrex']	Blocknet	Bitcoin
+431	BLOCK/USD	['Synthetic']	Blocknet	US Dollar
+432	BLOK/USD	['Gate.io', 'KuCoin']	Bloktopia	US Dollar
+433	BLRY/USD	['Synthetic']	BillaryCoin	US Dollar
+434	BLUE/BTC	['YoBit']	Blue Protocol	Bitcoin
+435	BLUE/ETH	['YoBit']	Blue Protocol	Ethereum
+436	BLUE/USD	['Synthetic']	BLUE	US Dollar
+437	BLUR/USD	['Binance']	Blur	US Dollar
+438	BLU/USD	['Synthetic']	BlueCoin	US Dollar
+439	BLX/USD	['Synthetic']	Blockchain Index	US Dollar
+440	BLZE/BNB	['Binance']	Bluzelle	Binance Coin
+441	BLZE/BTC	['Binance']	Bluzelle	Bitcoin
+442	BLZE/ETH	['Binance', 'Gate.io']	Bluzelle	Ethereum
+443	BLZE/USD	['Gate.io', 'Synthetic']	Bluzelle	US Dollar
+444	BMC/BTC	['HitBTC']	Blackmoon	Bitcoin
+445	BMC/ETH	['HitBTC']	Blackmoon	Ethereum
+446	BMC/USD	['HitBTC']	Blackmoon	US Dollar
+447	BMT/BTC	['YoBit']	BMChain	Bitcoin
+448	BMT/ETH	['YoBit']	BMChain	Ethereum
+449	BMT/RUB	['YoBit']	BMChain	Russian Ruble
+450	BMT/USD	['Synthetic', 'YoBit']	BMChain	US Dollar
+451	BNB/BRL	['Binance']	Binance Coin	Brazil Real
+452	BNB/BTC	['Binance', 'p2pb2b']	Binance Coin	Bitcoin
+453	BNB/CAD	['Synthetic']	BNB	Canadian Dollar
+454	BNB/ETH	['Binance', 'p2pb2b']	Binance Coin	Ethereum
+455	BNB/EUR	['Binance']	Binance Coin	Euro
+456	BNB/INR	['Bitbns']	Binance Coin	Indian Rupee
+457	BNB/TAUD	['Binance DEX']	BNB	TrueAUD
+458	BNB/THB	['Bitkub']	Binance Coin	Thai Baht
+459	BNB/TRY	['Binance']	Binance Coin	Turkish Lira
+460	BNB/USD	['Binance', 'Gate.io']	Binance Coin	US Dollar
+461	BNK/BTC	['HitBTC']	Bankera	Bitcoin
+462	BNK/ETH	['HitBTC']	Bankera	Ethereum
+463	BNK/USD	['HitBTC']	Bankera	US Dollar
+464	BNS/BTC	['Kucoin']	BNS Token	Bitcoin
+465	BNS/INR	['Bitbns']	BNS Token	Indian Rupee
+466	BNS/USD	['Kucoin']	BNS Token	US Dollar
+467	BNT/BTC	['Binance', 'HitBTC']	Bancor	Bitcoin
+468	BNT/ETH	['Binance', 'Bittrex']	Bancor	Ethereum
+469	BNT/USD	['HitBTC', 'OKEx']	Bancor	US Dollar
+470	BNTY/ETH	['Gate.io']	Bounty0x	Ethereum
+471	BNTY/USD	['Gate.io']	Bounty0x	US Dollar
+472	BNXr/BTC	['Binance']	BinaryX	Bitcoin
+473	BNXr/USD	['Binance']	BinaryX	US Dollar
+474	BOAT/USD	['Synthetic']	BOAT	US Dollar
+475	BOK/BTC	['Coineal']	Blockium	Bitcoin
+476	BOK/USD	['Synthetic']	Blockium	US Dollar
+477	BOLI/BTC	['YoBit']	Bolivarcoin	Bitcoin
+478	BORA/KRW	['Upbit']	BORA	Korean Won
+479	BORA/USD	['Synthetic']	BORA	US Dollar
+480	BOX/BTC	['Huobi']	ContentBox	Bitcoin
+481	BOX/USD	['Synthetic']	ContentBox	US Dollar
+482	BPC/BTC	['Livecoin']	Bitpark Coin	Bitcoin
+483	BPCN/USD	['Synthetic']	Big Profit Coin	US Dollar
+484	BPC/USD	['Synthetic']	Bitpark Coin	US Dollar
+485	BPL/USD	['Synthetic']	Blockpool	US Dollar
+486	BQ/USD	['Synthetic']	bitqy	US Dollar
+487	BQX/BTC	['Binance']	Voyager Token	Bitcoin
+488	BQX/ETH	['Binance', 'HitBTC']	Voyager Token	Ethereum
+489	BQX/USD	['Synthetic']	Voyager Token	US Dollar
+490	BRAIN/BTC	['YoBit']	Braincoin	Bitcoin
+491	BRAIN/USD	['Synthetic']	Braincoin	US Dollar
+492	BRAT/USD	['Synthetic']	BROTHER	US Dollar
+493	BRD/BTC	['Binance']	Bread	Bitcoin
+494	BRD/ETH	['Binance']	Bread	Ethereum
+495	BRD/USD	['Synthetic']	Bread	US Dollar
+496	BRETT/USD	['Bybit']	Brett	US Dollar
+497	BRIA/USD	['BTC-Alpha']	BriaCoin	US Dollar
+498	BRIT/USD	['Synthetic']	BritCoin	US Dollar
+499	BRK/USD	['Synthetic']	Breakout	US Dollar
+500	BRO/BTC	['Crex24']	Bitradio	Bitcoin
+501	BRO/USD	['Synthetic']	Bitradio	US Dollar
+502	BRX/USD	['Synthetic']	Breakout Stake	US Dollar
+503	BRZE/BTC	['CoinTiger', 'ProBit Exchange']	Breezecoin	Bitcoin
+504	BRZE/USD	['Synthetic']	Breezecoin	US Dollar
+505	BSC/BTC	['YoBit']	BowsCoin	Bitcoin
+506	BSC/USD	['Synthetic']	BowsCoin	US Dollar
+507	BSN/BTC	['Crex24']	Bastonet	Bitcoin
+508	BSN/USD	['Synthetic']	Bastonet	US Dollar
+509	BSR/USD	['Synthetic']	BitSoar	US Dollar
+510	BSTAR/USD	['Synthetic']	Blackstar	US Dollar
+511	BST/USD	['Synthetic']	BlockStamp	US Dollar
+512	BSTY/BTC	['YoBit']	GlobalBoost-Y	Bitcoin
+513	BSTY/USD	['Synthetic']	GlobalBoost-Y	US Dollar
+514	BSV/BCH	['CoinEx']	Bitcoin SV	Bitcoin Cash
+515	BSV/BTC	['Huobi', 'OKEx']	Bitcoin SV	Bitcoin
+516	BSV/CAD	['Synthetic']	Bitcoin SV	Canadian Dollar
+517	BSV/ETH	['Bittrex']	Bitcoin SV	Ethereum
+518	BSV/EUR	['Synthetic']	Bitcoin SV	Euro
+519	BSV/KRW	['Bithumb', 'Upbit']	Bitcoin SV	Korean Won
+520	BSV/THB	['Bitkub']	Bitcoin SV	Thai Baht
+521	BSV/USD	['Huobi', 'OKEx']	Bitcoin SV	US Dollar
+522	BSV/ZAR	['AltCoinTrader']	Bitcoin SV	South African Rand
+523	BSW/TRY	['Binance']	Biswap	Turkish Lira
+524	BSW/USD	['Binance', 'Gate.io']	Biswap	US Dollar
+525	BTA/BTC	['YoBit']	Bata	Bitcoin
+526	BTA/USD	['Synthetic']	Bata	US Dollar
+527	BTB/BTC	['Livecoin']	BitBar	Bitcoin
+528	BTBc/USD	['Synthetic']	Bitbase	US Dollar
+529	BTB/USD	['Synthetic']	BitBar	US Dollar
+530	BTC2X/USD	['Synthetic']	Bitcoin2x	US Dollar
+531	BTC/AUD	['BTC Markets', 'Independent Reserve']	Bitcoin	Australian Dollar
+532	BTCB/BTC	['HitBTC']	Bitcoin BEP2	Ethereum
+533	BTC/BRL	['Binance', 'MercadoBitcoin', 'NovaDAX']	Bitcoin	Brazil Real
+534	BTCB/USD	['Synthetic']	Bitcoin BEP2	US Dollar
+535	BTC/CAD	['CoinField', 'Kraken']	Bitcoin	Canadian Dollar
+536	BTC/CHF	['Kraken']	Bitcoin	Swiss Franc
+537	BTC/CNY	['TOPBTC']	Bitcoin	Chinese Yuan
+538	BTC/ETH	['Synthetic']	Bitcoin	Ethereum
+539	BTC/EUR	['Binance', 'BitStamp', 'Coinbase Pro', 'Kraken']	Bitcoin	Euro
+540	BTC/GBP	['Binance', 'Coinbase Pro']	Bitcoin	British Pound
+541	BTC/HKD	['QUOINE']	Bitcoin	Hong Kong Dollar
+542	BTC/IDR	['BTC Indonesia', 'Luno']	Bitcoin	Indonesian Rupiah
+543	BTC/ILS	['Synthetic']	Bitcoin	Israeli Shekel
+544	BTC/INR	['Bitbns', 'Synthetic']	Bitcoin	Indian Rupee
+545	BTC/JPY	['bitFlyer', 'BTCBOX']	Bitcoin	Japanese Yen
+546	BTC/KRW	['Bithumb', 'Coinone', 'Upbit']	Bitcoin	Korean Won
+547	BTCM/BTC	['YoBit']	BTCMoon	Bitcoin
+548	BTCM/USD	['YoBit']	BTCMoon	US Dollar
+549	BTC/MXN	['Bitso', 'Synthetic']	Bitcoin	Mexican Peso
+550	BTC/MYR	['Luno', 'Synthetic']	Bitcoin	Malaysian Ringgit
+551	BTC/NGN	['Luno']	Bitcoin	Nigerian Naira
+552	BTC/NZD	['Independent Reserve']	Bitcoin	New Zealand Dollar
+553	BTCP/BTC	['TOPBTC', 'TradeOgre']	Bitcoin Private	Bitcoin
+554	BTC/PEN	['Bitinka']	Bitcoin	Peru Sol
+555	BTC/PLN	['BitBay', 'Exmo']	Bitcoin	Polish Zloty
+556	BTCP/USD	['Synthetic']	Bitcoin Private	US Dollar
+557	BTCR/BTC	['YoBit']	Bitcurrency	Bitcoin
+558	BTCRED/BTC	['YoBit']	Bitcoin Red	Bitcoin
+559	BTCRED/USD	['YoBit']	Bitcoin Red	US Dollar
+560	BTC/RUB	['CEX.IO', 'Exmo']	Bitcoin	Russian Ruble
+561	BTCR/USD	['Synthetic']	Bitcurrency	US Dollar
+562	BTC/SAR	['Synthetic']	Bitcoin	Saudi Riyal
+563	BTC/SEK	['Synthetic']	Bitcoin	Swedish Krona
+564	BTC/SGD	['Luno', 'QUOINE']	Bitcoin	Singapore Dollar
+565	BTCST/BTC	['Binance']	Bitcoin Standard Hashrate Token	Bitcoin
+566	BTCST/ETH	['Gate.io']	Bitcoin Standard Hashrate Token	Ethereum
+567	BTCST/USD	['Binance', 'Gate.io']	Bitcoin Standard Hashrate Token	US Dollar
+568	BTCS/USD	['Synthetic']	Bitcoin Scrypt	US Dollar
+569	BTC/THB	['Bitkub', 'Satang Pro']	Bitcoin	Thai Baht
+570	BTC/TRY	['BTCTurk', 'Paribu']	Bitcoin	Turkish Lira
+571	BTC/UAH	['Exmo']	Bitcoin	Ukrainian Hryvnia
+572	BTC/UGX	['Luno']	Bitcoin	Ugandan Shilling
+573	BTC/USD	['Binance', 'Bitfinex', 'Coinbase Pro', 'FTX']	Bitcoin	US Dollar
+574	BTCV/BTC	['Coineal', 'MXC']	Bitcoin Vault	Bitcoin
+575	BTC/VND	['Synthetic']	Bitcoin	Vietnamese Dong
+576	BTCV/USD	['Coineal', 'MXC']	Bitcoin Vault	US Dollar
+577	BTC/XAU	['Synthetic']	Bitcoin	Gold Spot
+578	BTC/XRP	['CoinField']	Bitcoin	XRP
+579	BTC/ZAR	['Luno', 'Synthetic']	Bitcoin	South African Rand
+580	BTCZ/BTC	['Graviex']	BitcoinZ	Bitcoin
+581	BTC/ZMW	['Luno']	Bitcoin	Zambia Kwacha
+582	BTCZ/USD	['BTC-Alpha', 'Synthetic']	BitcoinZ	US Dollar
+583	BTDX/BTC	['Crex24']	Bitcloud	Bitcoin
+584	BTDX/USD	['Synthetic']	Bitcloud	US Dollar
+585	BTE/USD	['Synthetic']	BitSerial	US Dollar
+586	BTG/AUD	['Synthetic']	Bitcoin Gold	Australian Dollar
+587	BTG/BTC	['Binance', 'HitBTC']	Bitcoin Gold	Bitcoin
+588	BTG/CAD	['Synthetic']	Bitcoin Gold	Canadian Dollar
+589	BTG/CNY	['Synthetic']	Bitcoin Gold	Chinese Yuan
+590	BTG/ETH	['HitBTC']	Bitcoin Gold	Ethereum
+591	BTG/HKD	['Synthetic']	Bitcoin Gold	Hong Kong Dollar
+592	BTG/ILS	['Synthetic']	Bitcoin Gold	Israeli Shekel
+593	BTG/INR	['Synthetic']	Bitcoin Gold	Indian Rupee
+594	BTG/KRW	['Bithumb', 'Upbit']	Bitcoin Gold	Korean Won
+595	BTG/MXN	['Synthetic']	Bitcoin Gold	Mexican Peso
+596	BTG/MYR	['Synthetic']	Bitcoin Gold	Malaysian Ringgit
+597	BTG/PLN	['BitBay', 'Synthetic']	Bitcoin Gold	Polish Zloty
+598	BTG/RUB	['Synthetic']	Bitcoin Gold	Russian Ruble
+599	BTG/SAR	['Synthetic']	Bitcoin Gold	Saudi Riyal
+600	BTG/SEK	['Synthetic']	Bitcoin Gold	Swedish Krona
+601	BTG/TRY	['Bitci.com', 'Synthetic']	Bitcoin Gold	Turkish Lira
+602	BTG/USD	['HitBTC', 'OKEx']	Bitcoin Gold	US Dollar
+603	BTG/VND	['Synthetic']	Bitcoin Gold	Vietnamese Dong
+604	BTG/ZAR	['Synthetic']	Bitcoin Gold	South African Rand
+605	BTK/USD	['Synthetic']	Bitcoin Turbo Koin	US Dollar
+606	BTMA/USD	['Synthetic']	Bitmark	US Dollar
+607	BTM/BTC	['Bibox', 'Gate.io', 'Huobi', 'OKEx']	Bytom	Bitcoin
+608	BTM/ETH	['Bibox', 'OKEx']	Bytom	Ethereum
+609	BTM/USD	['Bibox', 'Huobi', 'OKEx']	Bytom	US Dollar
+610	BTO/BTC	['Crex24']	Bottos	Bitcoin
+611	BTO/ETH	['Gate.io']	Bottos	Ethereum
+612	BTO/USD	['Gate.io']	Bottos	US Dollar
+613	BTPL/USD	['Synthetic']	Bitcoin Planet	US Dollar
+614	BTS/BTC	['Binance', 'Huobi']	BitShares	Bitcoin
+615	BTS/ETH	['CoinTiger', 'Huobi']	BitShares	Ethereum
+616	BTS/USD	['Binance', 'Gate.io', 'Huobi', 'Synthetic']	BitShares	US Dollar
+617	BTT/INR	['Bitbns']	BitTorrent (New)	Indian Rupee
+618	BTT/KRW	['Bithumb', 'Upbit']	BitTorrent (New)	Korean Won
+619	BTTN/BNB	['Binance']	BitTorrent	Binance Coin
+620	BTTN/BRL	['NovaDAX']	BitTorrent	Brazil Real
+621	BTTN/BTC	['Huobi', 'OKEx']	BitTorrent	Bitcoin
+622	BTTN/ETH	['Huobi', 'Kucoin']	BitTorrent	Ethereum
+623	BTTN/EUR	['Binance']	BitTorrent	Euro
+624	BTTN/IDR	['Indodax']	BitTorrent	Indonesian Rupiah
+625	BTTN/INR	['Bitbns']	BitTorrent	Indian Rupee
+626	BTTN/KRW	['Bithumb', 'Upbit']	BitTorrent	Korean Won
+627	BTTN/TRX	['LATOKEN']	BitTorrent	TRON
+628	BTTN/TRY	['Binance', 'Paribu']	BitTorrent	Turkish Lira
+629	BTTN/USD	['Binance', 'Huobi']	BitTorrent	US Dollar
+630	BTT/TRX	['Poloniex']	BitTorrent (New)	TRON
+631	BTT/TRY	['Binance', 'Paribu']	BitTorrent (New)	Turkish Lira
+632	BTT/USD	['Binance', 'KuCoin', 'Poloniex']	BitTorrent (New)	US Dollar
+633	BTUp/BTC	['Bittrex']	BTU Protocol	Bitcoin
+634	BTUp/USD	['Synthetic']	BTU Protocol	US Dollar
+635	BTW/USD	['Synthetic']	BitWhite	US Dollar
+636	BTXN/TRY	['Bitexen']	BTXN Coin	Turkish Lira
+637	BTXN/USD	['Synthetic']	BTXN Coin	US Dollar
+638	BTX/USD	['Hotbit']	BitCore	US Dollar
+639	BUB/BTC	['YoBit']	Bubble	Bitcoin
+640	BU/BTC	['Hotbit']	BUMO	Bitcoin
+641	BUB/USD	['Synthetic']	Bubble	US Dollar
+642	BUCKS/BTC	['YoBit']	SwagBucks	Bitcoin
+643	BUCKS/USD	['Synthetic']	SwagBucks	US Dollar
+644	BUL/BTC	['Crex24']	Bulleon	Bitcoin
+645	BUL/USD	['Synthetic']	Bulleon	US Dollar
+646	BUMBA/USD	['Synthetic']	BumbaCoin	US Dollar
+647	BUSD/INR	['Bitbns']	Binance USD	Indian Rupee
+648	BUSD/USD	['Binance', 'LBank']	Binance USD	US Dollar
+649	BU/USD	['Gate.io', 'Synthetic']	BUMO	US Dollar
+650	BUZZ/USD	['Synthetic']	BuzzCoin	US Dollar
+651	BVC/BTC	['YoBit']	BeaverCoin	Bitcoin
+652	BVC/USD	['Synthetic']	BeaverCoin	US Dollar
+653	BWK/BTC	['Crex24']	Bulwark	Bitcoin
+654	BWK/USD	['Synthetic']	Bulwark	US Dollar
+655	BXC/USD	['Synthetic']	Bitcedi	US Dollar
+656	BXT/BTC	['YoBit']	BitTokens	Bitcoin
+657	BXT/USD	['Synthetic']	BitTokens	US Dollar
+658	BYC/USD	['Synthetic']	Bytecent	US Dollar
+659	BZE/BTC	['Crex24']	BZEdge	Bitcoin
+660	BZE/USD	['Synthetic']	BZEdge	US Dollar
+661	BZNT/BNB	['Binance DEX']	Bezant	Binance Coin
+662	BZNT/USD	['Synthetic']	Bezant	US Dollar
+663	BZX/BTC	['Crex24']	Bitcoin Zero	Bitcoin
+664	BZX/USD	['Synthetic']	Bitcoin Zero	US Dollar
+665	C20/BTC	['HitBTC']	CRYPTO20	Bitcoin
+666	C20/ETH	['HitBTC']	CRYPTO20	Ethereum
+667	C20/USD	['Synthetic']	CRYPTO20	US Dollar
+668	C2/BTC	['YoBit']	Coin2.1	Bitcoin
+669	C2/USD	['Synthetic']	Coin2.1	US Dollar
+670	C98/BTC	['Binance']	Coin98	Bitcoin
+671	C98/USD	['Binance']	Coin98	US Dollar
+672	CAB/BTC	['YoBit']	Cabbage	Bitcoin
+673	CAB/USD	['Synthetic']	Cabbage	US Dollar
+674	CAG/BTC	['Kucoin']	Change	Bitcoin
+675	CAG/USD	['Synthetic']	Change	US Dollar
+676	CAKE/BNB	['Binance']	PancakeSwap	Binance Coin
+677	CAKE/BRL	['NovaDAX']	PancakeSwap	Brazil Real
+678	CAKE/BTC	['Binance']	PancakeSwap	Bitcoin
+679	CAKE/INR	['Bitbns']	PancakeSwap	Indian Rupee
+680	CAKE/USD	['Binance', 'MXC']	PancakeSwap	US Dollar
+681	CALC/USD	['Synthetic']	CaliphCoin	US Dollar
+682	CAN/BNB	['Binance DEX']	CanYaCoin	Binance Coin
+683	CANN/BTC	['YoBit']	CannabisCoin	Bitcoin
+684	CANN/USD	['Synthetic']	CannabisCoin	US Dollar
+685	CAN/USD	['Synthetic']	CanYaCoin	US Dollar
+686	CAPP/BTC	['Kucoin']	Cappasity	Bitcoin
+687	CAPP/ETH	['Kucoin']	Cappasity	Ethereum
+688	CAPP/USD	['Synthetic']	Cappasity	US Dollar
+689	CARBON/USD	['YoBit']	Carboncoin	US Dollar
+690	CARD/BTC	['Hotbit']	Cardstack	Bitcoin
+691	CARD/ETH	['Hotbit']	Cardstack	Ethereum
+692	CARD/USD	['Synthetic']	Cardstack	US Dollar
+693	CASH/USD	['Synthetic']	Cashcoin	US Dollar
+694	CAT/USD	['Synthetic']	BlockCAT	US Dollar
+695	CBBTC/USD	['Uniswap']	Coinbase Wrapped BTC	US Dollar
+696	CBC/BTC	['YoBit']	CryptoBossCoin	Bitcoin
+697	CBC/USD	['Coinsbit', 'Synthetic']	CryptoBossCoin	US Dollar
+698	CBD/USD	['Synthetic']	CBD Crystals	US Dollar
+699	CBT/USD	['Synthetic']	CommerceBlock	US Dollar
+700	CBX/BTC	['YoBit']	Crypto Bullion	Bitcoin
+701	CBXN/BTC	['Crex24']	Bullion	Bitcoin
+702	CBXN/USD	['Synthetic']	Bullion	US Dollar
+703	CBX/USD	['Synthetic']	Crypto Bullion	US Dollar
+704	CCO/ETH	['Mercatox']	Ccore	Ethereum
+705	CCO/USD	['Synthetic']	Ccore	US Dollar
+706	CCRB/BTC	['BTC-Alpha']	CryptoCarbon	Bitcoin
+707	CCRB/USD	['Synthetic']	CryptoCarbon	US Dollar
+708	CCT/BTC	['YoBit']	Crystal Clear	Bitcoin
+709	CCT/USD	['Synthetic']	Crystal Clear	US Dollar
+710	CDM/USD	['Synthetic']	Condominium	US Dollar
+711	CDN/USD	['Synthetic']	Canada eCoin	US Dollar
+712	CDT/BTC	['Binance', 'HitBTC']	CoinDash	Bitcoin
+713	CDT/ETH	['Binance', 'Gate.io']	CoinDash	Ethereum
+714	CDT/USD	['Gate.io']	CoinDash	US Dollar
+715	CDX/BTC	['Livecoin']	CDX Network	Bitcoin
+716	CDX/USD	['Synthetic']	CDX Network	US Dollar
+717	CEEK/USD	['Gate.io']	CEEK VR	US Dollar
+718	CEL/CAD	['Synthetic']	Celsius	Canadian Dollar
+719	CEL/ETH	['Gate.io', 'Liquid']	Celsius	Ethereum
+720	CELO/CAD	['Synthetic']	Celo	Canadian Dollar
+721	CELO/USD	['Binance', 'Gate.io']	Celo	US Dollar
+722	CELR/BNB	['Binance']	Celer Network	Binance Coin
+723	CELR/BTC	['Binance']	Celer Network	Bitcoin
+724	CELR/USD	['Binance', 'Gate.io']	Celer Network	US Dollar
+725	CEL/USD	['FTX', 'Synthetic']	Celsius	US Dollar
+726	CENNZ/BTC	['HitBTC']	Centrality	Bitcoin
+727	CENNZ/ETH	['HitBTC']	Centrality	Ethereum
+728	CENNZ/USD	['Synthetic']	Centrality	US Dollar
+729	CET/BCH	['CoinEx']	CoinEx Token	Bitcoin Cash
+730	CET/BTC	['CoinEx']	CoinEx Token	Bitcoin
+731	CET/ETH	['CoinEx']	CoinEx Token	Ethereum
+732	CET/USD	['CoinEx']	CoinEx Token	US Dollar
+733	CF/BTC	['YoBit']	Californium	Bitcoin
+734	CFC/USD	['Synthetic']	CoffeeCoin	US Dollar
+735	CFD/USD	['Synthetic']	Confido	US Dollar
+736	CF/USD	['Synthetic']	Californium	US Dollar
+737	CFX/BTC	['Binance']	Conflux	Bitcoin
+738	CFX/USD	['Binance']	Conflux	US Dollar
+739	CGLD/BTC	['Coinbase Pro']	Celo	Bitcoin
+740	CGLD/USD	['Coinbase Pro']	Celo	US Dollar
+741	CHAT/BTC	['Huobi']	ChatCoin	Bitcoin
+742	CHAT/ETH	['Huobi']	ChatCoin	Ethereum
+743	CHAT/USD	['ZB.COM']	ChatCoin	US Dollar
+744	CHC/USD	['Synthetic']	ChainCoin	US Dollar
+745	CHEAP/USD	['Synthetic']	Cheapcoin	US Dollar
+746	CHESS/BTC	['YoBit']	ChessCoin	Bitcoin
+747	CHESS/USD	['Synthetic']	ChessCoin	US Dollar
+748	CHR/BTC	['Binance']	Chromia	Bitcoin
+749	CHR/USD	['Binance', 'Huobi']	Chromia	US Dollar
+750	CHSB/BTC	['HitBTC']	SwissBorg	Bitcoin
+751	CHSB/ETH	['HitBTC']	SwissBorg	Ethereum
+752	CHSB/USD	['Synthetic']	SwissBorg	US Dollar
+753	CHZ/BRL	['MercadoBitcoin']	Chiliz	Brazil Real
+754	CHZ/BTC	['Binance']	Chiliz	Bitcoin
+755	CHZ/CAD	['Synthetic']	Chiliz	Canadian Dollar
+756	CHZ/EUR	['Binance']	Chiliz	Euro
+757	CHZ/INR	['Bitbns']	Chiliz	Indian Rupee
+758	CHZ/TRY	['Binance', 'Paribu']	Chiliz	Turkish Lira
+759	CHZ/USD	['Binance', 'BitMax', 'XT.COM']	Chiliz	US Dollar
+760	CIX100/USD	['Kucoin']	Cryptoindex.com 100	US Dollar
+761	CJ/USD	['Synthetic']	Cryptojacks	US Dollar
+762	CKB/BUSD	['Binance']	Nervos Network	Binance USD
+763	CKB/USD	['Binance', 'Huobi']	Nervos Network	US Dollar
+764	CLAM/BTC	['YoBit']	Clams	Bitcoin
+765	CLAM/USD	['Synthetic']	Clams	US Dollar
+766	CLOAK/BTC	['YoBit']	CloakCoin	Bitcoin
+767	CLOAK/USD	['Synthetic']	CloakCoin	US Dollar
+768	CLO/BTC	['HitBTC']	Callisto Network	Bitcoin
+769	CLO/ETH	['HitBTC']	Callisto Network	Ethereum
+770	CLO/USD	['Bitfinex', 'HitBTC']	Callisto Network	US Dollar
+771	CLUB/BTC	['YoBit']	ClubCoin	Bitcoin
+772	CLUB/USD	['Synthetic']	ClubCoin	US Dollar
+773	CMCT/ETH	['HitBTC']	Crowd Machine	Ethereum
+774	CMCT/USD	['HitBTC']	Crowd Machine	US Dollar
+775	CME/USD	['Synthetic']	Cashme	US Dollar
+776	CMPCO/USD	['Synthetic']	CampusCoin	US Dollar
+777	CMS/BTC	['YoBit']	COMSA [ETH]	Bitcoin
+778	CMS/USD	['Synthetic']	COMSA [ETH]	US Dollar
+779	CMTA/BTC	['YoBit']	Comet	Bitcoin
+780	CMTA/USD	['Synthetic']	Comet	US Dollar
+781	CMT/BTC	['CoinEx', 'Huobi']	CyberMiles	Bitcoin
+782	CMT/ETH	['Huobi']	CyberMiles	Ethereum
+783	CMT/USD	['Synthetic']	CyberMiles	US Dollar
+784	CND/BTC	['Binance', 'HitBTC']	Cindicator	Bitcoin
+785	CND/ETH	['HitBTC']	Cindicator	Ethereum
+786	CND/USD	['HitBTC']	Cindicator	US Dollar
+787	CNNC/BTC	['YoBit']	Cannation	Bitcoin
+788	CNNC/USD	['Synthetic']	Cannation	US Dollar
+789	CNO/USD	['Synthetic']	Coin(O)	US Dollar
+790	CNT/BTC	['YoBit']	Centurion	Bitcoin
+791	CNT/USD	['Synthetic']	Centurion	US Dollar
+792	CNX/USD	['Cryptonex']	Cryptonex	US Dollar
+793	COAL/USD	['Synthetic']	BitCoal	US Dollar
+794	COB/BTC	['Mercatox']	Cobinhood	Bitcoin
+795	COB/USD	['Synthetic']	Cobinhood	US Dollar
+796	COCOS/USD	['Binance']	Cocos-BCX	US Dollar
+797	COFI/BTC	['Kucoin']	CoinFi	Bitcoin
+798	COFI/ETH	['Gate.io']	CoinFi	Ethereum
+799	COFI/USD	['Gate.io']	CoinFi	US Dollar
+800	COLX/BTC	['Crex24']	ColossusXT	Bitcoin
+801	COLX/USD	['Synthetic']	ColossusCoinXT	US Dollar
+802	COMP/BTC	['Binance', 'Coinbase Pro', 'OKEx']	Compound	Bitcoin
+803	COMP/CAD	['Synthetic']	Compound	Canadian Dollar
+804	COMP/USD	['Binance', 'Coinbase Pro', 'OKEx']	Compound	US Dollar
+805	CON/BTC	['YoBit']	PayCon	Bitcoin
+806	CON/USD	['Synthetic']	PayCon	US Dollar
+807	CONX/BTC	['YoBit']	Concoin	Bitcoin
+808	CONX/USD	['Synthetic']	Concoin	US Dollar
+809	COOK/USD	['Gate.io']	Cook Finance	US Dollar
+810	CORE/USD	['Bybit']	Core	US Dollar
+811	CORE/USD	['Gate.io']	cVault.finance	US Dollar
+812	CORG/USD	['Synthetic']	CorgiCoin	US Dollar
+813	COR/USD	['Synthetic']	CORION	US Dollar
+814	COS/USD	['Synthetic']	COS	US Dollar
+815	COT/ETH	['Hotbit']	CoTrader	Ethereum
+816	COTI/BTC	['Binance', 'Kucoin']	COTI	Bitcoin
+817	COTI/USD	['Binance', 'Huobi']	COTI	US Dollar
+818	COT/USD	['Synthetic']	CoTrader	US Dollar
+819	COUPE/USD	['Synthetic']	Coupecoin	US Dollar
+820	COVAL/USD	['Coinbase Pro', 'Gate.io', 'Synthetic']	Circuits of Value	US Dollar
+821	COV/BTC	['HitBTC', 'Kucoin']	Covesting	Bitcoin
+822	COV/ETH	['HitBTC', 'Kucoin']	Covesting	Ethereum
+823	COV/USD	['Synthetic']	Covesting	US Dollar
+824	CPCH/BTC	['Bibox']	CPChain	Bitcoin
+825	CPCH/ETH	['Bibox']	CPChain	Ethereum
+826	CPCH/USD	['Synthetic']	CPChain	US Dollar
+827	CPC/USD	['Livecoin']	Capricoin	US Dollar
+828	CRAVE/BTC	['YoBit']	Crave	Bitcoin
+829	CRAVE/USD	['Synthetic']	Crave	US Dollar
+830	CRB/USD	['Synthetic']	Creditbit	US Dollar
+831	CRCA/BTC	['YoBit']	CryCash	Bitcoin
+832	CRCA/DOGE	['YoBit']	CryCash	Dogecoin
+833	CRCA/ETH	['YoBit']	CryCash	Ethereum
+834	CRCA/RUB	['YoBit']	CryCash	Russian Ruble
+835	CRCA/USD	['YoBit']	CryCash	US Dollar
+836	CRCA/WAVES	['YoBit']	CryCash	Waves
+837	CRDNC/USD	['Synthetic']	Credence Coin	US Dollar
+838	CRED/BTC	['YoBit']	Verify	Bitcoin
+839	CREDO/USD	['Synthetic']	Credo	US Dollar
+840	CRED/USD	['Synthetic']	Verify	US Dollar
+841	CREVA/USD	['Synthetic']	CrevaCoin	US Dollar
+842	CRM/BTC	['Graviex']	Cream	Bitcoin
+843	CRM/USD	['Synthetic']	Cream	US Dollar
+844	CRO/BTC	['Bittrex', 'HitBTC', 'Huobi']	Crypto.com Coin	Bitcoin
+845	CRO/EUR	['Bittrex']	Crypto.com Coin	Euro
+846	CRO/IDR	['Indodax']	Crypto.com Coin	Indonesian Rupiah
+847	CRO/KRW	['Bithumb']	Crypto.com Coin	Korean Won
+848	CRO/USD	['Kucoin', 'OKEx']	Crypto.com Coin	US Dollar
+849	CRPT/BTC	['HitBTC', 'Kucoin']	Crypterium	Bitcoin
+850	CRPT/ETH	['Kucoin', 'Liquid']	Crypterium	Ethereum
+851	CRPT/USD	['HitBTC', 'Synthetic']	Crypterium	US Dollar
+852	CRTM/USD	['Synthetic']	Corethum	US Dollar
+853	CRV/BTC	['Binance']	Curve DAO Token	Bitcoin
+854	CRV/EUR	['Coinbase Pro']	Curve DAO Token	Euro
+855	CRV/INR	['Bitbns']	Curve DAO Token	Indian Rupee
+856	CRV/TRY	['Paribu']	Curve DAO Token	Turkish Lira
+857	CRV/USD	['Binance', 'Huobi']	Curve DAO Token	US Dollar
+858	CRVUSD/USD	['Gate.io']	crvUSD	US Dollar
+859	CRW/BTC	['Bittrex', 'YoBit']	Crown	Bitcoin
+860	CRW/USD	['Synthetic']	Crown	US Dollar
+861	CRX/USD	['Synthetic']	Chronos	US Dollar
+862	CS/BTC	['Kucoin']	Credits	Bitcoin
+863	CS/ETH	['CoinTiger', 'Kucoin']	Credits	Ethereum
+864	CSNO/USD	['Synthetic']	BitDice	US Dollar
+865	CSPR/USD	['Gate.io', 'Huobi']	Casper	US Dollar
+866	CS/USD	['Synthetic']	Credits	US Dollar
+867	CTIC2/BTC	['YoBit']	Coimatic 2.0	Bitcoin
+868	CTIC2/USD	['Synthetic']	Coimatic 2.0	US Dollar
+869	CTIC3/USD	['Synthetic']	Coimatic 3.0	US Dollar
+870	CTSI/BNB	['Binance']	Cartesi	Binance Coin
+871	CTSI/BTC	['Binance']	Cartesi	Bitcoin
+872	CTSI/USD	['Binance']	Cartesi	US Dollar
+873	CTXC/BTC	['CoinEx', 'Huobi']	Cortex	Bitcoin
+874	CTXC/ETH	['CoinTiger', 'Huobi']	Cortex	Ethereum
+875	CTXC/USD	['Binance', 'Huobi']	Cortex	US Dollar
+876	CTX/USD	['Synthetic']	CarTaxi Token	US Dollar
+877	CURE/BTC	['Bittrex']	Curecoin	Bitcoin
+878	CURE/USD	['Synthetic']	Curecoin	US Dollar
+879	CV2/USD	['Synthetic']	Colossuscoin V2	US Dollar
+880	CV/BTC	['Kucoin']	carVertical	Bitcoin
+881	CVC/BTC	['Binance', 'OKEx']	Civic	Bitcoin
+882	CVC/ETH	['Binance', 'Bittrex', 'Gate.io', 'Huobi']	Civic	Ethereum
+883	CVC/KRW	['Upbit']	Civic	Korean Won
+884	CVC/THB	['Bitkub']	Civic	Thai Baht
+885	CVC/USD	['Binance', 'OKEx']	Civic	US Dollar
+886	CV/ETH	['Kucoin']	carVertical	Ethereum
+887	CVT/BTC	['Bit-Z', 'HitBTC']	CyberVein	Bitcoin
+888	CVT/ETH	['Bit-Z', 'HitBTC']	CyberVein	Ethereum
+889	CVT/INR	['Bitbns']	CyberVein	Indian Rupee
+890	CVT/USD	['HitBTC', 'Synthetic']	CyberVein	US Dollar
+891	CV/USD	['Synthetic']	carVertical	US Dollar
+892	CVX/BTC	['Binance']	Convex Finance	Bitcoin
+893	CVX/USD	['Binance', 'Gate.io', 'KuCoin']	Convex Finance	US Dollar
+894	CWXT/USD	['Synthetic']	CryptoWorldX Token	US Dollar
+895	CXT/BTC	['YoBit']	Coinonat	Bitcoin
+896	CXT/USD	['Synthetic']	Coinonat	US Dollar
+897	CYC/USD	['Synthetic']	Cycling Coin	US Dollar
+898	CYDER/USD	['Synthetic']	Cyder	US Dollar
+899	DAG/BTC	['Kucoin']	Constellation	Bitcoin
+900	DAG/ETH	['Kucoin']	Constellation	Ethereum
+901	DAG/USD	['Synthetic']	Constellation	US Dollar
+902	DAI/BTC	['Bittrex', 'Ethfinex']	Dai	Bitcoin
+903	DAI/CAD	['Synthetic']	Dai	Canadian Dollar
+904	DAI/ETH	['Bittrex', 'Ethfinex']	Dai	Ethereum
+905	DAI/USD	['Coinbase Pro', 'Ethfinex', 'Gate.io']	Dai	US Dollar
+906	DALC/BTC	['YoBit']	Dalecoin	Bitcoin
+907	DALC/USD	['Synthetic']	Dalecoin	US Dollar
+908	DARn/BNB	['Binance']	Mines of Dalarnia	BNB
+909	DARn/BTC	['Binance']	Mines of Dalarnia	Bitcoin
+910	DARn/USD	['Binance']	Mines of Dalarnia	US Dollar
+911	DASH/AUD	['Synthetic']	Dash	Australian Dollar
+912	DASH/BCH	['CoinEx', 'SouthXchange']	Dash	Bitcoin Cash
+913	DASH/BNB	['Binance']	Dash	Binance Coin
+914	DASH/BTC	['Binance', 'HitBTC', 'OKEx']	Dash	Bitcoin
+915	DASH/CAD	['Synthetic']	Dash	Canadian Dollar
+916	DASH/CNY	['Synthetic']	Dash	Chinese Yuan
+917	DASH/ETH	['HitBTC', 'p2pb2b']	Dash	Ethereum
+918	DASH/EUR	['CEX.IO', 'Kraken']	Dash	Euro
+919	DASHG/BTC	['Graviex']	Dash Green	Bitcoin
+920	DASHG/USD	['Synthetic']	Dash Green	US Dollar
+921	DASH/HKD	['Synthetic']	Dash	Hong Kong Dollar
+922	DASH/ILS	['Synthetic']	Dash	Israeli Shekel
+923	DASH/INR	['Synthetic']	Dash	Indian Rupee
+924	DASH/JPY	['Synthetic']	Dash	Japanese Yen
+925	DASH/KRW	['Synthetic']	Dash	Korean Won
+926	DASH/MXN	['Synthetic']	Dash	Mexican Peso
+927	DASH/MYR	['Synthetic']	Dash	Malaysian Ringgit
+928	DASH/PLN	['BitBay', 'Synthetic']	Dash	Polish Zloty
+929	DASH/RUB	['Exmo', 'Synthetic']	Dash	Russian Ruble
+930	DASH/SAR	['Synthetic']	Dash	Saudi Riyal
+931	DASHS/BTC	['YoBit']	Dashs	Bitcoin
+932	DASH/SEK	['Synthetic']	Dash	Swedish Krona
+933	DASHS/USD	['Synthetic']	Dashs	US Dollar
+934	DASH/TRY	['Bitci.com', 'BTCTurk', 'Koinim', 'Synthetic']	Dash	Turkish Lira
+935	DASH/USD	['Binance', 'Huobi', 'OKEx', 'ZB.COM']	Dash	US Dollar
+936	DASH/VND	['Synthetic']	Dash	Vietnamese Dong
+937	DASH/ZAR	['Synthetic']	Dash	South African Rand
+938	DATA/BTC	['Binance', 'Bitfinex']	Streamr	Bitcoin
+939	DATA/ETH	['Gate.io']	Streamr DATAcoin	Ethereum
+940	DATA/USD	['Bitfinex', 'Gate.io']	Streamr DATAcoin	US Dollar
+941	DAT/BTC	['Huobi']	Datum	Bitcoin
+942	DAT/ETH	['Huobi']	Datum	Ethereum
+943	DAT/USD	['Synthetic']	Datum	US Dollar
+944	DAV/USD	['Synthetic']	DavorCoin	US Dollar
+945	DAX/IDR	['Indodax']	DAEX	Indonesian Rupiah
+946	DAX/USD	['Synthetic']	DAEX	US Dollar
+947	DAY/ETH	['HitBTC']	Chronologic	Ethereum
+948	DAY/USD	['Synthetic']	Chronologic	US Dollar
+949	DBC/BTC	['Huobi', 'Kucoin']	DeepBrain Chain	Bitcoin
+950	DBC/ETH	['Huobi', 'Kucoin']	DeepBrain Chain	Ethereum
+951	DBC/INR	['Bitbns']	DeepBrain Chain	Indian Rupee
+952	DBC/USD	['Gate.io']	DeepBrain Chain	US Dollar
+953	DBG/BTC	['YoBit']	Digital Bullion Gold	Bitcoin
+954	DBG/USD	['Synthetic']	Digital Bullion Gold	US Dollar
+955	DBIX/BTC	['HitBTC']	DubaiCoin	Bitcoin
+956	DBIX/USD	['Synthetic']	DubaiCoin	US Dollar
+957	D/BTC	['SouthXchange']	Denarius	Bitcoin
+958	DBTC/USD	['Synthetic']	Debitcoin	US Dollar
+959	DCC/USD	['Synthetic']	Distributed Credit Chain	US Dollar
+960	DCN/ETH	['HitBTC']	Dentacoin	Ethereum
+961	DCN/USD	['HitBTC']	Dentacoin	US Dollar
+962	DCR/BTC	['Binance', 'Bittrex']	Decred	Bitcoin
+963	DCRE/BTC	['YoBit']	DeltaCredits	Bitcoin
+964	DCRE/USD	['Synthetic']	DeltaCredits	US Dollar
+965	DCR/USD	['Binance', 'MXC', 'OKEx', 'Synthetic']	Decred	US Dollar
+966	DCT/BTC	['HitBTC']	DECENT	Bitcoin
+967	DCT/USD	['Synthetic']	DECENT	US Dollar
+968	DCY/BTC	['BTC-Alpha']	Dinastycoin	Bitcoin
+969	DCY/USD	['Synthetic']	Dinastycoin	US Dollar
+970	DDD/BTC	['Gate.io']	Scry.info	Bitcoin
+971	DDD/ETH	['Gate.io']	Scry.info	Ethereum
+972	DDD/USD	['Gate.io']	Scry.info	US Dollar
+973	DDF/USD	['Synthetic']	DigitalDevelopersFund	US Dollar
+974	DDK/BTC	['FinexBox', 'ProBit Exchange']	DDKoin	Bitcoin
+975	DDK/USD	['ProBit Exchange']	DDKoin	US Dollar
+976	DEEX/BTC	['BTC-Alpha']	DEEX	Bitcoin
+977	DEEX/USD	['BTC-Alpha']	DEEX	US Dollar
+978	DEGEN/USD	['Bybit']	Degen	US Dollar
+979	DEM/BTC	['YoBit']	Deutsche eMark	Bitcoin
+980	DEM/USD	['Synthetic']	Deutsche eMark	US Dollar
+981	DENT/BTC	['Kucoin', 'Upbit']	Dent	Bitcoin
+982	DENT/ETH	['Binance', 'Kucoin']	Dent	Ethereum
+983	DENT/INR	['Bitbns']	Dent	Indian Rupee
+984	DENT/USD	['Binance', 'HitBTC']	Dent	US Dollar
+985	DERO/BTC	['TradeOgre']	Dero	Bitcoin
+986	DERO/USD	['Synthetic']	Dero	US Dollar
+987	DES/BTC	['YoBit']	Destiny	Bitcoin
+988	DES/USD	['Synthetic']	Destiny	US Dollar
+989	DEUS/USD	['Synthetic']	DeusCoin	US Dollar
+990	DFT/BTC	['YoBit']	DraftCoin	Bitcoin
+991	DFT/USD	['YoBit']	DraftCoin	US Dollar
+992	DGB/AUD	['Synthetic']	DigiByte	Australian Dollar
+993	DGB/BCH	['CoinEx']	DigiByte	Bitcoin Cash
+994	DGB/BRL	['NovaDAX']	DigiByte	Brazil Real
+995	DGB/BTC	['Bittrex', 'HitBTC', 'OKEx']	DigiByte	Bitcoin
+996	DGB/ETH	['Bittrex', 'HitBTC', 'Kucoin']	DigiByte	Ethereum
+997	DGB/TRY	['Bitci.com']	DigiByte	Turkish Lira
+998	DGB/USD	['Bittrex', 'OKEx']	DigiByte	US Dollar
+999	DGC/BTC	['FreiExchange']	Digitalcoin	Bitcoin
+1000	DGCS/USD	['Synthetic']	Digital Credits	US Dollar
+1001	DGC/USD	['Synthetic']	Digitalcoin	US Dollar
+1002	DGD/BTC	['Bitrue', 'Huobi']	DigixDAO	Bitcoin
+1003	DGD/ETH	['Huobi']	DigixDAO	Ethereum
+1004	DGD/USD	['Synthetic']	DigixDAO	US Dollar
+1005	DGTX/BTC	['Mercatox']	Digitex Futures	Bitcoin
+1006	DGTX/ETH	['Mercatox']	Digitex Futures	Ethereum
+1007	DGTX/USD	['Synthetic']	Digitex Futures	US Dollar
+1008	DICE/ETH	['HitBTC']	Etheroll	Ethereum
+1009	DICE/USD	['Synthetic']	Etheroll	US Dollar
+1010	DIG/USD	['Livecoin']	Dignity	US Dollar
+1011	DIME/USD	['YoBit']	Dimecoin	US Dollar
+1012	DISK/USD	['Synthetic']	DarkLisk	US Dollar
+1013	DIVI/BTC	['Bitrue']	Divi	Bitcoin
+1014	DIVI/USD	['Synthetic']	Divi	US Dollar
+1015	DIVI/XRP	['Bitrue']	Divi	XRP
+1016	DLC/BTC	['YoBit']	Dollarcoin	Bitcoin
+1017	DLC/USD	['Synthetic']	Dollarcoin	US Dollar
+1018	DLISK/USD	['Synthetic']	DAPPSTER	US Dollar
+1019	DLT/BTC	['Binance', 'YoBit']	Agrello	Bitcoin
+1020	DLT/USD	['Synthetic']	Agrello	US Dollar
+1021	DMB/BTC	['Crex24']	Digital Money Bits	Bitcoin
+1022	DMB/USD	['Synthetic']	Digital Money Bits	US Dollar
+1023	DMG/ETH	['MXC']	DMM: Governance	Ethereum
+1024	DMG/USD	['MXC', 'OKEx']	DMM: Governance	US Dollar
+1025	DMT/BTC	['Bittrex']	DMarket	Bitcoin
+1026	DMT/USD	['Synthetic']	DMarket	US Dollar
+1027	DNR/USD	['Synthetic']	Denarius	US Dollar
+1028	DNT/BTC	['Binance', 'Bittrex']	district0x	Bitcoin
+1029	DNT/ETH	['Gate.io', 'Mercatox']	district0x	Ethereum
+1030	DNT/USD	['Synthetic']	district0x	US Dollar
+1031	DNT/XRP	['Bitrue']	district0x	XRP
+1032	DOCK/BTC	['Binance', 'Kucoin']	Dock	Bitcoin
+1033	DOCK/ETH	['Gate.io', 'Kucoin']	Dock	Ethereum
+1034	DOCK/USD	['Binance', 'Gate.io']	Dock	US Dollar
+1035	DOGE/AED	['Synthetic']	Dogecoin	UAE Dirham
+1036	DOGE/AUD	['Binance']	Dogecoin	Australian Dollar
+1037	DOGE/BRL	['Coingecko']	Dogecoin	Brazil Real
+1038	DOGE/BTC	['Binance', 'Coinbase Pro']	Dogecoin	Bitcoin
+1039	DOGE/BUSD	['Binance']	Dogecoin	Binance USD
+1040	DOGE/CAD	['Synthetic']	Dogecoin	Canadian Dollar
+1041	DOGE/CNY	['Synthetic']	Dogecoin	Chinese Yuan
+1042	DOGE/ETH	['Bittrex', 'HitBTC', 'Huobi']	Dogecoin	Ethereum
+1043	DOGE/EUR	['Binance', 'Coinbase Pro', 'Kraken']	Dogecoin	Euro
+1044	DOGE/INR	['Bitbns']	Dogecoin	Indian Rupee
+1045	DOGE/KRW	['Bithumb', 'Upbit']	Dogecoin	Korean Won
+1046	DOGE/RUB	['Binance']	Dogecoin	Russian Ruble
+1047	DOGE/TRY	['Binance', 'Bitexen', 'Paribu']	Dogecoin	Turkish Lira
+1048	DOGE/USD	['Binance', 'Coinbase Pro', 'Huobi', 'ZB.COM']	Dogecoin	US Dollar
+1049	DOLLAR/BTC	['Livecoin']	Dollar Online	Bitcoin
+1050	DOLLAR/USD	['Synthetic']	Dollar Online	US Dollar
+1051	DOPE/BTC	['Mercatox']	DopeCoin	Bitcoin
+1052	DOPE/USD	['Synthetic']	DopeCoin	US Dollar
+1053	DOT/USD	['Binance']	Dotcoin	US Dollar
+1054	DOV/BTC	['HitBTC']	Dovu	Bitcoin
+1055	DOV/ETH	['HitBTC']	Dovu	Ethereum
+1056	DOVU/USD	['Synthetic']	Dovu	US Dollar
+1057	DP/USD	['Synthetic']	DigitalPrice	US Dollar
+1058	DPY/ETH	['Gate.io']	Delphy	Ethereum
+1059	DPY/USD	['Gate.io']	Delphy	US Dollar
+1060	DREAM/BTC	['Liquid']	DreamTeam	Bitcoin
+1061	DREAM/USD	['Synthetic']	DreamTeam	US Dollar
+1062	DREP/BTC	['Binance']	DREP	Bitcoin
+1063	DREP/USD	['Binance']	DREP	US Dollar
+1064	DRG/BTC	['HitBTC']	Dragon Coins	Bitcoin
+1065	DRG/ETH	['HitBTC']	Dragon Coins	Ethereum
+1066	DRGN/BTC	['Kucoin']	Dragonchain	Bitcoin
+1067	DRGN/ETH	['Gate.io', 'Kucoin']	Dragonchain	Ethereum
+1068	DRGN/USD	['Gate.io']	Dragonchain	US Dollar
+1069	DRG/USD	['Synthetic']	Dragon Coins	US Dollar
+1070	DRM/BTC	['YoBit']	Dreamcoin	Bitcoin
+1071	DRM/USD	['Synthetic']	Dreamcoin	US Dollar
+1072	DROP/ETH	['BitMart']	Dropil	Ethereum
+1073	DROP/USD	['Synthetic']	Dropil	US Dollar
+1074	DRP/USD	['Synthetic']	DCORP	US Dollar
+1075	DRS/USD	['Synthetic']	Digital Rupees	US Dollar
+1076	DRT/BTC	['HitBTC', 'YoBit']	DomRaider	Bitcoin
+1077	DRT/ETH	['HitBTC']	DomRaider	Ethereum
+1078	DRT/USD	['HitBTC', 'Synthetic']	DomRaider	US Dollar
+1079	DRXNE/USD	['Synthetic']	DROXNE	US Dollar
+1080	DSR/BTC	['Mercatox']	Desire	Bitcoin
+1081	DSR/USD	['Synthetic']	Desire	US Dollar
+1082	DTA/BTC	['Huobi']	DATA	Bitcoin
+1083	DTA/ETH	['Huobi']	DATA	Ethereum
+1084	DTA/USD	['Huobi']	DATA	US Dollar
+1085	DTB/USD	['Synthetic']	Databits	US Dollar
+1086	DTEP/BTC	['Bitrue', 'Decoin']	DECOIN	Bitcoin
+1087	DTEP/USD	['Synthetic']	DECOIN	US Dollar
+1088	DUB/USD	['Synthetic']	Dubstep	US Dollar
+1089	DUO/BTC	['YoBit']	ParallelCoin	Bitcoin
+1090	DUO/DOGE	['YoBit']	ParallelCoin	Dogecoin
+1091	DUO/ETH	['YoBit']	ParallelCoin	Ethereum
+1092	DUO/USD	['Synthetic']	ParallelCoin	US Dollar
+1093	DUSK/BTC	['Binance']	Dusk Network	Bitcoin
+1094	DUSK/USD	['Binance', 'Gate.io']	Dusk Network	US Dollar
+1095	DUTCH/USD	['Synthetic']	Dutch Coin	US Dollar
+1096	DYDX/USD	['Binance']	dYdX	US Dollar
+1097	DYM/USD	['Binance']	Dymension	US Dollar
+1098	DYNMT/BTC	['Hotbit', 'Mercatox']	Dynamite	Bitcoin
+1099	DYNMT/ETH	['Hotbit', 'Mercatox']	Dynamite	Ethereum
+1100	DYNMT/USD	['Hotbit']	Dynamite	US Dollar
+1101	DYN/USD	['Synthetic']	Dynamic	US Dollar
+1102	EAC/BTC	['COINEGG']	EarthCoin	Bitcoin
+1103	EAC/USD	['Synthetic']	EarthCoin	US Dollar
+1104	EAGLE/USD	['Synthetic']	EagleCoin	US Dollar
+1105	EBCH/USD	['Synthetic']	eBitcoinCash	US Dollar
+1106	EBET/USD	['Synthetic']	EthBet	US Dollar
+1107	EBST/BNB	['Binance DEX']	eBoost	Binance Coin
+1108	EBST/USD	['Synthetic']	eBoost	US Dollar
+1109	EBTC/ETH	['Mercatox']	eBitcoin	Ethereum
+1110	EBTC/USD	['Synthetic']	eBitcoin	US Dollar
+1111	EBT/USD	['Synthetic']	Ebittree Coin	US Dollar
+1112	ECASH/BTC	['YoBit']	Ethereum Cash	Bitcoin
+1113	ECASH/USD	['Synthetic']	Ethereum Cash	US Dollar
+1114	ECA/USD	['Synthetic']	Electra	US Dollar
+1115	ECC/BTC	['Crex24']	ECC	Bitcoin
+1116	ECC/USD	['Synthetic']	ECC	US Dollar
+1117	ECN/BTC	['YoBit']	E-coin	Bitcoin
+1118	ECN/USD	['Synthetic']	E-coin	US Dollar
+1119	ECOB/BTC	['YoBit']	Ecobit	Bitcoin
+1120	ECO/BTC	['YoBit']	EcoCoin	Bitcoin
+1121	ECOB/USD	['Synthetic']	Ecobit	US Dollar
+1122	ECO/USD	['Synthetic']	EcoCoin	US Dollar
+1123	ECTE/BTC	['p2pb2b']	EurocoinToken	Bitcoin
+1124	ECTE/USD	['Synthetic']	EurocoinToken	US Dollar
+1125	EDC/BTC	['Bit-Z', 'Exrates']	EDC Blockchain	Bitcoin
+1126	EDC/USD	['Synthetic']	EDC Blockchain	US Dollar
+1127	EDG/BTC	['Bittrex', 'HitBTC']	Edgeless	Bitcoin
+1128	EDG/ETH	['HitBTC']	Edgeless	Ethereum
+1129	EDG/USD	['HitBTC']	Edgeless	US Dollar
+1130	EDO/BTC	['Bitfinex']	Eidoo	Bitcoin
+1131	EDO/ETH	['Bitfinex']	Eidoo	Ethereum
+1132	EDO/USD	['Bitfinex']	Eidoo	US Dollar
+1133	EDRC/BTC	['YoBit']	EDRCoin	Bitcoin
+1134	EDRC/USD	['Synthetic']	EDRCoin	US Dollar
+1135	EDRL/BTC	['Hotbit']	Endor Protocol	Bitcoin
+1136	EDRL/USD	['CoinTiger', 'Synthetic']	Endor Protocol	US Dollar
+1137	EER/USD	['Synthetic']	Ethereum eRush	US Dollar
+1138	EFI/ETH	['Gate.io']	Efinity Token	Ethereum
+1139	EFI/USD	['Gate.io']	Efinity Token	US Dollar
+1140	EGAS/USD	['Synthetic']	ETHGAS	US Dollar
+1141	EGC/BTC	['Altilly']	EverGreenCoin	Bitcoin
+1142	EGCr/USD	['PancakeSwap']	EverGrow Coin	US Dollar
+1143	EGC/USD	['Synthetic']	EverGreenCoin	US Dollar
+1144	EGG/USD	['Synthetic']	EggCoin	US Dollar
+1145	EGLD/BNB	['Binance']	Elrond	Binance Coin
+1146	EGLD/BTC	['Binance']	Elrond	Bitcoin
+1147	EGLD/CAD	['Synthetic']	Elrond	Canadian Dollar
+1148	EGLD/EUR	['Binance']	Elrond	Euro
+1149	EGLD/INR	['Bitbns']	Elrond	Indian Rupee
+1150	EGLD/USD	['Binance', 'Gate.io']	Elrond	US Dollar
+1151	EGOLD/USD	['Synthetic']	eGold	US Dollar
+1152	EGO/USD	['Synthetic']	EGO	US Dollar
+1153	EGT/BTC	['Huobi', 'OKEx']	Egretia	Bitcoin
+1154	EGT/ETH	['OKEx']	Egretia	Ethereum
+1155	EGT/USD	['Huobi', 'OKEx', 'Synthetic']	Egretia	US Dollar
+1156	EKT/BTC	['Huobi']	EDUCare	Bitcoin
+1157	EKT/ETH	['Huobi']	EDUCare	Ethereum
+1158	EKT/USD	['Huobi', 'Synthetic']	EDUCare	US Dollar
+1159	ELA/BTC	['Huobi', 'Kucoin']	Elastos	Bitcoin
+1160	ELA/ETH	['Huobi', 'Kucoin']	Elastos	Ethereum
+1161	ELA/USD	['CoinEx', 'Huobi']	Elastos	US Dollar
+1162	ELC/BTC	['YoBit']	Elacoin	Bitcoin
+1163	ELC/USD	['Synthetic']	Elacoin	US Dollar
+1164	ELEC/BTC	['HitBTC']	Electrify.Asia	Bitcoin
+1165	ELEC/ETH	['Gate.io', 'HitBTC']	Electrify.Asia	Ethereum
+1166	ELEC/USD	['Gate.io', 'HitBTC']	Electrify.Asia	US Dollar
+1167	ELE/USD	['Synthetic']	Elementrem	US Dollar
+1168	ELF/BTC	['Binance', 'OKEx']	aelf	Bitcoin
+1169	ELF/ETH	['Binance', 'Huobi']	aelf	Ethereum
+1170	ELF/USD	['Huobi', 'OKEx']	aelf	US Dollar
+1171	ELITE/BTC	['YoBit']	Ethereum Lite	Bitcoin
+1172	ELITE/USD	['Synthetic']	Ethereum Lite	US Dollar
+1173	ELIX/USD	['Synthetic']	Elixir	US Dollar
+1174	ELLA/USD	['Synthetic']	Ellaism	US Dollar
+1175	ELON/USD	['Gate.io', 'Kucoin']	Dogelon Mars	US Dollar
+1176	ELTC2/USD	['Synthetic']	eLTC	US Dollar
+1177	ELTCOIN/ETH	['Mercatox']	ELTCOIN	Ethereum
+1178	ELTCOIN/USD	['Synthetic']	ELTCOIN	US Dollar
+1179	EL/USD	['Livecoin']	Elcoin	US Dollar
+1180	ELYTE/USD	['Synthetic']	ETHEREUM LYTE	US Dollar
+1181	EMC2/BTC	['Bittrex']	Einsteinium	Bitcoin
+1182	EMC2/USD	['Synthetic']	Einsteinium	US Dollar
+1183	EMD/BTC	['Graviex']	Emerald Crypto	Bitcoin
+1184	EMD/USD	['Synthetic']	Emerald Crypto	US Dollar
+1185	EMV/USD	['Synthetic']	Ethereum Movie Venture	US Dollar
+1186	ENA/USD	['Binance']	Ethena	US Dollar
+1187	ENG/BTC	['Bittrex', 'Mercatox']	Enigma	Bitcoin
+1188	ENG/ETH	['Bittrex', 'Mercatox']	Enigma	Ethereum
+1189	ENG/USD	['Synthetic']	Enigma	US Dollar
+1190	ENJ/BRL	['Binance']	Enjin Coin	Brazil Real
+1191	ENJ/BTC	['Binance', 'HitBTC']	Enjin coin	Bitcoin
+1192	ENJ/CAD	['Synthetic']	Enjin Coin	Canadian Dollar
+1193	ENJ/ETH	['Binance', 'Kucoin']	Enjin coin	Ethereum
+1194	ENJ/INR	['Bitbns']	Enjin Coin	Indian Rupee
+1195	ENJ/KRW	['Bithumb', 'Upbit']	Enjin Coin	Korean Won
+1196	ENJ/TRY	['Binance']	Enjin Coin	Turkish Lira
+1197	ENJ/USD	['Binance', 'HitBTC']	Enjin Coin	US Dollar
+1198	ENRG/BTC	['Crex24']	Energycoin	Bitcoin
+1199	ENRG/USD	['Synthetic']	Energycoin	US Dollar
+1200	ENS/USD	['Binance']	Ethereum Name Service	US Dollar
+1201	ENT/BTC	['YoBit']	Eternity	Bitcoin
+1202	ENT/USD	['Synthetic']	Eternity	US Dollar
+1203	EOS/AUD	['Synthetic']	EOS	Australian Dollar
+1204	EOS/BCH	['CoinEx']	EOS	Bitcoin Cash
+1205	EOS/BNB	['Binance']	EOS	Binance Coin
+1206	EOS/BRL	['NovaDAX']	EOS	Brazil Real
+1207	EOS/BTC	['Bibox', 'Coinbene', 'Huobi']	EOS	Bitcoin
+1208	EOS/CAD	['Synthetic']	EOS	Canadian Dollar
+1209	EOS/CNY	['Synthetic']	EOS	Chinese Yuan
+1210	EOSDAC/BTC	['Hotbit']	eosDAC	Bitcoin
+1211	EOSDAC/ETH	['Gate.io', 'Hotbit']	eosDAC	Ethereum
+1212	EOSDAC/USD	['Gate.io', 'Synthetic']	eosDAC	US Dollar
+1213	EOS/ETH	['Bibox', 'Binance', 'BitMart']	EOS	Ethereum
+1214	EOS/EUR	['Kraken', 'Synthetic']	EOS	Euro
+1215	EOS/GBP	['Bitfinex']	EOS	British Pound
+1216	EOS/HKD	['Synthetic']	EOS	Hong Kong Dollar
+1217	EOS/ILS	['Synthetic']	EOS	Israeli Shekel
+1218	EOS/INR	['Bitbns', 'Synthetic']	EOS	Indian Rupee
+1219	EOS/KRW	['Bithumb', 'Upbit']	EOS	Korean Won
+1220	EOS/MXN	['Synthetic']	EOS	Mexican Peso
+1221	EOS/MYR	['Synthetic']	EOS	Malaysian Ringgit
+1222	EOS/PLN	['Synthetic']	EOS	Polish Zloty
+1223	EOS/RUB	['Synthetic']	EOS	Russian Ruble
+1224	EOS/SAR	['Synthetic']	EOS	Saudi Riyal
+1225	EOS/SEK	['Synthetic']	EOS	Swedish Krona
+1226	EOS/TRY	['BTCTurk', 'Paribu', 'Synthetic']	EOS	Turkish Lira
+1227	EOS/USD	['Binance', 'Coinbene', 'Huobi']	EOS	US Dollar
+1228	EOS/VND	['Synthetic']	EOS	Vietnamese Dong
+1229	EOS/ZAR	['Synthetic']	EOS	South African Rand
+1230	EPS/BTC	['Binance']	Ellipsis	Bitcoin
+1231	EPS/USD	['Binance']	Ellipsis	US Dollar
+1232	EPX/BUSD	['Binance']	Ellipsis X	Binance USD
+1233	EPX/USD	['Binance']	Ellipsis X	US Dollar
+1234	EPY/USD	['Synthetic']	Emphy	US Dollar
+1235	EQT/BTC	['YoBit']	EquiTrader	Bitcoin
+1236	ERC20/ETH	['Mercatox']	ERC20	Ethereum
+1237	ERC20/USD	['Synthetic']	ERC20	US Dollar
+1238	ERC/BTC	['Crex24']	EuropeCoin	Bitcoin
+1239	ERC/USD	['Synthetic']	EuropeCoin	US Dollar
+1240	ERG/BTC	['Kucoin']	Ergo	Bitcoin
+1241	ERG/ETH	['Gate.io']	Ergo	Ethereum
+1242	ERG/USD	['Gate.io', 'Kucoin']	Ergo	US Dollar
+1243	ERN/USD	['Binance']	Ethernity	US Dollar
+1244	ERY/USD	['Synthetic']	Eryllium	US Dollar
+1245	ESP/ETH	['Livecoin']	Espers	Ethereum
+1246	ESP/USD	['Synthetic']	Espers	US Dollar
+1247	ESS/BTC	['Hotbit']	Essentia	Bitcoin
+1248	ESS/ETH	['Hotbit']	Essentia	Ethereum
+1249	ESS/USD	['Synthetic']	Essentia	US Dollar
+1250	ETA/USD	['Synthetic']	Etheera	US Dollar
+1251	ETBS/USD	['Synthetic']	Ethbits	US Dollar
+1252	ETC/AUD	['BTC Markets', 'Synthetic']	Ethereum Classic	Australian Dollar
+1253	ETC/BCH	['CoinEx']	Ethereum Classic	Bitcoin Cash
+1254	ETC/BNB	['Binance']	Ethereum Classic	Binance Coin
+1255	ETC/BRL	['Binance', 'NovaDAX']	Ethereum Classic	Brazil Real
+1256	ETC/BTC	['Bibox', 'Binance', 'Huobi']	Ethereum Classic	Bitcoin
+1257	ETC/CAD	['Synthetic']	Ethereum Classic	Canadian Dollar
+1258	ETC/CNY	['Synthetic']	Ethereum Classic	Chinese Yuan
+1259	ETC/ETH	['Bibox', 'Binance']	Ethereum Classic	Ethereum
+1260	ETC/EUR	['Coinbase Pro', 'Kraken']	Ethereum Classic	Euro
+1261	ETC/GBP	['Coinbase Pro']	Ethereum Classic	British Pound
+1262	ETC/HKD	['Synthetic']	Ethereum Classic	Hong Kong Dollar
+1263	ETC/IDR	['BTC Indonesia']	Ethereum Classic	Indonesian Rupiah
+1264	ETC/ILS	['Synthetic']	Ethereum Classic	Israeli Shekel
+1265	ETC/INR	['Synthetic']	Ethereum Classic	Indian Rupee
+1266	ETC/JPY	['Synthetic']	Ethereum Classic	Japanese Yen
+1267	ETC/KRW	['Bithumb', 'Upbit']	Ethereum Classic	Korean Won
+1268	ETC/MXN	['Synthetic']	Ethereum Classic	Mexican Peso
+1269	ETC/MYR	['Synthetic']	Ethereum Classic	Malaysian Ringgit
+1270	ETC/PLN	['Synthetic']	Ethereum Classic	Polish Zloty
+1271	ETC/RUB	['Exmo', 'Synthetic']	Ethereum Classic	Russian Ruble
+1272	ETC/SAR	['Synthetic']	Ethereum Classic	Saudi Riyal
+1273	ETC/SEK	['Synthetic']	Ethereum Classic	Swedish Krona
+1274	ETC/TRY	['Synthetic']	Ethereum Classic	Turkish Lira
+1275	ETC/USD	['Binance', 'Coinbene', 'Gate.io']	Ethereum Classic	US Dollar
+1276	ETC/VND	['Synthetic']	Ethereum Classic	Vietnamese Dong
+1277	ETC/ZAR	['Synthetic']	Ethereum Classic	South African Rand
+1278	ETH/AUD	['Binance', 'BTC Markets']	Ethereum	Australian Dollar
+1279	ETH/BRL	['MercadoBitcoin', 'NovaDAX']	Ethereum	Brazil Real
+1280	ETH/BTC	['Binance', 'Coinbene', 'Huobi', 'Poloniex', 'TOKOK']	Ethereum	Bitcoin
+1281	ETH/CAD	['CoinField', 'Kraken']	Ethereum	Canadian Dollar
+1282	ETH/CNY	['Synthetic']	Ethereum	Chinese Yuan
+1283	ETH/DAI	['HitBTC']	Ethereum	Dai
+1284	ETHD/USD	['Synthetic']	Ethereum Dark	US Dollar
+1285	ETH/EUR	['Binance', 'BitStamp', 'Coinbase Pro', 'Kraken']	Ethereum	Euro
+1286	ETHFI/USD	['Binance']	ether.fi	US Dollar
+1287	ETH/GBP	['Binance', 'Bitfinex', 'Coinbase Pro']	Ethereum	British Pound
+1288	ETH/HKD	['QUOINE']	Ethereum	Hong Kong Dollar
+1289	ETH/IDR	['BTC Indonesia', 'Luno']	Ethereum	Indonesian Rupiah
+1290	ETH/ILS	['Synthetic']	Ethereum	Israeli Shekel
+1291	ETH/INR	['Bitbns', 'Synthetic']	Ethereum	Indian Rupee
+1292	ETH/JPY	['Bitfinex', 'QUOINE', 'Zaif']	Ethereum	Japanese Yen
+1293	ETH/KRW	['Bithumb', 'Coinone', 'Upbit']	Ethereum	Korean Won
+1294	ETH/LTC	['Exmo']	Ethereum	Litecoin
+1295	ETHM/USD	['Synthetic']	Ethereum Meta	US Dollar
+1296	ETH/MXN	['Bitso', 'Synthetic']	Ethereum	Mexican Peso
+1297	ETH/MYR	['Luno', 'Synthetic']	Ethereum	Malaysian Ringgit
+1298	ETH/NGN	['Luno']	Ethereum	Nigerian Naira
+1299	ETH/PLN	['BitBay', 'Exmo']	Ethereum	Polish Zloty
+1300	ETH/RUB	['Exmo']	Ethereum	Russian Ruble
+1301	ETH/SAR	['Synthetic']	Ethereum	Saudi Riyal
+1302	ETH/SEK	['Synthetic']	Ethereum	Swedish Krona
+1303	ETH/SGD	['QUOINE']	Ethereum	Singapore Dollar
+1304	ETH/THB	['Bitkub', 'Satang Pro']	Ethereum	Thai Baht
+1305	ETH/TRY	['Bitexen', 'BTCTurk', 'Paribu']	Ethereum	Turkish Lira
+1306	ETH/UAH	['Exmo']	Ethereum	Ukrainian Hryvnia
+1307	ETH/USD	['Binance', 'Bitfinex', 'Huobi', 'IDCM']	Ethereum	US Dollar
+1308	ETH/VND	['Synthetic']	Ethereum	Vietnamese Dong
+1309	ETH/XAU	['Synthetic']	Ethereum	Gold Spot
+1310	ETH/XRP	['CoinField']	Ethereum	XRP
+1311	ETH/ZAR	['Luno', 'Synthetic']	Ethereum	South African Rand
+1312	ETN/BTC	['Huobi', 'Kucoin']	Electroneum	Bitcoin
+1313	ETN/ETH	['Huobi', 'Kucoin']	Electroneum	Ethereum
+1314	ETN/EUR	['Liquid']	Electroneum	Euro
+1315	ETN/USD	['HitBTC']	Electroneum	US Dollar
+1316	ETP/BTC	['Bitfinex', 'HitBTC']	Metaverse ETP	Bitcoin
+1317	ETP/ETH	['Bitfinex']	Metaverse ETP	Ethereum
+1318	ETP/USD	['Bitfinex', 'HitBTC']	Metaverse ETP	US Dollar
+1319	ETT/BTC	['Livecoin']	EncryptoTel [WAVES]	Bitcoin
+1320	ETT/USD	['Synthetic']	EncryptoTel [WAVES]	US Dollar
+1321	EUC/USD	['Synthetic']	Eurocoin	US Dollar
+1322	EUL/USD	['Gate.io']	Euler	US Dollar
+1323	EURC/USD	['Coinbase Pro']	EURC	US Dollar
+1324	EURE/USD	['Uniswap']	Monerium EUR emoney	US Dollar
+1325	EURS/USD	['Ethfinex', 'HitBTC']	STASIS EURO	US Dollar
+1326	EUSD/USD	['Synthetic']	eUSD	US Dollar
+1327	EVC/ETH	['Mercatox']	EventChain	Ethereum
+1328	EVC/USD	['Synthetic']	EventChain	US Dollar
+1329	EVIL/BTC	['YoBit']	Evil Coin	Bitcoin
+1330	EVIL/USD	['Synthetic']	Evil Coin	US Dollar
+1331	EVNN/BTC	['Hotbit', 'Mercatox']	EvenCoin	Bitcoin
+1332	EVNN/ETH	['Hotbit', 'Mercatox']	EvenCoin	Ethereum
+1333	EVNN/USD	['Synthetic']	EvenCoin	US Dollar
+1334	EVO/BTC	['YoBit']	Evotion	Bitcoin
+1335	EVO/USD	['Synthetic']	Evotion	US Dollar
+1336	EVX/BTC	['Binance', 'Huobi', 'Mercatox']	Everex	Bitcoin
+1337	EVX/ETH	['HitBTC', 'Huobi']	Everex	Ethereum
+1338	EVX/USD	['HitBTC']	Everex	US Dollar
+1339	EWT/BTC	['Kucoin']	Energy Web Token	Bitcoin
+1340	EWT/USD	['Kraken', 'Kucoin']	Energy Web Token	US Dollar
+1341	EXCL/BTC	['Bittrex']	ExclusiveCoin	Bitcoin
+1342	EXCL/USD	['Synthetic']	ExclusiveCoin	US Dollar
+1343	EXC/USD	['Synthetic']	Eximchain	US Dollar
+1344	EXMR/USD	['Synthetic']	EXMR	US Dollar
+1345	EXN/USD	['Synthetic']	ExchangeN	US Dollar
+1346	EXP/BTC	['Bittrex', 'YoBit']	Expanse	Bitcoin
+1347	EXP/USD	['Synthetic']	Expanse	US Dollar
+1348	EXRN/ETH	['Hotbit']	EXRNchain	Ethereum
+1349	EXRN/USD	['Synthetic']	EXRNchain	US Dollar
+1350	FAIR/USD	['Synthetic']	FairCoin	US Dollar
+1351	FAP/USD	['Synthetic']	FAPcoin	US Dollar
+1352	FAZZ/BTC	['YoBit']	Fazzcoin	Bitcoin
+1353	FAZZ/USD	['Synthetic']	Fazzcoin	US Dollar
+1354	FBTC/USD	['Uniswap']	Ignition	US Dollar
+1355	FCN/USD	['Synthetic']	Fantomcoin	US Dollar
+1356	FCT/BTC	['Bittrex']	Factom	Bitcoin
+1357	FCT/USD	['Synthetic']	Factom	US Dollar
+1358	FC/USD	['Synthetic']	Facecoin	US Dollar
+1359	FDUSD/USD	['Binance']	First Digital USD	US Dollar
+1360	FDZ/BTC	['HitBTC', 'Mercatox']	Friendz	Bitcoin
+1361	FDZ/ETH	['HitBTC', 'Mercatox']	Friendz	Ethereum
+1362	FDZ/USD	['Synthetic']	Friendz	US Dollar
+1363	FEI/ETH	['Gate.io']	Fei USD	Ethereum
+1364	FEI/USD	['Gate.io']	Fei USD	US Dollar
+1365	FET/BNB	['Binance']	Fetch	Binance Coin
+1366	FET/BTC	['Binance', 'Kucoin']	Fetch	Bitcoin
+1367	FET/ETH	['Kucoin']	Fetch	Ethereum
+1368	FET/USD	['Binance', 'BitMax']	Fetch	US Dollar
+1369	FFC/USD	['Synthetic']	FireFlyCoin	US Dollar
+1370	FIDYO/USD	['Synthetic']	Fidyo	US Dollar
+1371	FIDYO/WAVES	['Waves Decentralized Exchange']	Fidyo	Waves
+1372	FIL/BTC	['Binance', 'Coinbase Pro']	Filecoin	Bitcoin
+1373	FIL/CAD	['Synthetic']	Filecoin	Canadian Dollar
+1374	FIL/EUR	['Coinbase Pro', 'Kraken']	Filecoin	Euro
+1375	FIL/INR	['Bitbns']	Filecoin	Indian Rupee
+1376	FIL/USD	['Binance', 'Gate.io']	Filecoin	US Dollar
+1377	FINE/USD	['Gate.io']	Refinable	US Dollar
+1378	FIO/BNB	['Binance']	FIO Protocol	Binance Coin
+1379	FIO/BTC	['Binance']	FIO Protocol	Bitcoin
+1380	FIO/USD	['BitMax']	FIO Protocol	US Dollar
+1381	FIRE/BTC	['YoBit']	Firecoin	Bitcoin
+1382	FIRE/USD	['Synthetic']	Firecoin	US Dollar
+1383	FIRO/BTC	['Binance', 'Huobi']	Firo	Bitcoin
+1384	FIRO/ETH	['Binance', 'Huobi']	Firo	Ethereum
+1385	FIRO/IDR	['BTC Indonesia']	Firo	Indonesian Rupiah
+1386	FIRO/USD	['MEXC', 'Synthetic']	Firo	US Dollar
+1387	FITFI/USD	['Gate.io', 'Huobi', 'Kucoin']	Step App	US Dollar
+1388	FJC/USD	['Synthetic']	FujiCoin	US Dollar
+1389	FLASH/BTC	['Crex24']	Flash	Bitcoin
+1390	FLASH/USD	['Synthetic']	Flash	US Dollar
+1391	FLAX/USD	['Synthetic']	Flaxscript	US Dollar
+1392	FLDC/BTC	['FinexBox']	FoldingCoin	Bitcoin
+1393	FLDC/USD	['Synthetic']	FoldingCoin	US Dollar
+1394	FLIK/USD	['Synthetic']	FLiK	US Dollar
+1395	FLM/USD	['Synthetic']	FolmCoin	US Dollar
+1396	FLO/BTC	['Bittrex']	FLO	Bitcoin
+1397	FLO/USD	['Synthetic']	FLO	US Dollar
+1398	FLOW/BTC	['Huobi', 'Upbit']	Flow	Bitcoin
+1399	FLOW/CAD	['Synthetic']	Flow	Canadian Dollar
+1400	FLOW/USD	['Binance', 'Gate.io', 'Huobi', 'Kraken']	Flow	US Dollar
+1401	FLUX/BTC	['Binance']	Flux	Bitcoin
+1402	FLUX/USD	['Binance', 'Gate.io', 'KuCoin']	Flux	US Dollar
+1403	FLUZ/USD	['Synthetic']	Fluz Fluz	US Dollar
+1404	FLVR/USD	['Synthetic']	FlavorCoin	US Dollar
+1405	FLY/BTC	['YoBit']	Flycoin	Bitcoin
+1406	FLY/USD	['Synthetic']	Flycoin	US Dollar
+1407	FNC/BTC	['Livecoin']	FinCoin	Bitcoin
+1408	FNC/USD	['Synthetic']	FinCoin	US Dollar
+1409	FNKOS/ETH	['Coinbene']	FNKOS	Ethereum
+1410	FNKOS/USD	['Synthetic']	FNKOS	US Dollar
+1411	FNTB/BTC	['YoBit']	FinTab	Bitcoin
+1412	FNTB/USD	['Synthetic', 'YoBit']	FinTab	US Dollar
+1413	FOIN/BTC	['Hotbit']	FOIN	Bitcoin
+1414	FOIN/USD	['Synthetic']	FOIN	US Dollar
+1415	FONZ/USD	['Synthetic']	Fonziecoin	US Dollar
+1416	FOR/USD	['Synthetic']	FORCE	US Dollar
+1417	FRAX/USD	['Uniswap']	FRAX	US Dollar
+1418	FRC/BTC	['FreiExchange']	Freicoin	Bitcoin
+1419	FRC/USD	['Synthetic']	Freicoin	US Dollar
+1420	FRD/USD	['Synthetic']	Farad	US Dollar
+1421	FRK/BTC	['YoBit']	Franko	Bitcoin
+1422	FRK/USD	['Synthetic']	Franko	US Dollar
+1423	FRN/BTC	['YoBit']	Francs	Bitcoin
+1424	FRN/USD	['Synthetic']	Francs	US Dollar
+1425	FRST/BTC	['YoBit']	FirstCoin	Bitcoin
+1426	FRST/ETH	['YoBit']	FirstCoin	Ethereum
+1427	FRST/USD	['Synthetic']	FirstCoin	US Dollar
+1428	FRWC/USD	['Synthetic']	FrankyWillCoin	US Dollar
+1429	FSN/BNB	['Binance DEX']	Fusion	Binance Coin
+1430	FSN/USD	['Synthetic']	Fusion	US Dollar
+1431	FST/USD	['Synthetic']	Fastcoin	US Dollar
+1432	FTC/BTC	['Bittrex']	Feathercoin	Bitcoin
+1433	FTC/USD	['Synthetic']	Feathercoin	US Dollar
+1434	FTM/BNB	['Binance']	Fantom	Binance Coin
+1435	FTM/BTC	['Binance', 'Kucoin']	Fantom	Bitcoin
+1436	FTM/CAD	['Synthetic']	Fantom	Canadian Dollar
+1437	FTM/ETH	['Kucoin']	Fantom	Ethereum
+1438	FTM/EUR	['Synthetic']	Fantom	Euro
+1439	FTM/TRY	['Binance']	Fantom	Turkish Lira
+1440	FTM/USD	['Binance', 'MXC']	Fantom	US Dollar
+1441	FTO/BTC	['SouthXchange', 'YoBit']	FuturoCoin	Bitcoin
+1442	FTO/DOGE	['YoBit']	FuturoCoin	Dogecoin
+1443	FTO/ETH	['YoBit']	FuturoCoin	Ethereum
+1444	FTOKEN/BTC	['Crex24']	Flash Token	Bitcoin
+1445	FTOKEN/USD	['Synthetic']	Flash Token	US Dollar
+1446	FTO/RUB	['YoBit']	FuturoCoin	Russian Ruble
+1447	FTO/USD	['SouthXchange', 'YoBit']	FuturoCoin	US Dollar
+1448	FTO/WAVES	['YoBit']	FuturoCoin	Waves
+1449	FTT/BTC	['Binance', 'FTX', 'Huobi']	FTX Token	Bitcoin
+1450	FTT/CAD	['Synthetic']	FTX Token	Canadian Dollar
+1451	FTT/INR	['Bitbns']	FTX Token	Indian Rupee
+1452	FTT/USD	['Binance', 'FTX', 'Huobi']	FTX Token	US Dollar
+1453	FT/USD	['Synthetic']	Fabric Token	US Dollar
+1454	FUCK/USD	['Synthetic']	FuckToken	US Dollar
+1455	FUEL/ETH	['Gate.io']	Etherparty	Ethereum
+1456	FUEL/USD	['Gate.io']	Etherparty	US Dollar
+1457	FUN/BTC	['Binance', 'Bitrue']	FunFair	Bitcoin
+1458	FUN/ETH	['Binance', 'Bitrue']	FunFair	Ethereum
+1459	FUNK/USD	['Synthetic']	The Cypherfunks	US Dollar
+1460	FUN/USD	['Gate.io', 'HitBTC']	FunFair	US Dollar
+1461	FUZZ/BTC	['YoBit']	FuzzBalls	Bitcoin
+1462	FUZZ/USD	['Synthetic']	FuzzBalls	US Dollar
+1463	FX/BTC	['Kucoin']	Function X	Bitcoin
+1464	FXC/ETH	['IDEX']	Flexacoin	Ethereum
+1465	FXC/USD	['Synthetic']	Flexacoin	US Dollar
+1466	FX/ETH	['Kucoin']	Function X	Ethereum
+1467	FXS/BTC	['Binance']	Frax Share	Bitcoin
+1468	FXS/USD	['Binance', 'KuCoin']	Frax Share	US Dollar
+1469	FX/USD	['Synthetic']	Function X	US Dollar
+1470	FYP/BTC	['HitBTC']	FlypMe	Bitcoin
+1471	FYP/USD	['Synthetic']	FlypMe	US Dollar
+1472	GAIN/USD	['Synthetic']	UGAIN	US Dollar
+1473	GALA/BRL	['Binance', 'NovaDAX']	Gala	Brazil Real
+1474	GALA/BTC	['Binance']	Gala	Bitcoin
+1475	GALA/CAD	['Synthetic']	Gala	Canadian Dollar
+1476	GALA/TRY	['Binance']	Gala	Turkish Lira
+1477	GALA/USD	['Binance', 'Gate.io', 'Kucoin']	Gala	US Dollar
+1478	GAL/TRY	['Binance']	Project Galaxy	Turkish Lira
+1479	GAL/USD	['Binance', 'Gate.io', 'Huobi']	Project Galaxy	US Dollar
+1480	GAME/BTC	['BitBay', 'Bittrex']	GameCredits	Bitcoin
+1481	GAME/EUR	['BitBay']	GameCredits	Euro
+1482	GAME/PLN	['BitBay']	GameCredits	Polish Zloty
+1483	GAME/USD	['BitBay', 'Synthetic']	GameCredits	US Dollar
+1484	GAM/USD	['Synthetic']	Gambit	US Dollar
+1485	GAP/USD	['Synthetic']	Gapcoin	US Dollar
+1486	GAS/BTC	['Binance', 'OKEx']	Gas	Bitcoin
+1487	GAS/ETH	['Huobi', 'OKEx']	Gas	Ethereum
+1488	GAS/USD	['Gate.io', 'OKEx']	Gas	US Dollar
+1489	GB/BTC	['YoBit']	GoldBlocks	Bitcoin
+1490	GBT/USD	['Synthetic']	GameBet Coin	US Dollar
+1491	GB/USD	['Synthetic']	GoldBlocks	US Dollar
+1492	GBX/USD	['Synthetic']	GoByte	US Dollar
+1493	GBYTE/BTC	['Bittrex']	Obyte	Bitcoin
+1494	GBYTE/USD	['Synthetic']	Obyte	US Dollar
+1495	GCC/USD	['Synthetic']	GuccioneCoin	US Dollar
+1496	GCN/DOGE	['SouthXchange']	GCN Coin	Dogecoin
+1497	GCN/USD	['Synthetic']	GCN Coin	US Dollar
+1498	GCR/BTC	['YoBit']	Global Currency Reserve 	Bitcoin
+1499	GCR/USD	['Synthetic']	Global Currency Reserve	US Dollar
+1500	GEERT/USD	['Synthetic']	GeertCoin	US Dollar
+1501	GEN/ETH	['Hotbit']	DAOstack	Ethereum
+1502	GEN/USD	['Synthetic']	DAOstack	US Dollar
+1503	GEO/BTC	['Bittrex', 'YoBit']	GeoCoin	Bitcoin
+1504	GEO/USD	['Synthetic']	GeoCoin	US Dollar
+1505	GHO/USD	['Uniswap']	GHO	US Dollar
+1506	GIM/USD	['Synthetic']	Gimli	US Dollar
+1507	GIN/ETH	['TOKOK']	GINcoin	Ethereum
+1508	GIN/USD	['Synthetic']	GINcoin	US Dollar
+1509	GLCn/BTC	['YoBit']	GlobalCoin	Bitcoin
+1510	GLCn/USD	['Synthetic']	GlobalCoin	US Dollar
+1511	GLMR/BTC	['Binance']	Moonbeam	Bitcoin
+1512	GLMR/USD	['Binance', 'Gate.io', 'KuCoin']	Moonbeam	US Dollar
+1513	GLS/USD	['Synthetic']	GlassCoin	US Dollar
+1514	GLT/BTC	['Crex24']	GlobalToken	Bitcoin
+1515	GLT/USD	['Synthetic']	GlobalToken	US Dollar
+1516	GML/BTC	['YoBit']	GameLeagueCoin	Bitcoin
+1517	GML/USD	['Synthetic']	GameLeagueCoin	US Dollar
+1518	GMTn/BTC	['Binance']	STEPN	Bitcoin
+1519	GMTn/USD	['Binance', 'Gate.io']	STEPN	US Dollar
+1520	GMT/USD	['Synthetic']	Mercury Protocol	US Dollar
+1521	GMX/USD	['Crypto.com Exchange']	GMX	US Dollar
+1522	GMX/USD	['Binance']	GoldMaxCoin	US Dollar
+1523	GNO/BTC	['Binance', 'Bittrex', 'Huobi', 'Kraken']	Gnosis	Bitcoin
+1524	GNO/CAD	['Synthetic']	Gnosis	Canadian Dollar
+1525	GNO/ETH	['Bittrex', 'Kraken']	Gnosis	Ethereum
+1526	GNO/EUR	['Kraken']	Gnosis	Euro
+1527	GNO/USD	['Binance', 'Huobi', 'Kraken']	Gnosis	US Dollar
+1528	GNS/USD	['Binance']	Gains Network	US Dollar
+1529	GNT/AUD	['Synthetic']	Golem	Australian Dollar
+1530	GNT/BTC	['Binance', 'Huobi']	Golem	Bitcoin
+1531	GNT/ETH	['Binance', 'Huobi']	Golem	Ethereum
+1532	GNT/INR	['Bitbns']	Golem	Indian Rupee
+1533	GNT/KRW	['Bithumb', 'Upbit']	Golem	Korean Won
+1534	GNT/USD	['Gate.io', 'Huobi']	Golem	US Dollar
+1535	GNX/BTC	['Huobi', 'OKEx']	Genaro Network	Bitcoin
+1536	GNX/ETH	['Gate.io', 'Huobi']	Genaro Network	Ethereum
+1537	GNX/USD	['Gate.io']	Genaro Network	US Dollar
+1538	GO/BTC	['Binance', 'Kucoin']	GoChain	Bitcoin
+1539	GOD/BTC	['Gate.io', 'YoBit']	Bitcoin God	Bitcoin
+1540	GOD/USD	['Gate.io']	Bitcoin God	US Dollar
+1541	GO/ETH	['Kucoin']	GoChain	Ethereum
+1542	GOLF/USD	['Synthetic']	Golfcoin	US Dollar
+1543	GOOD/USD	['Synthetic']	Goodomy	US Dollar
+1544	GOT/BTC	['Hotbit']	GoNetwork	Bitcoin
+1545	GOT/USD	['Synthetic']	GoNetwork	US Dollar
+1546	GO/USD	['Kucoin', 'Synthetic']	GoChain	US Dollar
+1547	GP/BTC	['YoBit']	GoldPieces	Bitcoin
+1548	GP/USD	['Synthetic']	GoldPieces	US Dollar
+1549	GPU/USD	['Synthetic']	GPU Coin	US Dollar
+1550	GRC/BTC	['SouthXchange']	GridCoin	Bitcoin
+1551	GRC/USD	['Synthetic']	GridCoin	US Dollar
+1552	GRE/USD	['Synthetic']	Greencoin	US Dollar
+1553	GRFT/BTC	['TradeOgre']	Graft	Bitcoin
+1554	GRFT/USD	['Synthetic']	Graft	US Dollar
+1555	GRIN/BTC	['BitForex', 'Hotbit']	Grin	Bitcoin
+1556	GRIN/ETH	['Hotbit', 'Kucoin']	Grin	Ethereum
+1557	GRIN/USD	['Gate.io', 'Hotbit']	Grin	US Dollar
+1558	GRS/BTC	['Binance', 'Bittrex']	Groestlcoin	Bitcoin
+1559	GRS/ETH	['Huobi']	Groestlcoin	Ethereum
+1560	GRS/KRW	['Upbit']	Groestlcoin	Korean Won
+1561	GRS/USD	['Synthetic']	Groestlcoin	US Dollar
+1562	GRT/AUD	['Kraken']	The Graph	Australian Dollar
+1563	GRT/BTC	['Binance', 'Huobi']	The Graph	Bitcoin
+1564	GRT/CAD	['Synthetic']	The Graph	Canadian Dollar
+1565	GRT/EUR	['Binance', 'Coinbase Pro', 'Kraken']	The Graph	Euro
+1566	GRT/INR	['Bitbns']	The Graph	Indian Rupee
+1567	GRT/USD	['Binance', 'Coinbase Pro', 'Huobi']	The Graph	US Dollar
+1568	GRV/USD	['Synthetic']	Gravium	US Dollar
+1569	GRWI/USD	['Synthetic']	Growers International	US Dollar
+1570	GRX/USD	['Synthetic']	GOLD Reward Token	US Dollar
+1571	GSC/ETH	['Huobi']	Global Social Chain	Ethereum
+1572	GSC/USD	['Synthetic']	Global Social Chain	US Dollar
+1573	GSR/BTC	['YoBit']	GeyserCoin	Bitcoin
+1574	GSR/USD	['Synthetic']	GeyserCoin	US Dollar
+1575	GST/USD	['Coinbase Pro', 'Gate.io', 'Huobi', 'Kucoin']	Green Satoshi Token (SOL)	US Dollar
+1576	GT/BTC	['Gate.io']	GateToken	Bitcoin
+1577	GT/CAD	['Synthetic']	GateToken	Canadian Dollar
+1578	GTC/BTC	['Gate.io']	Global Tour Coin	Bitcoin
+1579	GTC/ETH	['Gate.io']	Global Tour Coin	Ethereum
+1580	GTCG/USD	['Synthetic']	Game.com	US Dollar
+1581	GTC/USD	['Gate.io', 'Synthetic']	Global Tour Coin	US Dollar
+1582	GT/ETH	['Gate.io']	GateToken	Ethereum
+1583	GTO/BTC	['Binance', 'OKEx']	Gifto	Bitcoin
+1584	GTO/USD	['Binance', 'OKEx', 'Synthetic']	Gifto	US Dollar
+1585	GT/USD	['Gate.io', 'Huobi']	GateToken	US Dollar
+1586	GUESS/BTC	['YoBit']	Peerguess	Bitcoin
+1587	GUESS/USD	['Synthetic']	Peerguess	US Dollar
+1588	GUN/BTC	['SouthXchange']	Guncoin	Bitcoin
+1589	GUN/DOGE	['SouthXchange']	Guncoin	Dogecoin
+1590	GUN/USD	['Synthetic']	Guncoin	US Dollar
+1591	GUP/BTC	['Bittrex']	Matchpool	Bitcoin
+1592	GUP/USD	['Synthetic']	Matchpool	US Dollar
+1593	GUSD/USD	['BitMart', 'Hotbit']	Gemini Dollar	US Dollar
+1594	GVT/BTC	['Binance']	Genesis Vision	Bitcoin
+1595	GVT/ETH	['HitBTC']	Genesis Vision	Ethereum
+1596	GVT/USD	['Synthetic']	Genesis Vision	US Dollar
+1597	GXC/BTC	['Huobi']	GXChain	Bitcoin
+1598	GXC/ETH	['Huobi']	GXChain	Ethereum
+1599	GXC/USD	['Bit-Z', 'Huobi']	GXChain	US Dollar
+1600	GXS/BTC	['BigONE', 'Binance']	GXChain	Bitcoin
+1601	GXS/ETH	['Binance']	GXChain	Ethereum
+1602	GXS/USD	['Hotbit', 'Synthetic']	GXChain	US Dollar
+1603	HAC/BTC	['YoBit']	Hackspace Capital	Bitcoin
+1604	HAC/USD	['Synthetic']	Hackspace Capital	US Dollar
+1605	HALLO/USD	['Synthetic']	Halloween Coin	US Dollar
+1606	HALLO/WAVES	['YoBit']	Halloween Coin	Waves
+1607	HBAR/BNB	['Binance']	Hedera Hashgraph	Binance Coin
+1608	HBAR/BTC	['Binance', 'OKEx']	Hedera Hashgraph	Bitcoin
+1609	HBAR/INR	['Bitbns']	Hedera Hashgraph	Indian Rupee
+1610	HBAR/KRW	['Upbit']	Hedera Hashgraph	Korean Won
+1611	HBAR/USD	['Binance', 'OKEx']	Hedera Hashgraph	US Dollar
+1612	HBC/USD	['Synthetic']	HomeBlockCoin	US Dollar
+1613	HCA/BTC	['Gate.io', 'Huobi', 'OKEx']	HyperCash	Bitcoin
+1614	HCA/ETH	['Gate.io', 'Huobi']	HyperCash	Ethereum
+1615	HCA/USD	['Huobi', 'OKEx', 'Synthetic', 'ZB.COM']	HyperCash	US Dollar
+1616	HCC/USD	['Synthetic']	Happy Creator Coin	US Dollar
+1617	HC/USD	['Synthetic']	Harvest Masternode Coin	US Dollar
+1618	HDG/BTC	['YoBit']	Hedge	Bitcoin
+1619	HDG/ETH	['YoBit']	Hedge	Ethereum
+1620	HDG/USD	['YoBit']	Hedge	US Dollar
+1621	HEDG/USD	['Synthetic']	HedgeTrade	US Dollar
+1622	HELP/BTC	['FinexBox']	HELPICO	Bitcoin
+1623	HELP/USD	['Synthetic']	Helpico	US Dollar
+1624	HER/ETH	['Bilaxy']	HeroNode	Ethereum
+1625	HEROm/ETH	['Gate.io']	Metahero	Ethereum
+1626	HEROm/USD	['Gate.io', 'KuCoin']	Metahero	US Dollar
+1627	HER/USD	['Synthetic']	HeroNode	US Dollar
+1628	HGT/BTC	['HitBTC']	HelloGold	Bitcoin
+1629	HGT/ETH	['HitBTC']	HelloGold	Ethereum
+1630	HGT/USD	['Synthetic']	HelloGold	US Dollar
+1631	HIGH/USD	['Synthetic']	High Gain	US Dollar
+1632	HKN/BTC	['YoBit']	Hacken	Bitcoin
+1633	HKN/USD	['Synthetic']	Hacken	US Dollar
+1634	HMC/USD	['Synthetic']	HarmonyCoin	US Dollar
+1635	HMP/USD	['Synthetic']	HempCoin	US Dollar
+1636	HMQ/BTC	['Hotbit', 'Mercatox']	Humaniq	Bitcoin
+1637	HMQ/ETH	['Mercatox']	Humaniq	Ethereum
+1638	HMQ/USD	['Synthetic']	Humaniq	US Dollar
+1639	HNC/BTC	['p2pb2b']	Hellenic Coin	Bitcoin
+1640	HNC/USD	['Synthetic']	Hellenic Coin	US Dollar
+1641	HNT/BRL	['Synthetic']	Helium	Brazil Real
+1642	HNT/BTC	['Binance']	Helium	Bitcoin
+1643	HNT/CAD	['Synthetic']	Helium	Canadian Dollar
+1644	HNT/USD	['Gate.io']	Helium	US Dollar
+1645	HODL/USD	['Synthetic']	HOdlcoin	US Dollar
+1646	HOHOHO/USD	['LATOKEN']	Santa Floki	US Dollar
+1647	HOT/BNB	['Binance']	Holo	Binance Coin
+1648	HOT/BTC	['CoinEx']	Holo	Bitcoin
+1649	HOT/CAD	['Synthetic']	Holo	Canadian Dollar
+1650	HOT/ETH	['Binance', 'Bitrue']	Holo	Ethereum
+1651	HOT/EUR	['Binance']	Holo	Euro
+1652	HOTL/BTC	['Huobi']	Hydro Protocol	Bitcoin
+1653	HOTL/ETH	['Huobi']	Hydro Protocol	Ethereum
+1654	HOTL/USD	['Synthetic']	Hydro Protocol	US Dollar
+1655	HOT/TRY	['Binance', 'Bitexen', 'Paribu']	Holo	Turkish Lira
+1656	HOT/USD	['BigONE', 'Binance', 'Bitrue']	Holo	US Dollar
+1657	HPB/BTC	['Bibox', 'Kucoin']	High Performance Blockchain 	Bitcoin
+1658	HPB/ETH	['Bibox', 'Kucoin']	High Performance Blockchain	Ethereum
+1659	HPB/USD	['Bibox', 'Synthetic']	High Performance Blockchain	US Dollar
+1660	HPC/BTC	['YoBit']	Happycoin	Bitcoin
+1661	HPC/ETH	['YoBit']	Happycoin	Ethereum
+1662	HPC/USD	['Synthetic', 'YoBit']	Happycoin	US Dollar
+1663	HST/BTC	['Livecoin']	Decision Token	Bitcoin
+1664	HST/USD	['Synthetic']	Decision Token	US Dollar
+1665	HT/BTC	['Huobi']	Huobi Token	Bitcoin
+1666	HTC/USD	['Synthetic']	HitCoin	US Dollar
+1667	HT/ETH	['Huobi']	Huobi Token	Ethereum
+1668	HTML5/USD	['Synthetic']	HTML5COIN	US Dollar
+1669	HTR/BTC	['KuCoin']	Hathor	Bitcoin
+1670	HTR/USD	['Gate.io', 'KuCoin']	Hathor	US Dollar
+1671	HT/USD	['Gate.io']	Huobi Token	US Dollar
+1672	HUC/USD	['Synthetic']	HunterCoin	US Dollar
+1673	HUNC/USD	['Synthetic']	Huncoin	US Dollar
+1674	HUSD/USD	['Hotbit']	HUSD	US Dollar
+1675	HVCO/BTC	['YoBit']	High Voltage	Bitcoin
+1676	HVCO/USD	['Synthetic']	High Voltage	US Dollar
+1677	HVN/USD	['Synthetic']	Hiveterminal Token	US Dollar
+1678	HXX/BTC	['YoBit']	Hexx	Bitcoin
+1679	HXX/USD	['Synthetic']	Hexx	US Dollar
+1680	HYDRO/BTC	['Bittrex', 'CoinEx']	Hydro	Bitcoin
+1681	HYDRO/USD	['Synthetic']	Hydro	US Dollar
+1682	HYPER/USD	['Synthetic']	Hyper	US Dollar
+1683	HYP/USD	['Synthetic']	HyperStake	US Dollar
+1684	HYTV/USD	['Synthetic']	Hyper TV	US Dollar
+1685	I0C/USD	['Synthetic']	I0Coin	US Dollar
+1686	IBANK/BTC	['YoBit']	iBank	Bitcoin
+1687	IBANK/USD	['Synthetic']	iBank	US Dollar
+1688	IBTC/USD	['Synthetic']	iBTC	US Dollar
+1689	ICE/USD	['Synthetic']	iDice	US Dollar
+1690	ICOB/USD	['Synthetic']	ICOBID	US Dollar
+1691	ICOM/ETH	['ProBit Exchange']	iCommunity Labs	Ethereum
+1692	ICOM/EUR	['Synthetic']	iCommunity Labs	Euro
+1693	ICOM/USD	['ProBit Exchange']	iCommunity Labs	US Dollar
+1694	ICON/BTC	['YoBit']	Iconic	Bitcoin
+1695	ICON/USD	['Synthetic']	Iconic	US Dollar
+1696	ICOS/BTC	['Livecoin']	ICOS	Bitcoin
+1697	ICOS/USD	['Synthetic']	ICOS	US Dollar
+1698	ICP/BRL	['Synthetic']	Internet Computer	Brazil Real
+1699	ICP/BTC	['Binance', 'Coinbase Pro']	Internet Computer	Bitcoin
+1700	ICP/CAD	['Synthetic']	Internet Computer	Canadian Dollar
+1701	ICP/INR	['Bitbns']	Internet Computer	Indian Rupee
+1702	ICP/TRY	['Bitexen']	Internet Computer	Turkish Lira
+1703	ICP/USD	['Binance', 'Coinbase Pro', 'Huobi']	Internet Computer	US Dollar
+1704	ICX/AUD	['Synthetic']	ICON	Australian Dollar
+1705	ICX/BTC	['Binance', 'HitBTC', 'OKEx']	ICON	Bitcoin
+1706	ICX/CAD	['Synthetic']	ICON	Canadian Dollar
+1707	ICX/CNY	['Synthetic']	ICON	Chinese Yuan
+1708	ICX/ETH	['Binance', 'HitBTC', 'Huobi']	ICON	Ethereum
+1709	ICX/EUR	['Synthetic']	ICON	Euro
+1710	ICX/HKD	['Synthetic']	ICON	Hong Kong Dollar
+1711	ICX/ILS	['Synthetic']	ICON	Israeli Shekel
+1712	ICX/INR	['Synthetic']	ICON	Indian Rupee
+1713	ICX/KRW	['Synthetic']	ICON	Korean Won
+1714	ICX/MXN	['Synthetic']	ICON	Mexican Peso
+1715	ICX/MYR	['Synthetic']	ICON	Malaysian Ringgit
+1716	ICX/PLN	['Synthetic']	ICON	Polish Zloty
+1717	ICX/RUB	['Synthetic']	ICON	Russian Ruble
+1718	ICX/SAR	['Synthetic']	ICON	Saudi Riyal
+1719	ICX/SEK	['Synthetic']	ICON	Swedish Krona
+1720	ICX/TRY	['Synthetic']	ICON	Turkish Lira
+1721	ICX/USD	['Binance', 'DragonEX', 'OKEx']	ICON	US Dollar
+1722	ICX/VND	['Synthetic']	ICON	Vietnamese Dong
+1723	ICX/ZAR	['Synthetic']	ICON	South African Rand
+1724	IETH/BTC	['YoBit']	iEthereum	Bitcoin
+1725	IETH/ETH	['YoBit']	iEthereum	Ethereum
+1726	IETH/USD	['YoBit']	iEthereum	US Dollar
+1727	IFLT/USD	['YoBit']	InflationCoin	US Dollar
+1728	IFT/USD	['Synthetic']	InvestFeed	US Dollar
+1729	IGNIS/BTC	['Bittrex', 'TOKOK']	Ignis	Bitcoin
+1730	IGNIS/ETH	['HitBTC']	Ignis	Ethereum
+1731	IGNIS/IDR	['Indodax']	Ignis	Indonesian Rupiah
+1732	IGNIS/USD	['Synthetic']	Ignis	US Dollar
+1733	IHT/USD	['Gate.io']	IHT Real Estate Protocol	US Dollar
+1734	ILV/BTC	['Binance']	Illuvium	Bitcoin
+1735	ILV/USD	['Binance']	Illuvium	US Dollar
+1736	IMPS/BTC	['YoBit']	ImpulseCoin	Bitcoin
+1737	IMPS/USD	['Synthetic']	ImpulseCoin	US Dollar
+1738	IMS/BTC	['YoBit']	Independent Money System 	Bitcoin
+1739	IMS/USD	['Synthetic']	Independent Money System	US Dollar
+1740	IMXm/USD	['FTX', 'Huobi']	Immutable X	US Dollar
+1741	IMX/USD	['Binance']	Impact	US Dollar
+1742	INB/USD	['DragonEX']	Insight Chain	US Dollar
+1743	IND/BTC	['YoBit']	Indorse Token	Bitcoin
+1744	IND/ETH	['HitBTC']	Indorse Token	Ethereum
+1745	IND/USD	['Synthetic']	Indorse Token	US Dollar
+1746	INF/USD	['Synthetic']	InfChain	US Dollar
+1747	INFX/BTC	['YoBit']	Influxcoin	Bitcoin
+1748	INFX/USD	['Synthetic']	Influxcoin	US Dollar
+1749	INJ/BTC	['Binance']	Injective Protocol	Bitcoin
+1750	INJ/USD	['Binance']	Injective Protocol	US Dollar
+1751	INK/BTC	['Gate.io']	Ink	Bitcoin
+1752	INK/ETH	['Gate.io', 'HitBTC']	Ink	Ethereum
+1753	INK/USD	['Gate.io']	Ink	US Dollar
+1754	INN/BTC	['Crex24']	Innova	Bitcoin
+1755	INN/USD	['Synthetic']	Innova	US Dollar
+1756	INO/USD	['Exrates']	INO COIN	US Dollar
+1757	INSN/BTC	['FinexBox']	InsaneCoin	Bitcoin
+1758	INSN/USD	['Synthetic']	InsaneCoin	US Dollar
+1759	INS/USD	['Synthetic']	Insolar	US Dollar
+1760	INT/BTC	['OKEx']	Internet Node Token	Bitcoin
+1761	INT/ETH	['OKEx']	Internet Node Token	Ethereum
+1762	INT/USD	['OKEx']	Internet Node Token	US Dollar
+1763	INVC/USD	['Synthetic']	Investcoin	US Dollar
+1764	INXT/BTC	['Mercatox']	Internxt	Bitcoin
+1765	INXT/USD	['Synthetic']	Internxt	US Dollar
+1766	IOC/BTC	['Bittrex']	I/O Coin	Bitcoin
+1767	IOC/USD	['Synthetic']	I/O Coin	US Dollar
+1768	ION/BTC	['Crex24']	ION	Bitcoin
+1769	ION/USD	['Synthetic']	ION	US Dollar
+1770	IOP/BTC	['FinexBox']	Internet of People	Bitcoin
+1771	IOP/USD	['Synthetic']	Internet of People	US Dollar
+1772	IOST/BTC	['BigONE', 'Binance', 'OKEx']	IOStoken	Bitcoin
+1773	IOST/ETH	['Binance', 'OKEx']	IOStoken	Ethereum
+1774	IOST/USD	['Binance', 'Huobi', 'OKEx']	IOST	US Dollar
+1775	IOTA/AUD	['Synthetic']	IOTA	Australian Dollar
+1776	IOTA/BNB	['Binance']	IOTA	Binance Coin
+1777	IOTA/BRL	['NovaDAX']	IOTA	Brazil Real
+1778	IOTA/BTC	['Binance', 'Bitfinex']	IOTA	Bitcoin
+1779	IOTA/CAD	['Synthetic']	IOTA	Canadian Dollar
+1780	IOTA/CNY	['Synthetic']	IOTA	Chinese Yuan
+1781	IOTA/ETH	['Binance', 'Bitfinex']	IOTA	Ethereum
+1782	IOTA/EUR	['Synthetic']	IOTA	Euro
+1783	IOTA/HKD	['Synthetic']	IOTA	Hong Kong Dollar
+1784	IOTA/ILS	['Synthetic']	IOTA	Israeli Shekel
+1785	IOTA/INR	['Synthetic']	IOTA	Indian Rupee
+1786	IOTA/KRW	['Coinone']	IOTA	Korean Won
+1787	IOTA/MXN	['Synthetic']	IOTA	Mexican Peso
+1788	IOTA/MYR	['Synthetic']	IOTA	Malaysian Ringgit
+1789	IOTA/PLN	['Synthetic']	IOTA	Polish Zloty
+1790	IOTA/RUB	['Synthetic']	IOTA	Russian Ruble
+1791	IOTA/SAR	['Synthetic']	IOTA	Saudi Riyal
+1792	IOTA/SEK	['Synthetic']	IOTA	Swedish Krona
+1793	IOTA/TRY	['Synthetic']	IOTA	Turkish Lira
+1794	IOTA/USD	['Bitfinex', 'OKEx']	IOTA	US Dollar
+1795	IOTA/VND	['Synthetic']	IOTA	Vietnamese Dong
+1796	IOTA/ZAR	['Synthetic']	IOTA	South African Rand
+1797	IOT/BTC	['OKEx']	IOTA	Bitcoin
+1798	IOT/GBP	['Bitfinex']	IOTA	British Pound
+1799	IOT/USD	['Binance', 'HitBTC']	IOTA	US Dollar
+1800	IOTX/BTC	['Binance', 'Upbit']	IoTeX	Bitcoin
+1801	IOTX/ETH	['Binance', 'Kucoin']	IoTeX	Ethereum
+1802	IOTX/USD	['Binance', 'Gate.io', 'Synthetic']	IoTeX	US Dollar
+1803	IPX/BTC	['HitBTC']	Tachyon Protocol	Bitcoin
+1804	IPX/KRW	['Bithumb']	Tachyon Protocol	Korean Won
+1805	IPX/USD	['HitBTC', 'Hotbit']	Tachyon Protocol	US Dollar
+1806	IQN/BTC	['YoBit']	IQeon	Bitcoin
+1807	IQN/ETH	['YoBit']	IQeon	Ethereum
+1808	IQN/USD	['YoBit']	IQeon	US Dollar
+1809	IREX/BTC	['HitBTC']	imbrex	Bitcoin
+1810	IREX/ETH	['HitBTC']	imbrex	Ethereum
+1811	IREX/USD	['Synthetic']	imbrex	US Dollar
+1812	IRIS/BTC	['Binance', 'Huobi']	IRISnet	Bitcoin
+1813	IRIS/USD	['Binance', 'Huobi']	IRISnet	US Dollar
+1814	IRL/USD	['Synthetic']	IrishCoin	US Dollar
+1815	ISL/BTC	['YoBit']	IslaCoin	Bitcoin
+1816	ISL/USD	['Synthetic']	IslaCoin	US Dollar
+1817	ITC/BTC	['Huobi']	IoT Chain	Bitcoin
+1818	ITC/ETH	['Huobi']	IoT Chain	Ethereum
+1819	ITC/USD	['OKEx']	IoT Chain	US Dollar
+1820	ITI/BTC	['Livecoin']	iTicoin	Bitcoin
+1821	ITI/USD	['Synthetic']	iTicoin	US Dollar
+1822	IVY/ETH	['Coinbene']	Ivy	Ethereum
+1823	IVY/USD	['Synthetic']	Ivy	US Dollar
+1824	IVZ/BTC	['YoBit']	InvisibleCoin	Bitcoin
+1825	IVZ/USD	['Synthetic']	InvisibleCoin	US Dollar
+1826	IXC/BTC	['YoBit']	Ixcoin	Bitcoin
+1827	IXC/USD	['Synthetic']	Ixcoin	US Dollar
+1828	IXT/BTC	['YoBit']	iXledger	Bitcoin
+1829	IXT/ETH	['YoBit']	IXT	Ethereum
+1830	IXT/USD	['Synthetic']	iXledger	US Dollar
+1831	JAN/BTC	['SouthXchange']	CoinJanitor	Bitcoin
+1832	JAN/USD	['Synthetic']	CoinJanitor	US Dollar
+1833	JASMY/USD	['Bittrex', 'Coinbase Pro', 'Gate.io']	JasmyCoin	US Dollar
+1834	JET/BTC	['Mercatox']	Jetcoin	Bitcoin
+1835	JET/USD	['Synthetic']	Jetcoin	US Dollar
+1836	JIN/USD	['Synthetic']	Jin Coin	US Dollar
+1837	JNT/ETH	['Gate.io']	Jibrel Network	Ethereum
+1838	JNT/USD	['Synthetic']	Jibrel Network	US Dollar
+1839	JOBS/ETH	['YoBit']	JobsCoin	Ethereum
+1840	JOBS/USD	['Synthetic']	JobsCoin	US Dollar
+1841	JOE/USD	['Binance']	JOE	US Dollar
+1842	JS/BTC	['SouthXchange']	JavaScript Token	Bitcoin
+1843	JSE/USD	['Synthetic']	JSECOIN	US Dollar
+1844	JS/USD	['Synthetic']	JavaScript Token	US Dollar
+1845	JUICE/USD	['Huobi']	Juice Finance	US Dollar
+1846	JWL/BTC	['YoBit']	Jewels	Bitcoin
+1847	JWL/USD	['Synthetic']	Jewels	US Dollar
+1848	KALA/USD	['ProBit Exchange']	Kala	US Dollar
+1849	KARMA/USD	['Synthetic']	Karmacoin	US Dollar
+1850	KASHH/USD	['Synthetic']	KashhCoin	US Dollar
+1851	KAVA/BNB	['Binance']	Kava.io	Binance Coin
+1852	KAVA/BTC	['Binance', 'Kraken']	Kava.io	Bitcoin
+1853	KAVA/CAD	['Synthetic']	Kava	Canadian Dollar
+1854	KAVA/EUR	['Kraken']	Kava.io	Euro
+1855	KAVA/USD	['Binance', 'Kraken', 'Kucoin']	Kava	US Dollar
+1856	KBR/USD	['Synthetic']	Kubera Coin	US Dollar
+1857	KCS/BTC	['Kucoin']	KuCoin Shares	Bitcoin
+1858	KCS/ETH	['Kucoin']	KuCoin Shares	Ethereum
+1859	KCS/USD	['Kucoin']	KuCoin Shares	US Dollar
+1860	KDA/BTC	['Bittrex', 'Kucoin']	Kadena	Bitcoin
+1861	KDA/USD	['Kucoin']	Kadena	US Dollar
+1862	KED/USD	['Synthetic']	Darsek	US Dollar
+1863	KEEP/BTC	['Kraken']	Keep Network	Bitcoin
+1864	KEEP/TRY	['Paribu']	Keep Network	Turkish Lira
+1865	KEEP/USD	['Kraken']	Keep Network	US Dollar
+1866	KEK/BTC	['Crex24']	KekCoin	Bitcoin
+1867	KEK/USD	['Synthetic']	KekCoin	US Dollar
+1868	KEY/BTC	['Kucoin']	Selfkey	Bitcoin
+1869	KEY/ETH	['Binance', 'Kucoin']	Selfkey	Ethereum
+1870	KEY/USD	['Binance', 'Synthetic']	Selfkey	US Dollar
+1871	KICK/USD	['STEX']	KickToken	US Dollar
+1872	KIN/CNY	['Synthetic']	Kin	Chinese Yuan
+1873	KIN/ETH	['HitBTC', 'Mercatox']	Kin	Ethereum
+1874	KIN/LTC	['Mercatox']	Kin	Litecoin
+1875	KIN/USD	['CoinTiger']	Kin	US Dollar
+1876	KLAY/KRW	['Bithumb', 'Coinone']	Klaytn	Korean Won
+1877	KLAY/USD	['Gate.io', 'OKEx']	Klaytn	US Dollar
+1878	KLC/USD	['Synthetic']	KiloCoin	US Dollar
+1879	KMD/BTC	['Binance', 'Bittrex']	Komodo	Bitcoin
+1880	KMD/ETH	['Binance', 'HitBTC']	Komodo	Ethereum
+1881	KMD/USD	['Synthetic']	Komodo	US Dollar
+1882	KNC/BTC	['Binance', 'OKEx']	Kyber Network	Bitcoin
+1883	KNC/ETH	['Binance', 'Bitrue']	Kyber Network	Ethereum
+1884	KNC/KRW	['Bithumb', 'Upbit']	Kyber Network	Korean Won
+1885	KNC/THB	['Bitkub']	Kyber Network	Thai Baht
+1886	KNC/USD	['Binance', 'Gate.io', 'OKEx']	Kyber Network Crystal v2	US Dollar
+1887	KNC/XRP	['Bitrue']	Kyber Network	XRP
+1888	KOBO/BTC	['YoBit']	Kobocoin	Bitcoin
+1889	KOBO/USD	['Synthetic']	Kobocoin	US Dollar
+1890	KORE/BTC	['FreiExchange']	Kore	Bitcoin
+1891	KORE/USD	['Synthetic']	Kore	US Dollar
+1892	KP3R/USD	['Binance', 'Gate.io']	Keep3rV1	US Dollar
+1893	KSM/BTC	['Binance', 'Kraken']	Kusama	Bitcoin
+1894	KSM/EUR	['Kraken']	Kusama	Euro
+1895	KSM/USD	['Binance', 'Huobi']	Kusama	US Dollar
+1896	KUB/THB	['Bitkub']	Bitkub Coin	Thai Baht
+1897	KUB/USD	['Synthetic']	Bitkub Coin	US Dollar
+1898	KUMA/USD	['Gate.io']	Kuma Inu	US Dollar
+1899	KURT/BTC	['YoBit']	Kurrent	Bitcoin
+1900	KURT/USD	['Synthetic']	Kurrent	US Dollar
+1901	KUSH/BTC	['YoBit']	KushCoin	Bitcoin
+1902	KUSH/USD	['Synthetic']	KushCoin	US Dollar
+1903	LA/BTC	['LATOKEN']	LATOKEN	Bitcoin
+1904	LA/ETH	['HitBTC', 'LATOKEN']	LATOKEN	Ethereum
+1905	LAMBO/USD	['YoBit']	Lambo Coin	US Dollar
+1906	LANA/USD	['Synthetic']	LanaCoin	US Dollar
+1907	LA/USD	['Synthetic']	LATOKEN	US Dollar
+1908	LAZ/BTC	['YoBit']	Lazaruscoin	Bitcoin
+1909	LAZIO/BTC	['Binance']	S.S. Lazio Fan Token	Bitcoin
+1910	LAZIO/EUR	['Binance']	S.S. Lazio Fan Token	Euro
+1911	LAZIO/TRY	['Binance']	S.S. Lazio Fan Token	Turkish Lira
+1912	LAZIO/USD	['Binance']	S.S. Lazio Fan Token	US Dollar
+1913	LAZ/USD	['Synthetic']	Lazaruscoin	US Dollar
+1914	LBA/USD	['Gate.io']	Cred	US Dollar
+1915	LBC/BTC	['Bittrex']	LBRY Credits	Bitcoin
+1916	LBC/USD	['Synthetic']	LBRY Credits	US Dollar
+1917	LBTC/USD	['Uniswap']	Lombard Staked BTC	US Dollar
+1918	LBTCX/BTC	['YoBit']	LiteBitcoin	Bitcoin
+1919	LBTCX/USD	['YoBit']	LiteBitcoin	US Dollar
+1920	LCC/BTC	['HitBTC', 'SouthXchange']	Litecoin Cash	Bitcoin
+1921	LCC/USD	['SouthXchange', 'YoBit']	Litecoin Cash	US Dollar
+1922	LCE/USD	['Synthetic']	LitecoinExtreme	US Dollar
+1923	LCP/BTC	['Crex24']	Litecoin Plus	Bitcoin
+1924	LCP/USD	['Synthetic']	Litecoin Plus	US Dollar
+1925	LDC/BNT	['Bancor Network']	Leadcoin	Bancor
+1926	LDC/USD	['Synthetic']	Leadcoin	US Dollar
+1927	LDO/BTC	['Binance']	Lido DAO	Bitcoin
+1928	LDOGE/USD	['Synthetic']	LiteDoge	US Dollar
+1929	LDO/USD	['Binance', 'Gate.io']	Lido DAO	US Dollar
+1930	LEA/USD	['Synthetic']	LeaCoin	US Dollar
+1931	LEOu/BTC	['Bitfinex']	UNUS SED LEO	Bitcoin
+1932	LEOu/CAD	['Synthetic']	UNUS SED LEO	Canadian Dollar
+1933	LEOu/ETH	['Bitfinex']	UNUS SED LEO	Ethereum
+1934	LEOu/USD	['Bitfinex', 'Gate.io']	UNUS SED LEO	US Dollar
+1935	LEPEN/USD	['Synthetic']	LePen	US Dollar
+1936	LINA/BTC	['Binance']	Linear	Bitcoin
+1937	LINA/USD	['Binance']	Linear	US Dollar
+1938	LINDA/USD	['Synthetic']	Linda	US Dollar
+1939	LINK/BRL	['Binance', 'MercadoBitcoin']	Chainlink	Brazil Real
+1940	LINK/BTC	['Binance', 'Huobi']	Chainlink	Bitcoin
+1941	LINK/CAD	['Synthetic']	Chainlink	Canadian Dollar
+1942	LINK/ETH	['Binance', 'Bitrue']	Chainlink	Ethereum
+1943	LINK/EUR	['Binance', 'Coinbase Pro', 'Kraken']	Chainlink	Euro
+1944	LINK/TRY	['BTCTurk', 'Paribu']	Chainlink	Turkish Lira
+1945	LINK/USD	['Binance', 'Huobi']	Chainlink	US Dollar
+1946	LINK/XRP	['Bitrue']	Chainlink	XRP
+1947	LINX/BTC	['NLexch']	Linx	Bitcoin
+1948	LINX/USD	['Synthetic']	Linx	US Dollar
+1949	LION/USD	['Synthetic']	Lion Coin	US Dollar
+1950	LIR/USD	['Synthetic']	LetItRide	US Dollar
+1951	LIZA/BTC	['YoBit']	LIZA	Bitcoin
+1952	LIZA/USD	['Synthetic']	LIZA	US Dollar
+1953	LIZ/USD	['Synthetic']	Lizus	US Dollar
+1954	LKC/USD	['Synthetic']	LinkedCoin	US Dollar
+1955	LKK/CHF	['Lykke']	Lykke	Swiss Franc
+1956	LKK/USD	['Synthetic']	Lykke	US Dollar
+1957	LKRc/BTC	['Crex24']	LKRCoin	Bitcoin
+1958	LKRc/USD	['Synthetic']	LKRCoin	US Dollar
+1959	LMC/USD	['Synthetic']	LoMoCoin	US Dollar
+1960	LND/ETH	['HitBTC']	Lendingblock	Ethereum
+1961	LND/USD	['Synthetic']	LendingBlock	US Dollar
+1962	LNK/USD	['Synthetic']	Link Platform	US Dollar
+1963	LNX/USD	['ProBit Exchange']	LNX Protocol	US Dollar
+1964	LOC/BTC	['HitBTC', 'YoBit']	LockTrip	Bitcoin
+1965	LOC/DOGE	['YoBit']	LockTrip	Dogecoin
+1966	LOC/RUB	['YoBit']	LockTrip	Russian Ruble
+1967	LOC/USD	['HitBTC', 'YoBit']	LockTrip	US Dollar
+1968	LOC/WAVES	['YoBit']	LockTrip	Waves
+1969	LOKI/BTC	['Kucoin']	Loki	Bitcoin
+1970	LOKI/ETH	['Kucoin']	Loki	Ethereum
+1971	LOKI/USD	['Synthetic']	Loki	US Dollar
+1972	LOOM/BTC	['Binance', 'Huobi']	Loom Network	Bitcoin
+1973	LOOM/ETH	['Binance', 'Hotbit']	Loom Network	Ethereum
+1974	LOOM/KRW	['Upbit']	Loom Network	Korean Won
+1975	LOOM/USD	['Synthetic']	Loom Network	US Dollar
+1976	LOT/USD	['Synthetic']	LottoCoin	US Dollar
+1977	LPC/BTC	['Crex24']	Lightpaycoin	Bitcoin
+1978	LPC/USD	['Synthetic']	Lightpaycoin	US Dollar
+1979	LPT/USD	['Binance', 'Coinbase Pro']	Livepeer	US Dollar
+1980	LQTY/USD	['Huobi']	Liquity	US Dollar
+1981	LRC/BTC	['Binance', 'OKEx']	Loopring	Bitcoin
+1982	LRC/ETH	['Binance', 'HitBTC']	Loopring	Ethereum
+1983	LRC/EUR	['Kraken']	Loopring	Euro
+1984	LRC/KRW	['Bithumb']	Loopring	Korean Won
+1985	LRC/TRY	['Paribu']	Loopring	Turkish Lira
+1986	LRC/USD	['Binance', 'Gate.io', 'OKEx']	Loopring	US Dollar
+1987	LSK/AUD	['Synthetic']	Lisk	Australian Dollar
+1988	LSK/BTC	['Binance', 'HitBTC']	Lisk	Bitcoin
+1989	LSK/CAD	['Synthetic']	Lisk	Canadian Dollar
+1990	LSK/CNY	['Synthetic']	Lisk	Chinese Yuan
+1991	LSK/ETH	['Binance']	Lisk	Ethereum
+1992	LSK/EUR	['BitBay']	Lisk	Euro
+1993	LSK/HKD	['Synthetic']	Lisk	Hong Kong Dollar
+1994	LSK/ILS	['Synthetic']	Lisk	Israeli Shekel
+1995	LSK/INR	['Synthetic']	Lisk	Indian Rupee
+1996	LSK/KRW	['Synthetic', 'Upbit']	Lisk	Korean Won
+1997	LSK/MXN	['Synthetic']	Lisk	Mexican Peso
+1998	LSK/MYR	['Synthetic']	Lisk	Malaysian Ringgit
+1999	LSK/PLN	['BitBay', 'Synthetic']	Lisk	Polish Zloty
+2000	LSK/RUB	['Synthetic']	Lisk	Russian Ruble
+2001	LSK/SAR	['Synthetic']	Lisk	Saudi Riyal
+2002	LSK/SEK	['Synthetic']	Lisk	Swedish Krona
+2003	LSK/TRY	['Synthetic']	Lisk	Turkish Lira
+2004	LSK/USD	['Binance', 'Gate.io']	Lisk	US Dollar
+2005	LSK/VND	['Synthetic']	Lisk	Vietnamese Dong
+2006	LSK/ZAR	['Synthetic']	Lisk	South African Rand
+2007	LTB/BTC	['FreiExchange']	LiteBar	Bitcoin
+2008	LTB/USD	['Synthetic']	LiteBar	US Dollar
+2009	LTC/AUD	['BTC Markets', 'Synthetic']	Litecoin	Australian Dollar
+2010	LTC/BCH	['CoinEx']	Litecoin	Bitcoin Cash
+2011	LTC/BNB	['Binance']	Litecoin	Binance Coin
+2012	LTC/BRL	['Binance', 'MercadoBitcoin', 'NovaDAX']	Litecoin	Brazil Real
+2013	LTC/BTC	['HitBTC', 'OKEx']	Litecoin	Bitcoin
+2014	LTC/CAD	['Synthetic']	Litecoin	Canadian Dollar
+2015	LTC/CNY	['Synthetic']	Litecoin	Chinese Yuan
+2016	LTC/EOS	['HitBTC']	Litecoin	EOS
+2017	LTC/ETH	['Bibox', 'Binance', 'p2pb2b']	Litecoin	Ethereum
+2018	LTC/EUR	['BitStamp', 'Coinbase Pro']	Litecoin	Euro
+2019	LTC/GBP	['Coinbase Pro']	Litecoin	British Pound
+2020	LTC/HKD	['Synthetic']	Litecoin	Hong Kong Dollar
+2021	LTC/IDR	['BTC Indonesia']	Litecoin	Indonesian Rupiah
+2022	LTC/ILS	['Synthetic']	Litecoin	Israeli Shekel
+2023	LTC/INR	['Bitbns', 'Synthetic']	Litecoin	Indian Rupee
+2024	LTC/JPY	['Bitbank']	Litecoin	Japanese Yen
+2025	LTC/KRW	['Bithumb', 'Upbit']	Litecoin	Korean Won
+2026	LTC/MXN	['Synthetic']	Litecoin	Mexican Peso
+2027	LTC/MYR	['Luno', 'Synthetic']	Litecoin	Malaysian Ringgit
+2028	LTC/NGN	['Luno']	Litecoin	Nigerian Naira
+2029	LTC/PLN	['BitBay', 'Synthetic']	Litecoin	Polish Zloty
+2030	LTCR/BTC	['YoBit']	Litecred	Bitcoin
+2031	LTC/RUB	['Exmo', 'Synthetic']	Litecoin	Russian Ruble
+2032	LTCR/USD	['Synthetic']	Litecred	US Dollar
+2033	LTC/SAR	['Synthetic']	Litecoin	Saudi Riyal
+2034	LTC/SEK	['Synthetic']	Litecoin	Swedish Krona
+2035	LTC/THB	['Bitkub']	Litecoin	Thai Baht
+2036	LTC/TRY	['Bitexen', 'BTCTurk', 'Paribu', 'Synthetic']	Litecoin	Turkish Lira
+2037	LTCU/BTC	['YoBit']	LiteCoin Ultra	Bitcoin
+2038	LTC/USD	['Binance', 'Coinbene']	Litecoin	US Dollar
+2039	LTCU/USD	['Synthetic']	LiteCoin Ultra	US Dollar
+2040	LTC/VND	['Synthetic']	Litecoin	Vietnamese Dong
+2041	LTC/ZAR	['Luno', 'Synthetic']	Litecoin	South African Rand
+2042	LTG/USD	['Synthetic']	LiteCoin Gold	US Dollar
+2043	LTH/USD	['Synthetic']	LAthaan	US Dollar
+2044	LUMIA/USD	['Binance']	Lumia	US Dollar
+2045	LUNA/BTC	['YoBit']	Luna Coin	Bitcoin
+2046	LUNAt/BRL	['Synthetic']	Terra	Brazil Real
+2047	LUNAt/BTC	['Binance', 'Huobi']	Terra	Bitcoin
+2048	LUNAt/CAD	['Synthetic']	Terra	Canadian Dollar
+2049	LUNAt/EUR	['Binance']	Terra	Euro
+2050	LUNAt/INR	['Bitbns']	Terra	Indian Rupee
+2051	LUNAt/TRY	['Binance']	Terra	Turkish Lira
+2052	LUNAt/USD	['Binance', 'Huobi']	Terra	US Dollar
+2053	LUNA/USD	['Synthetic']	Luna Coin	US Dollar
+2054	LUN/BTC	['Huobi']	Lunyr	Bitcoin
+2055	LUNC/BRL	['Synthetic']	Terra Classic	Brazil Real
+2056	LUNC/CAD	['Synthetic']	Terra Classic	Canadian Dollar
+2057	LUNC/USD	['Gate.io', 'Huobi', 'Kucoin']	Terra Classic	US Dollar
+2058	LUN/ETH	['YoBit']	Lunyr	Ethereum
+2059	LUN/USD	['Synthetic']	Lunyr	US Dollar
+2060	LUSD/USD	['Uniswap']	Liquidity USD	US Dollar
+2061	LUX/BTC	['TradeOgre']	LUXCoin	Bitcoin
+2062	LUX/USD	['Synthetic']	LUXCoin	US Dollar
+2063	LVPS/USD	['Synthetic']	LevoPlus	US Dollar
+2064	LYL/BTC	['ProBit Exchange']	LoyalCoin	Bitcoin
+2065	LYL/USD	['Synthetic']	LoyalCoin	US Dollar
+2066	LYM/BTC	['Huobi', 'Kucoin']	Lympo	Bitcoin
+2067	LYM/ETH	['Huobi', 'Kucoin']	Lympo	Ethereum
+2068	LYM/USD	['Gate.io', 'Kucoin']	Lympo	US Dollar
+2069	MAC/USD	['Synthetic']	Machinecoin	US Dollar
+2070	MAGN/USD	['Synthetic']	Magnetcoin	US Dollar
+2071	MAGT/USD	['Synthetic']	Magnet	US Dollar
+2072	MAID/BTC	['Bittrex', 'HitBTC']	MaidSafeCoin	Bitcoin
+2073	MAID/ETH	['HitBTC']	MaidSafeCoin	Ethereum
+2074	MAID/USD	['HitBTC']	MaidSafeCoin	US Dollar
+2075	MANA/BRL	['NovaDAX']	Decentraland	Brazil Real
+2076	MANA/BTC	['Binance', 'OKEx']	Decentraland	Bitcoin
+2077	MANA/CAD	['Synthetic']	Decentraland	Canadian Dollar
+2078	MANA/ETH	['Binance', 'Huobi', 'OKEx']	Decentraland	Ethereum
+2079	MANA/EUR	['Coinbase Pro', 'Kraken']	Decentraland	Euro
+2080	MANA/INR	['Bitbns']	Decentraland	Indian Rupee
+2081	MANA/TRY	['Binance']	Decentraland	Turkish Lira
+2082	MANA/USD	['Binance', 'Gate.io', 'OKEx']	Decentraland	US Dollar
+2083	MAN/BTC	['Huobi', 'Kucoin']	Matrix AI Network	Bitcoin
+2084	MAN/ETH	['Huobi']	Matrix AI Network	Ethereum
+2085	Manna/USD	['Kraken']	Manna	US Dollar
+2086	MANTA/USD	['Binance']	Manta Network	US Dollar
+2087	MAN/USD	['Synthetic']	Martix AI Network	US Dollar
+2088	MAO/BTC	['YoBit']	Mao Zedong	Bitcoin
+2089	MAO/USD	['Synthetic']	Mao Zedong	US Dollar
+2090	MARc/BTC	['Crex24']	Mchain	Bitcoin
+2091	MARc/ETH	['Crex24']	Mchain	Ethereum
+2092	MARc/USD	['Synthetic']	Mchain	US Dollar
+2093	MARO/USD	['Bibox']	Maro	US Dollar
+2094	MARS/USD	['Synthetic']	Marscoin	US Dollar
+2095	MARX/USD	['Synthetic']	MarxCoin	US Dollar
+2096	MASK/USD	['Binance', 'Coinbase Pro', 'Gate.io']	Mask Network	US Dollar
+2097	MATIC/BNB	['Binance']	Polygon	Binance Coin
+2098	MATIC/BRL	['Binance']	Polygon	Brazil Real
+2099	MATIC/BTC	['Binance']	Polygon	Bitcoin
+2100	MATIC/CAD	['Synthetic']	Polygon	Canadian Dollar
+2101	MATIC/EUR	['Binance', 'Kraken']	Polygon	Euro
+2102	MATIC/INR	['Bitbns']	Polygon	Indian Rupee
+2103	MATIC/TRY	['BTCTurk']	Polygon	Turkish Lira
+2104	MATIC/USD	['Binance', 'Dcoin']	Polygon	US Dollar
+2105	MAVRO/BTC	['YoBit']	Mavro	Bitcoin
+2106	MAVRO/USD	['Synthetic']	Mavro	US Dollar
+2107	MAX/BTC	['YoBit']	MaxCoin	Bitcoin
+2108	MAX/USD	['Synthetic']	MaxCoin	US Dollar
+2109	MAY/USD	['Synthetic']	Theresa May Coin	US Dollar
+2110	MAZA/USD	['Synthetic']	MazaCoin	US Dollar
+2111	MBOX/BTC	['Binance']	MOBOX	Bitcoin
+2112	MBOX/BUSD	['Binance']	MOBOX	Binance USD
+2113	MBOX/USD	['Binance']	MOBOX	US Dollar
+2114	MBRS/USD	['Synthetic']	Embers	US Dollar
+2115	MCAP/USD	['Synthetic']	MCAP	US Dollar
+2116	MCI/USD	['Synthetic']	Musiconomi	US Dollar
+2117	MCO/USD	['OKEx', 'YoBit']	Crypto.com	US Dollar
+2118	MCR/BTC	['Livecoin']	Macro	Bitcoin
+2119	MCR/USD	['Synthetic']	Macro	US Dollar
+2120	MDA/BTC	['Binance']	Moeda Loyalty Points	Bitcoin
+2121	MDA/ETH	['Gate.io']	Moeda Loyalty Points	Ethereum
+2122	MDA/USD	['Gate.io']	Moeda Loyalty Points	US Dollar
+2123	MDS/BTC	['Huobi']	MediShares	Bitcoin
+2124	MDS/ETH	['Gate.io', 'Huobi']	MediShares	Ethereum
+2125	MDS/USD	['Gate.io']	MediShares	US Dollar
+2126	MDT/BTC	['Gate.io']	Measurable Data Token 	Bitcoin
+2127	MDT/ETH	['Gate.io']	Measurable Data Token	Ethereum
+2128	MDT/USD	['Gate.io', 'OKEx']	Measurable Data Token	US Dollar
+2129	MDX/USD	['Binance', 'Huobi']	Mdex	US Dollar
+2130	MEC/BTC	['Crex24']	Megacoin	Bitcoin
+2131	MEC/USD	['Synthetic']	Megacoin	US Dollar
+2132	MED/USD	['Gate.io']	Medibloc	US Dollar
+2133	MEDX/BTC	['Kryptono']	MediBloc [ERC20]	Bitcoin
+2134	MEDX/USD	['Synthetic']	MediBloc [ERC20]	US Dollar
+2135	MER/BTC	['Bittrex']	Mercury	Bitcoin
+2136	MERI/BTC	['Crex24']	Merebel	Bitcoin
+2137	MERI/USD	['Synthetic']	Merebel	US Dollar
+2138	MERL/USD	['OKX']	Merlin Chain	US Dollar
+2139	MER/USD	['Synthetic']	Mercury	US Dollar
+2140	METAL/BTC	['YoBit']	MetalCoin	Bitcoin
+2141	METAL/USD	['Synthetic']	MetalCoin	US Dollar
+2142	MET/BTC	['Hotbit']	Metronome	Bitcoin
+2143	MET/ETH	['Hotbit']	Metronome	Ethereum
+2144	METIS/ETH	['Gate.io']	MetisDAO	Ethereum
+2145	METIS/USD	['Gate.io']	MetisDAO	US Dollar
+2146	MET/USD	['Gate.io', 'Synthetic']	Metronome	US Dollar
+2147	MEXC/BTC	['Bilaxy']	MEXC Token	Bitcoin
+2148	MEXC/USD	['Synthetic']	MEXC Token	US Dollar
+2149	MFT/BNB	['Binance']	Mainframe	Binance Coin
+2150	MFT/BTC	['Bittrex']	Mainframe	Bitcoin
+2151	MFT/ETH	['Binance']	Mainframe	Ethereum
+2152	MFT/KRW	['Upbit']	Mainframe	Korean Won
+2153	MFT/USD	['Binance', 'Synthetic']	Mainframe	US Dollar
+2154	MGC/USD	['Synthetic']	MergeCoin	US Dollar
+2155	MGM/USD	['Synthetic']	Magnum	US Dollar
+2156	MGO/USD	['BitForex']	MobileGo	US Dollar
+2157	MHC/BTC	['BitForex', 'Kucoin']	#MetaHash	Bitcoin
+2158	MHC/ETH	['CEX.IO', 'Kucoin']	#MetaHash	Ethereum
+2159	MHC/EUR	['CEX.IO']	#MetaHash	Euro
+2160	MHC/GBP	['CEX.IO']	#MetaHash	British Pound
+2161	MHC/USD	['CEX.IO', 'Kucoin']	#MetaHash	US Dollar
+2162	MIC/USD	['Synthetic']	Mindexcoin	US Dollar
+2163	MILO/BTC	['YoBit']	MiloCoin	Bitcoin
+2164	MILO/USD	['Synthetic']	MiloCoin	US Dollar
+2165	MINA/BTC	['Binance']	Mina	Bitcoin
+2166	MINA/USD	['Binance']	Mina	US Dollar
+2167	MIN/BTC	['CoinTiger']	MINDOL	Bitcoin
+2168	MINEX/USD	['Synthetic']	Minex	US Dollar
+2169	MINTME/USD	['Synthetic']	MintMe.com Coin	US Dollar
+2170	MIN/USD	['Synthetic']	MINDOL	US Dollar
+2171	MITH/BNB	['Binance']	Mithril	Binance Coin
+2172	MITH/BTC	['Binance', 'OKEx']	Mithril	Bitcoin
+2173	MITH/ETH	['Gate.io', 'HitBTC']	Mithril	Ethereum
+2174	MITH/USD	['Binance', 'OKEx']	Mithril	US Dollar
+2175	MKR/BTC	['Binance']	Maker	Bitcoin
+2176	MKR/ETH	['Bibox', 'Gate.io']	Maker	Ethereum
+2177	MKR/INR	['Bitbns']	Maker	Indian Rupee
+2178	MKR/TRY	['Paribu']	Maker	Turkish Lira
+2179	MKR/USD	['HitBTC', 'OKEx']	Maker	US Dollar
+2180	MLN/BTC	['Kraken']	Melon	Bitcoin
+2181	MLN/ETH	['Kraken']	Melon	Ethereum
+2182	MLN/USD	['Ethfinex']	Melon	US Dollar
+2183	MM/KRW	['Bithumb']	MilliMeter	Korean Won
+2184	MM/USD	['Synthetic']	MilliMeter	US Dollar
+2185	MMXVI/USD	['Synthetic']	MMXVI	US Dollar
+2186	MND/BTC	['YoBit']	MindCoin	Bitcoin
+2187	MND/USD	['Synthetic']	MindCoin	US Dollar
+2188	MNM/USD	['Synthetic']	Mineum	US Dollar
+2189	MNTP/BTC	['YoBit']	GoldMint	Bitcoin
+2190	MNTP/ETH	['YoBit']	GoldMint	Ethereum
+2191	MNTP/USD	['Synthetic', 'YoBit']	GoldMint	US Dollar
+2192	MNT/USD	['Bybit']	Mantle	US Dollar
+2193	MNX/USD	['Livecoin']	MinexCoin	US Dollar
+2194	MOAC/ETH	['TOKOK']	MOAC	Ethereum
+2195	MOAC/USD	['Coinbene']	MOAC	US Dollar
+2196	MOB/BTC	['Binance']	MobileCoin	Bitcoin
+2197	MOBI/USD	['Gate.io']	Mobius	US Dollar
+2198	MOB/USD	['Binance']	MobileCoin	US Dollar
+2199	MODE/USD	['Gate.io']	Mode	US Dollar
+2200	MOIN/BTC	['Livecoin']	Moin	Bitcoin
+2201	MOIN/USD	['Synthetic']	Moin	US Dollar
+2202	MOJO/BTC	['YoBit']	MojoCoin	Bitcoin
+2203	MOJO/USD	['Synthetic']	MojoCoin	US Dollar
+2204	MONA/BTC	['Bitbank', 'Bittrex']	MonaCoin	Bitcoin
+2205	MONA/JPY	['Bitbank', 'Zaif']	MonaCoin	Japanese Yen
+2206	MONA/USD	['Synthetic']	MonaCoin	US Dollar
+2207	MONETA/BTC	['YoBit']	Moneta	Bitcoin
+2208	MONETA/USD	['Synthetic']	Moneta	US Dollar
+2209	MONEY/USD	['Synthetic']	MoneyCoin	US Dollar
+2210	MONK/BTC	['Crex24']	Monkey Project	Bitcoin
+2211	MONK/USD	['Synthetic']	Monkey Project	US Dollar
+2212	MORPHO/USD	['OKX']	Morpho	US Dollar
+2213	MOTO/BTC	['YoBit']	Motocoin	Bitcoin
+2214	MOTO/USD	['Synthetic']	Motocoin	US Dollar
+2215	MOVR/USD	['Gate.io', 'Kucoin']	Moonriver	US Dollar
+2216	MPL/USD	['Coinbase Pro', 'Gate.io']	Maple	US Dollar
+2217	MRJA/USD	['Synthetic']	GanjaCoin	US Dollar
+2218	MRT/USD	['Synthetic']	Miners Reward Token	US Dollar
+2219	MRT/WAVES	['Waves Decentralized Exchange']	Miners' Reward Token	Waves
+2220	MSP/USD	['Synthetic']	Mothership	US Dollar
+2221	MST/BTC	['YoBit']	MustangCoin	Bitcoin
+2222	MST/USD	['Synthetic']	MustangCoin	US Dollar
+2223	MTC/ETH	['Kucoin', 'YoBit']	doc.com Token	Ethereum
+2224	MTC/USD	['Synthetic']	doc.com Token	US Dollar
+2225	MTH/BTC	['Binance', 'HitBTC']	Monetha	Bitcoin
+2226	MTH/ETH	['Mercatox']	Monetha	Ethereum
+2227	MTH/USD	['Synthetic']	Monetha	US Dollar
+2228	MTL/BTC	['Binance', 'Huobi']	Metal	Bitcoin
+2229	MTL/ETH	['Binance', 'Exrates']	Metal	Ethereum
+2230	MTL/KRW	['Bithumb', 'Upbit']	Metal	Korean Won
+2231	MTLMC3/USD	['Synthetic']	Metal Music Coin	US Dollar
+2232	MTL/USD	['Binance', 'Synthetic']	Metal	US Dollar
+2233	MTN/BTC	['Huobi']	Medicalchain	Bitcoin
+2234	MTNC/USD	['Synthetic']	Masternodecoin	US Dollar
+2235	MTN/ETH	['Gate.io']	Medicalchain	Ethereum
+2236	MTN/USD	['Gate.io', 'Synthetic']	Medicalchain	US Dollar
+2237	MUE/BTC	['Bittrex']	MonetaryUnit	Bitcoin
+2238	MUE/USD	['Synthetic']	MonetaryUnit	US Dollar
+2239	MUSIC/USD	['Synthetic']	Musicoin	US Dollar
+2240	MVL/BTC	['Upbit']	MVL	Bitcoin
+2241	MVL/KRW	['Upbit']	MVL	Korean Won
+2242	MVL/USD	['Synthetic']	MVL	US Dollar
+2243	MWAT/BTC	['Kucoin']	Restart Energy MWAT	Bitcoin
+2244	MWAT/ETH	['Kucoin']	Restart Energy MWAT	Ethereum
+2245	MWAT/USD	['Synthetic']	Restart Energy MWAT	US Dollar
+2246	MXM/USD	['Coinbene']	Maximine Coin	US Dollar
+2247	MXT/BTC	['Crex24']	MarteXcoin	Bitcoin
+2248	MXT/USD	['Synthetic']	MarteXcoin	US Dollar
+2249	MYB/BTC	['ProBit Exchange']	MyBit	Bitcoin
+2250	MYB/USD	['Synthetic']	MyBit Token	US Dollar
+2251	MYST/BTC	['HitBTC']	Mysterium	Bitcoin
+2252	MYST/ETH	['HitBTC']	Mysterium	Ethereum
+2253	MYST/USD	['Synthetic']	Mysterium	US Dollar
+2254	NAMO/USD	['Synthetic']	NamoCoin	US Dollar
+2255	NANJ/ETH	['Mercatox']	NANJCOIN	Ethereum
+2256	NANJ/USD	['Synthetic']	NANJCOIN	US Dollar
+2257	NANO/BTC	['Binance', 'OKEx']	Nano	Bitcoin
+2258	NANO/DOGE	['Mercatox']	Nano	Dogecoin
+2259	NANO/ETH	['Binance', 'Huobi']	Nano	Ethereum
+2260	NANO/EUR	['Kraken']	Nano	Euro
+2261	NANO/USD	['Binance', 'OKEx']	Nano	US Dollar
+2262	NANOX/BTC	['YoBit']	Project-X	Bitcoin
+2263	NANOX/USD	['Synthetic']	Project-X	US Dollar
+2264	NAS/BTC	['Binance', 'OKEx']	Nebulas	Bitcoin
+2265	NAS/ETH	['Binance', 'Huobi']	Nebulas	Ethereum
+2266	NAS/USD	['Huobi', 'OKEx']	Nebulas	US Dollar
+2267	NAV/BTC	['Binance', 'Bittrex']	NAV Coin	Bitcoin
+2268	NAV/USD	['Synthetic']	NavCoin	US Dollar
+2269	NBIT/USD	['Synthetic']	netBit	US Dollar
+2270	NBR/BTC	['Crex24', 'TradeOgre']	Niobio Cash	Bitcoin
+2271	NBR/USD	['Synthetic']	Niobio Cash	US Dollar
+2272	NCASH/BTC	['Huobi']	Nucleus Vision	Bitcoin
+2273	NCASH/ETH	['Binance']	Nucleus Vision	Ethereum
+2274	NCASH/USD	['Synthetic']	Nucleus Vision	US Dollar
+2275	NEAR/BTC	['Binance', 'Huobi']	NEAR Protocol	Bitcoin
+2276	NEAR/CAD	['Synthetic']	NEAR Protocol	Canadian Dollar
+2277	NEAR/INR	['Bitbns']	NEAR Protocol	Indian Rupee
+2278	NEAR/USD	['Binance', 'Huobi']	NEAR Protocol	US Dollar
+2279	NEBL/BTC	['Binance', 'HitBTC']	Neblio	Bitcoin
+2280	NEBL/ETH	['Binance', 'HitBTC']	Neblio	Ethereum
+2281	NEBL/USD	['Synthetic']	Neblio	US Dollar
+2282	NEC/USD	['Ethfinex']	Nectar	US Dollar
+2283	NEO/AUD	['Synthetic']	NEO	Australian Dollar
+2284	NEO/BNB	['Binance']	NEO	Binance Coin
+2285	NEO/BTC	['Bibox', 'Binance', 'OKEx']	Neo	Bitcoin
+2286	NEO/CAD	['Synthetic']	NEO	Canadian Dollar
+2287	NEO/CNY	['Synthetic']	NEO	Chinese Yuan
+2288	NEO/EOS	['HitBTC']	NEO	EOS
+2289	NEO/ETH	['Bibox', 'Binance', 'BitMart']	NEO	Ethereum
+2290	NEO/EUR	['Bitfinex', 'Bitpanda Pro', 'Synthetic']	Neo Euro	Euro
+2291	NEO/GBP	['Bitfinex', 'CEX.IO']	Neo British Pound	British Pound
+2292	NEOG/USD	['Synthetic']	NEO GOLD	US Dollar
+2293	NEO/HKD	['Synthetic']	NEO	Hong Kong Dollar
+2294	NEO/ILS	['Synthetic']	NEO	Israeli Shekel
+2295	NEO/INR	['Bitbns', 'Synthetic']	NEO	Indian Rupee
+2296	NEO/JPY	['Bitfinex']	NEO	Japanese Yen
+2297	NEO/KCS	['Kucoin']	NEO	KuCoin Shares
+2298	NEO/KRW	['Upbit']	NEO	Korean Won
+2299	NEO/MXN	['Synthetic']	NEO	Mexican Peso
+2300	NEO/MYR	['Synthetic']	NEO	Malaysian Ringgit
+2301	NEON/USD	['Gate.io']	Neon EVM	US Dollar
+2302	NEO/PLN	['Synthetic']	NEO	Polish Zloty
+2303	NEO/RUB	['Exmo', 'Synthetic']	NEO	Russian Ruble
+2304	NEO/SAR	['Synthetic']	NEO	Saudi Riyal
+2305	NEO/SEK	['Synthetic']	NEO	Swedish Krona
+2306	NEOS/USD	['Synthetic']	NeosCoin	US Dollar
+2307	NEO/THB	['Synthetic']	NEO	Thai Baht
+2308	NEO/TRY	['Binance', 'Bitexen', 'BTCTurk', 'Paribu', 'Synthetic']	Neo	Turkish Lira
+2309	NEO/USD	['Binance', 'OKEx']	NEO	US Dollar
+2310	NEO/VND	['Synthetic']	NEO	Vietnamese Dong
+2311	NEO/ZAR	['AltCoinTrader', 'Synthetic']	NEO	South African Rand
+2312	NETKO/BTC	['YoBit']	Netko	Bitcoin
+2313	NETKO/USD	['Synthetic']	Netko	US Dollar
+2314	NET/USD	['Synthetic']	NetCoin	US Dollar
+2315	NEU/BTC	['HitBTC']	Neumark	Bitcoin
+2316	NEU/ETH	['HitBTC']	Neumark	Ethereum
+2317	NEU/PLN	['BitBay']	Neumark	Polish Zloty
+2318	NEU/USD	['HitBTC']	Neumark	US Dollar
+2319	NEVA/BTC	['YoBit']	NevaCoin	Bitcoin
+2320	NEVA/USD	['Synthetic']	NevaCoin	US Dollar
+2321	NEWB/USD	['Synthetic']	Newbium	US Dollar
+2322	NEXO/BTC	['HitBTC', 'Hotbit', 'Huobi', 'Mercatox']	Nexo	Bitcoin
+2323	NEXO/ETH	['Hotbit', 'Huobi']	Nexo	Ethereum
+2324	NEXO/USD	['Hotbit', 'Synthetic']	Nexo	US Dollar
+2325	NEXO/XRP	['Bitrue']	Nexo	XRP
+2326	NFT/USD	['Huobi', 'OKX']	APENFT	US Dollar
+2327	NGC/BTC	['HitBTC']	NAGA	Bitcoin
+2328	NGC/ETH	['HitBTC']	NAGA	Ethereum
+2329	NGC/USD	['Synthetic']	NAGA	US Dollar
+2330	NICASH/ETH	['LATOKEN']	Nicash	Ethereum
+2331	NICASH/USD	['Synthetic']	Nicash	US Dollar
+2332	NIM/BTC	['Hotbit']	Nimiq	Bitcoin
+2333	NIM/ETH	['Hotbit']	Nimiq	Ethereum
+2334	NIM/USD	['Hotbit', 'Synthetic']	Nimiq	US Dollar
+2335	NKA/USD	['Synthetic']	IncaKoin	US Dollar
+2336	NKN/USD	['Binance', 'Gate.io']	NKN	US Dollar
+2337	NLC2/BTC	['YoBit']	NoLimitCoin	Bitcoin
+2338	NLC2/USD	['Synthetic']	NoLimitCoin	US Dollar
+2339	NLG/BTC	['Bittrex', 'YoBit']	Gulden	Bitcoin
+2340	NLG/USD	['Synthetic']	Gulden	US Dollar
+2341	NMC/BTC	['YoBit']	Namecoin	Bitcoin
+2342	NMC/USD	['Synthetic']	Namecoin	US Dollar
+2343	NMR/BTC	['Bittrex', 'Upbit']	Numeraire	Bitcoin
+2344	NMR/USD	['Synthetic']	Numeraire	US Dollar
+2345	NMS/USD	['Synthetic']	Numus	US Dollar
+2346	NOAH/ETH	['Mercatox']	Noah Coin	Ethereum
+2347	NOAH/USD	['Synthetic']	Noah Coin	US Dollar
+2348	NOBL/USD	['Synthetic']	NobleCoin	US Dollar
+2349	NODC/USD	['Synthetic']	NodeCoin	US Dollar
+2350	NOTE/BTC	['Mercatox']	DNotes	Bitcoin
+2351	NOTE/ETH	['Mercatox']	DNotes	Ethereum
+2352	NOTE/USD	['Synthetic']	DNotes	US Dollar
+2353	NPW/USD	['HCoin']	New Power Coin	US Dollar
+2354	NPXS/BTC	['Bittrex']	Pundi X	Bitcoin
+2355	NPXS/ETH	['Bittrex']	Pundi X[old]	Ethereum
+2356	NPXS/USD	['Bittrex', 'Synthetic']	Pundi X	US Dollar
+2357	NRG/BTC	['Kucoin']	Energi	Bitcoin
+2358	NRG/USD	['Synthetic']	Energi	US Dollar
+2359	NRO/USD	['Synthetic']	Neuro	US Dollar
+2360	NSD/BTC	['Crex24', 'Mercatox']	Nasdacoin	Bitcoin
+2361	NSD/ETH	['Crex24', 'Mercatox']	Nasdacoin	Ethereum
+2362	NSD/USD	['Synthetic']	Nasdacoin	US Dollar
+2363	NTC/USD	['Synthetic']	Natcoin	US Dollar
+2364	NTK/BTC	['YoBit']	Neurotoken	Bitcoin
+2365	NTK/ETH	['HitBTC']	Neurotoken	Ethereum
+2366	NTK/USD	['Synthetic']	Neurotoken	US Dollar
+2367	NTO/USD	['Synthetic']	Fujinto	US Dollar
+2368	NTRN/BTC	['Graviex']	Neutron	Bitcoin
+2369	NTRN/USD	['Synthetic']	Neutron	US Dollar
+2370	NTWK/USD	['Synthetic']	Network Token	US Dollar
+2371	NU/EUR	['Coinbase Pro']	NuCypher	Euro
+2372	NULS/BTC	['Binance', 'Kucoin']	Nuls	Bitcoin
+2373	NULS/ETH	['Kucoin', 'OKEx']	Nuls	Ethereum
+2374	NULS/USD	['Binance', 'OKEx']	NULS	US Dollar
+2375	NU/USD	['Coinbase Pro']	NuCypher	US Dollar
+2376	NVC/BTC	['YoBit']	Novacoin	Bitcoin
+2377	NVC/USD	['Synthetic']	Novacoin	US Dollar
+2378	NXC/USD	['Synthetic']	Nexium	US Dollar
+2379	NXS/BTC	['Bittrex']	Nexus	Bitcoin
+2380	NXS/USD	['Synthetic']	Nexus	US Dollar
+2381	NXT/BTC	['Bittrex', 'HitBTC']	Nxt	Bitcoin
+2382	NXT/ETH	['HitBTC']	Nxt	Ethereum
+2383	NXT/USD	['HitBTC']	Nxt	US Dollar
+2384	NYAN/USD	['Synthetic']	Nyancoin	US Dollar
+2385	NYC/USD	['YoBit']	NewYorkCoin	US Dollar
+2386	OAX/BTC	['Binance']	OAX	Bitcoin
+2387	OAX/ETH	['Gate.io']	OAX	Ethereum
+2388	OAX/USD	['Synthetic']	OAX	US Dollar
+2389	OBITS/BTC	['Livecoin']	OBITS	Bitcoin
+2390	OBITS/USD	['Synthetic']	OBITS	US Dollar
+2391	OCEANp/BTC	['Binance']	Ocean Protocol	Bitcoin
+2392	OCEANp/USD	['Binance']	Ocean Protocol	US Dollar
+2393	OCN/BITCNY	['CoinTiger']	Odyssey	bitCNY
+2394	OCN/BTC	['CoinTiger', 'Huobi']	Odyssey	Bitcoin
+2395	OCN/ETH	['Huobi']	Odyssey	Ethereum
+2396	OCN/USD	['Gate.io', 'Huobi', 'Synthetic']	Odyssey	US Dollar
+2397	OCOW/USD	['Synthetic']	OCOW	US Dollar
+2398	OCT/ETH	['BigONE']	OracleChain	Ethereum
+2399	OCT/USD	['Synthetic']	OracleChain	US Dollar
+2400	ODE/USD	['Ethfinex']	ODEM	US Dollar
+2401	ODN/USD	['Synthetic']	Obsidian	US Dollar
+2402	OGN/BTC	['Binance']	Origin Protocol	Bitcoin
+2403	OGN/USD	['Binance', 'MXC']	Origin Protocol	US Dollar
+2404	OKB/BTC	['OKEx']	OKB	Bitcoin
+2405	OK/BTC	['Bittrex']	OKCash	Bitcoin
+2406	OKB/USD	['OKEx']	OKB	US Dollar
+2407	OK/USD	['Synthetic']	OKCash	US Dollar
+2408	OLT/BTC	['Kucoin']	OneLedger	Bitcoin
+2409	OLT/ETH	['Kucoin']	OneLedger	Ethereum
+2410	OLT/USD	['Synthetic']	OneLedger	US Dollar
+2411	OMC/BTC	['YoBit']	Omicron	Bitcoin
+2412	OMC/USD	['Synthetic']	Omicron	US Dollar
+2413	OMG/AUD	['BTC Markets']	OmiseGO	Australian Dollar
+2414	OMG/BTC	['Binance', 'OKEx']	OmiseGO	Bitcoin
+2415	OMG/ETH	['Binance', 'Huobi']	OmiseGO	Ethereum
+2416	OMG/EUR	['Coinbase Pro', 'Kraken']	OMG Network	Euro
+2417	OMG/INR	['Bitbns']	OmiseGO	Indian Rupee
+2418	OMG/KRW	['Bithumb', 'Upbit']	OmiseGO	Korean Won
+2419	OMG/THB	['Bitkub']	OmiseGO	Thai Baht
+2420	OMG/TRY	['Paribu']	OMG Network	Turkish Lira
+2421	OMG/USD	['Binance', 'Huobi', 'ZB.COM']	OmiseGO	US Dollar
+2422	OMNI/USD	['Bitfinex']	Omni	US Dollar
+2423	ONDO/USD	['Bybit']	Ondo	US Dollar
+2424	ONE/BNB	['Binance']	Harmony	Binance Coin
+2425	ONE/BTC	['Binance']	Harmony	Bitcoin
+2426	ONE/USD	['Binance']	Harmony	US Dollar
+2427	ONION/BTC	['STEX']	DeepOnion	Bitcoin
+2428	ONION/USD	['Synthetic']	DeepOnion	US Dollar
+2429	ONT/BTC	['Binance', 'OKEx']	Ontology	Bitcoin
+2430	ONT/ETH	['Bibox', 'Binance']	Ontology	Ethereum
+2431	ONT/TRY	['Paribu']	Ontology	Turkish Lira
+2432	ONT/USD	['Huobi', 'OKEx', 'Synthetic']	Ontology	US Dollar
+2433	ONX/USD	['Synthetic']	Onix	US Dollar
+2434	OPAL/BTC	['YoBit']	Opal	Bitcoin
+2435	OPAL/USD	['Synthetic']	Opal	US Dollar
+2436	OP/BTC	['YoBit']	Operand	Bitcoin
+2437	OPCT/BTC	['Kucoin']	Opacity	Bitcoin
+2438	OPCT/ETH	['Kucoin']	Opacity	Ethereum
+2439	OPCT/USD	['Synthetic']	Opacity	US Dollar
+2440	OPC/USD	['Synthetic']	OP Coin	US Dollar
+2441	OPES/BTC	['YoBit']	Opescoin	Bitcoin
+2442	OPES/USD	['Synthetic']	Opescoin	US Dollar
+2443	OPm/BTC	['Binance']	Optimism	Bitcoin
+2444	OPm/CAD	['Synthetic']	Optimism	Canadian Dollar
+2445	OPm/USD	['Huobi', 'Kucoin']	Optimism	US Dollar
+2446	OPT/BTC	['HitBTC']	Opus	Bitcoin
+2447	OPTI/BTC	['BTC-Alpha']	OptiToken	Bitcoin
+2448	OPTI/USD	['Synthetic']	OptiToken	US Dollar
+2449	OPT/USD	['Synthetic']	Opus	US Dollar
+2450	OP/USD	['Coinbase Pro']	Operand	US Dollar
+2451	ORB/BTC	['FreiExchange']	Orbitcoin	Bitcoin
+2452	ORB/USD	['Synthetic']	Orbitcoin	US Dollar
+2453	ORDI/USD	['Binance']	ORDI	US Dollar
+2454	ORLY/BTC	['YoBit']	Orlycoin	Bitcoin
+2455	ORLY/USD	['Synthetic']	Orlycoin	US Dollar
+2456	ORMEUS/BTC	['HitBTC']	Ormeus Coin	Bitcoin
+2457	ORMEUS/USD	['Synthetic']	Ormeus Coin	US Dollar
+2458	OS76/USD	['Synthetic']	OsmiumCoin	US Dollar
+2459	OSMO/USD	['Binance']	Osmosis	US Dollar
+2460	OST/USD	['Gate.io']	Simple Token	US Dollar
+2461	OTN/BTC	['YoBit']	Open Trading Network	Bitcoin
+2462	OTN/USD	['Synthetic']	Open Trading Network	US Dollar
+2463	OXT/BTC	['Kraken']	Orchid	Bitcoin
+2464	OXT/EUR	['Kraken']	Orchid	Euro
+2465	OXT/USD	['Coinbase Pro', 'OKEx']	Orchid	US Dollar
+2466	P7C/USD	['Synthetic']	P7Coin	US Dollar
+2467	PAC/BTC	['Graviex']	PAC Global	Bitcoin
+2468	PAC/DOGE	['Graviex']	PAC Global	Dogecoin
+2469	PAC/LTC	['Graviex']	PAC Global	Litecoin
+2470	PAC/USD	['Synthetic']	PAC Global	US Dollar
+2471	PAIp/BTC	['Huobi']	Project Pai	Bitcoin
+2472	PAIp/ETH	['Huobi']	Project Pai	Ethereum
+2473	PAIp/USD	['Huobi']	Project Pai	US Dollar
+2474	PAK/BTC	['YoBit']	Pakcoin	Bitcoin
+2475	PAK/USD	['YoBit']	Pakcoin	US Dollar
+2476	PART/BTC	['Bittrex']	Particl	Bitcoin
+2477	PART/USD	['Synthetic']	Particl	US Dollar
+2478	PASC/BTC	['TOKOK']	Pascal	Bitcoin
+2479	PASC/USD	['Synthetic']	Pascal Coin	US Dollar
+2480	PASL/USD	['Synthetic']	Pascal Lite	US Dollar
+2481	PAX/BTC	['OKEx', 'Upbit']	Paxos Standard Token	Bitcoin
+2482	PAXG/BTC	['Binance']	PAX Gold	Bitcoin
+2483	PAXG/CAD	['Synthetic']	PAX Gold	Canadian Dollar
+2484	PAXG/USD	['Binance']	PAX Gold	US Dollar
+2485	PAX/USD	['Binance', 'BitMart', 'Coinbase Pro']	Pax Dollar	US Dollar
+2486	PAY/BTC	['Huobi', 'OKEx']	TenX	Bitcoin
+2487	PAY/ETH	['Gate.io', 'Huobi']	TenX	Ethereum
+2488	PAYP/USD	['Synthetic']	PayPeer	US Dollar
+2489	PAY/USD	['Gate.io', 'OKEx']	TenX	US Dollar
+2490	PAYX/BTC	['Mercatox']	Paypex	Bitcoin
+2491	PAYX/ETH	['Mercatox']	Paypex	Ethereum
+2492	PAYX/USD	['Synthetic']	Paypex	US Dollar
+2493	PBT/BTC	['HitBTC']	Primalbase Token	Bitcoin
+2494	PBT/USD	['Synthetic']	Primalbase Token	US Dollar
+2495	PCL/BTC	['Hotbit']	Peculium	Bitcoin
+2496	PCL/ETH	['Hotbit']	Peculium	Ethereum
+2497	PCN/DOGE	['C-Patex']	PeepCoin	Dogecoin
+2498	PCN/USD	['Synthetic']	PeepCoin	US Dollar
+2499	PCOIN/USD	['Synthetic']	Pioneer Coin	US Dollar
+2500	PCS/USD	['Synthetic']	Pabyosi Coin (Special)	US Dollar
+2501	PDC/USD	['Synthetic']	Project Decorum	US Dollar
+2502	pDOTn/BTC	['Binance', 'Kraken']	Polkadot	Bitcoin
+2503	pDOTn/CAD	['Synthetic']	Polkadot	Canadian Dollar
+2504	pDOTn/EUR	['Binance', 'Kraken']	Polkadot	Euro
+2505	pDOTn/GBP	['Binance', 'Coinbase Pro']	Polkadot	British Pound
+2506	pDOTn/INR	['Bitbns']	Polkadot	Indian Rupee
+2507	pDOTn/TRY	['Bitexen', 'BTCTurk', 'Paribu']	Polkadot	Turkish Lira
+2508	pDOTn/USD	['Binance', 'Kraken']	Polkadot	US Dollar
+2509	PENDLE/USD	['Binance']	Pendle	US Dollar
+2510	PENG/USD	['Synthetic']	Penguin Coin	US Dollar
+2511	PEOPLE/BTC	['Binance']	ConstitutionDAO	Bitcoin
+2512	PEOPLE/USD	['Binance', 'Gate.io', 'Huobi']	ConstitutionDAO	US Dollar
+2513	PEPE/USD	['Binance']	Pepe	US Dollar
+2514	PERP/BTC	['Binance']	Perpetual Protocol	Bitcoin
+2515	PERP/USD	['Binance']	Perpetual Protocol	US Dollar
+2516	PEX/BTC	['YoBit']	PosEx	Bitcoin
+2517	PEXT/DOGE	['YoBit']	Prime-Ex Perpetual	Dogecoin
+2518	PEXT/ETH	['YoBit']	Prime-Ex Perpetual	Ethereum
+2519	PEXT/RUB	['YoBit']	Prime-Ex Perpetual	Russian Ruble
+2520	PEXT/USD	['YoBit']	Prime-Ex Perpetual	US Dollar
+2521	PEXT/WAVES	['YoBit']	Prime-Ex Perpetual	Waves
+2522	PEX/USD	['Synthetic']	PosEx	US Dollar
+2523	PGL/USD	['Synthetic']	Prospectors Gold	US Dollar
+2524	Phantomx/USD	['Kraken']	Phantomx	US Dollar
+2525	PHB/BTC	['Binance']	Red Pulse Phoenix	Bitcoin
+2526	PHO/LTC	['C-Patex']	Photon	Litecoin
+2527	PHO/USD	['Synthetic']	Photon	US Dollar
+2528	PHR/BTC	['Crex24']	Phore	Bitcoin
+2529	PHR/USD	['Synthetic']	Phore	US Dollar
+2530	PHX/BTC	['Huobi']	Red Pulse Phoenix	Bitcoin
+2531	PHX/ETH	['HitBTC']	Phoenix Global	Ethereum
+2532	PHX/EUR	['Synthetic']	Red Pulse Phoenix	Euro
+2533	PHX/USD	['Synthetic']	Red Pulse Phoenix	US Dollar
+2534	PIE/USD	['Synthetic']	PIECoin	US Dollar
+2535	PIGGY/USD	['Synthetic']	Piggycoin	US Dollar
+2536	PING/BTC	['Tidex', 'YoBit']	CryptoPing	Bitcoin
+2537	PING/USD	['Synthetic']	CryptoPing	US Dollar
+2538	PINK/BTC	['Bittrex', 'SouthXchange']	Pinkcoin	Bitcoin
+2539	PINK/USD	['Synthetic']	Pinkcoin	US Dollar
+2540	PIRL/USD	['Synthetic']	Pirl	US Dollar
+2541	PI/USD	['Bibox', 'Gate.io']	Plian	US Dollar
+2542	PIVX/BTC	['Binance', 'Bittrex']	PIVX	Bitcoin
+2543	PIVX/ETH	['Binance', 'Kucoin']	PIVX	Ethereum
+2544	PIVX/USD	['Synthetic']	PIVX	US Dollar
+2545	PIX/USD	['Synthetic']	Lampix	US Dollar
+2546	PKB/BTC	['YoBit']	ParkByte	Bitcoin
+2547	PKB/USD	['Synthetic']	ParkByte	US Dollar
+2548	PKT/BTC	['HitBTC', 'Mercatox']	Playkey	Bitcoin
+2549	PKT/ETH	['HitBTC', 'Mercatox']	Playkey	Ethereum
+2550	PKT/USD	['Synthetic']	Playkey	US Dollar
+2551	PLACO/USD	['Synthetic']	PlayerCoin	US Dollar
+2552	PLBT/BTC	['HitBTC', 'YoBit']	Polybius	Bitcoin
+2553	PLBT/USD	['Synthetic']	Polybius	US Dollar
+2554	PLC/USD	['Synthetic']	PlusCoin	US Dollar
+2555	PLNC/BTC	['YoBit']	PLNcoin	Bitcoin
+2556	PLNC/USD	['Synthetic']	PLNcoin	US Dollar
+2557	PLR/BTC	['HitBTC']	Pillar	Bitcoin
+2558	PLR/ETH	['HitBTC']	Pillar	Ethereum
+2559	PLR/USD	['HitBTC']	Pillar	US Dollar
+2560	PLTC/USD	['HitBTC', 'Synthetic']	PlatonCoin	US Dollar
+2561	Pluton/USD	['Kraken']	Pluton	US Dollar
+2562	PMA/BTC	['Bittrex', 'HitBTC']	PumaPay	Bitcoin
+2563	PMA/ETH	['HitBTC']	PumaPay	Ethereum
+2564	PMA/USD	['HitBTC', 'Synthetic']	PumaPay	US Dollar
+2565	PMNT/USD	['Synthetic']	Paymon	US Dollar
+2566	PND/ETH	['Altilly']	Pandacoin	Ethereum
+2567	PND/USD	['Synthetic']	Pandacoin	US Dollar
+2568	PNK/ETH	['Bitfinex']	Kleros	Ethereum
+2569	PNK/USD	['Synthetic']	Kleros	US Dollar
+2570	POA/BTC	['Binance']	POA Network	Bitcoin
+2571	POA/ETH	['HitBTC']	POA	Ethereum
+2572	POA/USD	['Synthetic']	POA Network	US Dollar
+2573	POE/BTC	['HitBTC']	Po.et	Bitcoin
+2574	POE/ETH	['HitBTC']	Po.et	Ethereum
+2575	POE/USD	['Synthetic']	Po.et	US Dollar
+2576	POKE/USD	['Synthetic']	PokeCoin	US Dollar
+2577	POLIS/USD	['Gate.io']	Star Atlas DAO	US Dollar
+2578	POLS/BTC	['Binance']	Polkastarter	Bitcoin
+2579	POLS/USD	['Binance']	Polkastarter	US Dollar
+2580	POL/USD	['Binance']	POL	US Dollar
+2581	POLY/BTC	['Binance', 'Huobi']	Polymath	Bitcoin
+2582	POLY/ETH	['HitBTC', 'Huobi']	Polymath	Ethereum
+2583	POLY/KRW	['Upbit']	Polymath	Korean Won
+2584	POLY/USD	['Synthetic']	Polymath	US Dollar
+2585	POND/BTC	['Binance']	Marlin	Bitcoin
+2586	POND/USD	['Binance', 'Gate.io', 'KuCoin']	Marlin	US Dollar
+2587	PONZI/BTC	['YoBit']	PonziCoin	Bitcoin
+2588	PONZI/USD	['Synthetic']	PonziCoin	US Dollar
+2589	POP/ETH	['Crex24']	PopularCoin	Ethereum
+2590	POP/USD	['Synthetic']	PopularCoin	US Dollar
+2591	PORTO/BTC	['Binance']	FC Porto Fan Token	Bitcoin
+2592	PORTO/EUR	['Binance']	FC Porto Fan Token	Euro
+2593	PORTO/TRY	['Binance']	FC Porto Fan Token	Turkish Lira
+2594	PORTO/USD	['Binance']	FC Porto Fan Token	US Dollar
+2595	POST/BTC	['YoBit']	PostCoin	Bitcoin
+2596	POST/USD	['Synthetic']	PostCoin	US Dollar
+2597	POS/USD	['Synthetic']	PoSToken	US Dollar
+2598	POSW/BTC	['YoBit']	PoSW Coin	Bitcoin
+2599	POSW/USD	['Synthetic']	PoSW Coin	US Dollar
+2600	POT/BTC	['Bittrex']	PotCoin	Bitcoin
+2601	POT/USD	['Synthetic']	PotCoin	US Dollar
+2602	POWR/AUD	['BTC Markets']	Power Ledger	Australian Dollar
+2603	POWR/BTC	['Binance', 'Bitrue']	Power Ledger	Bitcoin
+2604	POWR/ETH	['Binance', 'Bitrue']	Power Ledger	Ethereum
+2605	POWR/KRW	['Bithumb', 'Upbit']	Power Ledger	Korean Won
+2606	POWR/USD	['Gate.io', 'Synthetic']	Power Ledger	US Dollar
+2607	PPC/BTC	['Bittrex', 'HitBTC']	Peercoin	Bitcoin
+2608	PPC/USD	['HitBTC']	Peercoin	US Dollar
+2609	PPP/BTC	['Liquid']	PayPie	Bitcoin
+2610	PPP/USD	['Synthetic']	PayPie	US Dollar
+2611	PPT/BTC	['Binance', 'Kucoin']	Populous	Bitcoin
+2612	PPT/ETH	['HitBTC', 'Kucoin']	Populous	Ethereum
+2613	PPT/EUR	['Synthetic']	Populous	Euro
+2614	PPT/USD	['OKEx', 'Synthetic']	Populous	US Dollar
+2615	PRE/BTC	['HitBTC']	Presearch	Bitcoin
+2616	PRE/ETH	['HitBTC']	Presearch	Ethereum
+2617	PRES/BTC	['Livecoin']	President Trump	Bitcoin
+2618	PRES/USD	['Synthetic']	President Trump	US Dollar
+2619	PRE/USD	['Synthetic']	Presearch	US Dollar
+2620	PRG/BTC	['YoBit']	Paragon	Bitcoin
+2621	PRG/ETH	['YoBit']	Paragon	Ethereum
+2622	PRG/USD	['Synthetic']	Paragon	US Dollar
+2623	PRIMU/USD	['Synthetic']	Primulon	US Dollar
+2624	PRIV/BTC	['Crex24']	PRiVCY	Bitcoin
+2625	PRIV/USD	['Synthetic']	PRiVCY	US Dollar
+2626	PRIX/BTC	['Mercatox', 'YoBit']	Privatix	Bitcoin
+2627	PRIX/USD	['Synthetic']	Privatix	US Dollar
+2628	PRM/USD	['Synthetic']	PrismChain	US Dollar
+2629	PRN/USD	['Synthetic']	Protean	US Dollar
+2630	PRO/BTC	['Huobi']	Propy	Bitcoin
+2631	PRO/ETH	['Huobi']	Propy	Ethereum
+2632	PROM/BTC	['Binance']	Prometeus	Binance USD
+2633	PROM/BUSD	['Binance']	Prometeus	Binance USD
+2634	PROM/USD	['Synthetic']	Prometeus	US Dollar
+2635	PRO/USD	['Synthetic']	Propy	US Dollar
+2636	PRS/BTC	['BigONE']	PressOne	Bitcoin
+2637	PRS/ETH	['BigONE']	PressOne	Ethereum
+2638	PRS/USD	['BigONE', 'Synthetic']	PressOne	US Dollar
+2639	PRX/USD	['Synthetic']	Printerium	US Dollar
+2640	PST/BTC	['OKEx']	Primas	Bitcoin
+2641	PST/ETH	['Gate.io']	Primas	Ethereum
+2642	PST/USD	['Gate.io', 'OKEx']	Primas	US Dollar
+2643	PSY/BTC	['YoBit']	Psilocybin	Bitcoin
+2644	PSY/USD	['Synthetic']	Psilocybin	US Dollar
+2645	PTD/BTC	['SouthXchange']	Peseta Digital	Bitcoin
+2646	PTD/USD	['Synthetic']	Peseta Digital	US Dollar
+2647	PTOY/BTC	['Bittrex', 'HitBTC']	Patientory	Bitcoin
+2648	PTOY/ETH	['HitBTC']	Patientory	Ethereum
+2649	PTOY/USD	['Synthetic']	Patientory	US Dollar
+2650	PTT/ETH	['CoinTiger']	Proton Token	Ethereum
+2651	PTT/USD	['Synthetic']	Proton Token	US Dollar
+2652	PULSE/BTC	['YoBit']	Pulse	Bitcoin
+2653	PULSE/USD	['Synthetic']	Pulse	US Dollar
+2654	PURE/USD	['Synthetic']	Pure	US Dollar
+2655	PUT/USD	['Livecoin']	PutinCoin	US Dollar
+2656	PX/BTC	['YoBit']	PX	Bitcoin
+2657	PXI/BTC	['YoBit']	Prime-XI	Bitcoin
+2658	PXI/USD	['Synthetic']	Prime-XI	US Dollar
+2659	PX/USD	['Synthetic']	PX	US Dollar
+2660	PYR/BTC	['Binance']	Vulcan Forged PYR	Bitcoin
+2661	PYR/USD	['Binance', 'Gate.io', 'KuCoin']	Vulcan Forged PYR	US Dollar
+2662	PYTH/USD	['Binance']	Pyth Network	US Dollar
+2663	PZM/BTC	['Hotbit']	PRIZM	Bitcoin
+2664	PZM/ETH	['Hotbit']	PRIZM	Ethereum
+2665	PZM/RUB	['PrizmBit']	PRIZM	Russian Ruble
+2666	PZM/USD	['BTC-Alpha', 'Hotbit']	PRIZM	US Dollar
+2667	Q2C/USD	['Synthetic']	QubitCoin	US Dollar
+2668	QASH/AUD	['QUOINE']	QASH	Australian Dollar
+2669	QASH/BTC	['Hotbit', 'Huobi', 'QUOINE']	QASH	Bitcoin
+2670	QASH/ETH	['Hotbit', 'Huobi']	QASH	Ethereum
+2671	QASH/EUR	['QUOINE']	QASH	Euro
+2672	QASH/JPY	['QUOINE']	QASH	Japanese Yen
+2673	QASH/SGD	['QUOINE']	QASH	Singapore Dollar
+2674	QASH/USD	['Gate.io', 'QUOINE']	QASH	US Dollar
+2675	QAU/USD	['Synthetic']	Quantum	US Dollar
+2676	QBC/BTC	['YoBit']	Quebecoin	Bitcoin
+2677	QBC/USD	['Synthetic']	Quebecoin	US Dollar
+2678	QBIT/USD	['p2pb2b']	Qubitica	US Dollar
+2679	QBT/ETH	['Gate.io']	Qbao	Ethereum
+2680	QBT/USD	['Gate.io']	Qbao	US Dollar
+2681	QKC/BTC	['Binance', 'Kucoin']	QuarkChain	Bitcoin
+2682	QKC/ETH	['Binance', 'Hotbit']	QuarkChain	Ethereum
+2683	QKC/KRW	['Upbit']	QuarkChain	Korean Won
+2684	QKC/USD	['DragonEX', 'Gate.io']	QuarkChain	US Dollar
+2685	QLC/BTC	['Binance', 'Gate.io']	QLINK	Bitcoin
+2686	QLC/ETH	['Binance', 'Gate.io']	QLINK	Ethereum
+2687	QLC/USD	['Gate.io', 'Synthetic']	QLINK	US Dollar
+2688	QNT/BTC	['Bittrex', 'Hotbit']	Quant	Bitcoin
+2689	QNT/ETH	['Hotbit', 'IDEX']	Quant	Ethereum
+2690	QNT/USD	['Binance', 'Coinbase Pro', 'Synthetic']	Quant	US Dollar
+2691	QRDO/ETH	['KuCoin']	Qredo	Ethereum
+2692	QRDO/USD	['Gate.io', 'KuCoin']	Qredo	US Dollar
+2693	QRK/USD	['Synthetic']	Quark	US Dollar
+2694	QRL/BTC	['Bittrex']	Quantum Resistant Ledger 	Bitcoin
+2695	QRL/USD	['Synthetic']	Quantum Resistant Ledger	US Dollar
+2696	QSP/BTC	['Binance', 'Huobi']	Quantstamp	Bitcoin
+2697	QSP/ETH	['Binance', 'Gate.io']	Quantstamp	Ethereum
+2698	QSP/USD	['Gate.io']	Quantstamp	US Dollar
+2699	QTUM/AUD	['Synthetic']	Qtum	Australian Dollar
+2700	QTUM/BTC	['Binance', 'Bittrex']	Qtum	Bitcoin
+2701	QTUM/CAD	['Synthetic']	Qtum	Canadian Dollar
+2702	QTUM/CNY	['Synthetic']	Qtum	Chinese Yuan
+2703	QTUM/ETH	['Binance', 'BitMart', 'Gate.io']	Qtum	Ethereum
+2704	QTUM/EUR	['Kraken']	Qtum	Euro
+2705	QTUM/HKD	['Synthetic']	Qtum	Hong Kong Dollar
+2706	QTUM/ILS	['Synthetic']	Qtum	Israeli Shekel
+2707	QTUM/INR	['Synthetic']	Qtum	Indian Rupee
+2708	QTUM/JPY	['Bitbank']	Qtum	Japanese Yen
+2709	QTUM/KRW	['Bithumb', 'Upbit']	Qtum	Korean Won
+2710	QTUM/MXN	['Synthetic']	Qtum	Mexican Peso
+2711	QTUM/MYR	['Synthetic']	Qtum	Malaysian Ringgit
+2712	QTUM/PLN	['Synthetic']	Qtum	Polish Zloty
+2713	QTUM/RUB	['Synthetic']	Qtum	Russian Ruble
+2714	QTUM/SAR	['Synthetic']	Qtum	Saudi Riyal
+2715	QTUM/SEK	['Synthetic']	Qtum	Swedish Krona
+2716	QTUM/TRY	['Synthetic']	Qtum	Turkish Lira
+2717	QTUM/USD	['Binance', 'OKEx', 'ZB.COM']	Qtum	US Dollar
+2718	QTUM/VND	['Synthetic']	Qtum	Vietnamese Dong
+2719	QTUM/ZAR	['Synthetic']	Qtum	South African Rand
+2720	QUAN/BTC	['TradeOgre']	Quantis Network	Bitcoin
+2721	QUAN/USD	['Synthetic']	Quantis Network	US Dollar
+2722	QUICK/BTC	['Binance']	QuickSwap	Bitcoin
+2723	QUICK/USD	['Binance']	QuickSwap	US Dollar
+2724	QUN/BTC	['OKEx']	QunQun	Bitcoin
+2725	QUN/USD	['OKEx']	QunQun	US Dollar
+2726	QWARK/USD	['Synthetic']	Qwark	US Dollar
+2727	RACA/USD	['Gate.io', 'PancakeSwap']	Radio Caca	US Dollar
+2728	RADS/BTC	['Bittrex']	Radium	Bitcoin
+2729	RADS/USD	['Synthetic']	Radium	US Dollar
+2730	RAD/USD	['Binance', 'Coinbase Pro']	Radicle	US Dollar
+2731	RAIN/USD	['Synthetic']	Condensate	US Dollar
+2732	RARI/USD	['Coinbase Pro']	RARI	US Dollar
+2733	RAY/USD	['Binance', 'Gate.io']	Raydium	US Dollar
+2734	RBIES/BTC	['YoBit']	Rubies	Bitcoin
+2735	RBIES/USD	['Synthetic']	Rubies	US Dollar
+2736	RBN/USD	['Coinbase Pro']	Ribbon Finance	US Dollar
+2737	RBT/BTC	['YoBit']	Rimbit	Bitcoin
+2738	R/BTC	['YoBit']	Revain	Bitcoin
+2739	RBTC/BTC	['Kucoin']	RSK Smart Bitcoin	Bitcoin
+2740	RBTC/USD	['Synthetic']	RSK Smart Bitcoin	US Dollar
+2741	RBT/USD	['Synthetic']	Rimbit	US Dollar
+2742	RBY/BTC	['YoBit']	Rubycoin	Bitcoin
+2743	RBY/USD	['Synthetic']	Rubycoin	US Dollar
+2744	RCN/BTC	['Huobi']	Ripio Credit Network	Bitcoin
+2745	RCN/ETH	['Gate.io']	Ripio Credit Network	Ethereum
+2746	RCN/USD	['Gate.io']	Ripio Credit Network	US Dollar
+2747	RC/USD	['Synthetic']	RussiaCoin	US Dollar
+2748	RDD/BTC	['Bittrex', 'YoBit']	ReddCoin	Bitcoin
+2749	RDD/USD	['Synthetic']	ReddCoin	US Dollar
+2750	RDN/BTC	['Binance', 'Exrates']	Raiden Network Token	Bitcoin
+2751	RDN/ETH	['Bibox', 'Gate.io']	Raiden Network Token	Ethereum
+2752	RDNT/USD	['Binance']	Radiant Capital	US Dollar
+2753	RDN/USD	['Gate.io']	Raiden Network Token	US Dollar
+2754	REAL/BNT	['Bancor Network']	REAL	Bancor
+2755	REAL/USD	['Synthetic']	REAL	US Dollar
+2756	REC/BTC	['YoBit']	Regalcoin	Bitcoin
+2757	REC/USD	['YoBit']	Regalcoin	US Dollar
+2758	RED/USD	['Synthetic']	RedCoin	US Dollar
+2759	REEC/USD	['Synthetic']	Renewable Electronic Energy Coin	US Dollar
+2760	REEF/BTC	['Binance', 'Huobi']	Reef	Bitcoin
+2761	REEF/TRY	['Paribu']	Reef	Turkish Lira
+2762	REEF/USD	['Binance', 'Huobi']	Reef	US Dollar
+2763	REGA/USD	['Synthetic']	Regacoin	US Dollar
+2764	REM/BTC	['Hotbit']	Remme	Bitcoin
+2765	REM/ETH	['Gate.io', 'Hotbit']	Remme	Ethereum
+2766	REM/USD	['Gate.io', 'Synthetic']	Remme	US Dollar
+2767	REN/BTC	['Binance', 'Huobi']	Ren	Bitcoin
+2768	RENBTC/BTC	['Binance']	renBTC	Bitcoin
+2769	RENBTC/USD	['Gate.io', 'Synthetic']	renBTC	US Dollar
+2770	RENDER/USD	['Binance']	Render Token	US Dollar
+2771	REN/ETH	['Huobi']	Ren	Ethereum
+2772	REN/USD	['Binance', 'Synthetic']	Ren	US Dollar
+2773	REOSC/USD	['Synthetic']	REOSC	US Dollar
+2774	REP/BTC	['Binance', 'HitBTC']	Augur	Bitcoin
+2775	REP/ETH	['Binance', 'Gate.io', 'HitBTC']	Augur	Ethereum
+2776	REP/EUR	['Kraken']	Augur	Euro
+2777	REP/KRW	['Bithumb', 'Upbit']	Augur	Korean Won
+2778	REP/USD	['Bibox', 'Binance']	Augur	US Dollar
+2779	REQ/BTC	['Binance', 'Huobi']	Request	Bitcoin
+2780	REQ/ETH	['Huobi', 'Kucoin']	Request	Ethereum
+2781	REQ/USD	['Gate.io']	Request	US Dollar
+2782	REVa/BTC	['Bittrex']	Revain	Bitcoin
+2783	REVa/USD	['Bittrex']	Revain	US Dollar
+2784	RFR/BTC	['Upbit']	Refereum	Bitcoin
+2785	RFR/ETH	['Gate.io']	Refereum	Ethereum
+2786	RFR/KRW	['Upbit']	Refereum	Korean Won
+2787	RFR/USD	['Gate.io']	Refereum	US Dollar
+2788	RGT/USD	['Coinbase Pro']	Rari Governance Token	US Dollar
+2789	RHOC/ETH	['Hotbit']	RChain	Ethereum
+2790	RHOC/USD	['Synthetic']	RChain	US Dollar
+2791	RICHX/BTC	['YoBit']	RichCoin	Bitcoin
+2792	RICHX/USD	['Synthetic']	RichCoin	US Dollar
+2793	RIC/USD	['Synthetic']	Riecoin	US Dollar
+2794	RIDE/BTC	['YoBit']	Ride My Car	Bitcoin
+2795	RIDE/USD	['Synthetic']	Ride My Car	US Dollar
+2796	RIDE/WAVES	['YoBit']	Ride My Car	Waves
+2797	RIF/USD	['Binance']	Rootstock Infrastructure Framework	US Dollar
+2798	RISE/BTC	['YoBit']	Rise	Bitcoin
+2799	RISE/USD	['Synthetic']	Rise	US Dollar
+2800	RIYA/USD	['Synthetic']	Etheriya	US Dollar
+2801	RKC/USD	['Synthetic']	Royal Kingdom Coin	US Dollar
+2802	RLC/BTC	['Binance', 'Upbit']	iExec RLC	Bitcoin
+2803	RLC/ETH	['Binance', 'Gate.io']	iExec RLC	Ethereum
+2804	RLC/USD	['Gate.io']	iExec RLC	US Dollar
+2805	RLT/BTC	['Livecoin']	RouletteToken	Bitcoin
+2806	RLT/USD	['Synthetic']	RouletteToken	US Dollar
+2807	RLY/KRW	['Bithumb']	Rally	Korean Won
+2808	RLY/USD	['Coinbase Pro', 'Gate.io', 'Huobi']	Rally	US Dollar
+2809	RMC/USD	['Synthetic']	Russian Miner Coin	US Dollar
+2810	RMRK/USD	['Kucoin']	RMRK	US Dollar
+2811	RMT/USD	['Synthetic']	SureRemit	US Dollar
+2812	RNDR/BTC	['Binance']	Render Token	Bitcoin
+2813	RNDR/USD	['Gate.io', 'KuCoin']	Render Token	US Dollar
+2814	RNS/USD	['Synthetic']	Renos	US Dollar
+2815	RNTB/USD	['YoBit']	BitRent	US Dollar
+2816	RNT/USD	['OKEx']	OneRoot Network	US Dollar
+2817	ROC/USD	['Synthetic']	Rasputin Online Coin	US Dollar
+2818	RONc/BTC	['BitForex']	RON	Bitcoin
+2819	RON/USD	['Binance']	Ronin	US Dollar
+2820	ROOBEE/BTC	['Exmo', 'HitBTC']	ROOBEE	Bitcoin
+2821	ROOBEE/USD	['Synthetic']	ROOBEE	US Dollar
+2822	ROOFS/USD	['Synthetic']	Roofs	US Dollar
+2823	ROSE/BTC	['Binance']	Oasis Network	Bitcoin
+2824	ROSE/USD	['Binance', 'Kucoin']	Oasis Network	US Dollar
+2825	ROYAL/BTC	['YoBit']	RoyalCoin	Bitcoin
+2826	ROYAL/USD	['Synthetic']	RoyalCoin	US Dollar
+2827	RPC/BTC	['YoBit']	RonPaulCoin	Bitcoin
+2828	RPC/USD	['Synthetic']	RonPaulCoin	US Dollar
+2829	RPL/USD	['Binance']	Rocket Pool	US Dollar
+2830	RSGP/BTC	['YoBit']	RSGPcoin	Bitcoin
+2831	RSGP/USD	['Synthetic']	RSGPcoin	US Dollar
+2832	RSR/BTC	['Binance']	Reserve Rights	Bitcoin
+2833	RSR/USD	['Binance', 'Huobi']	Reserve Rights	US Dollar
+2834	RSV/USD	['Gate.io']	Reserve	US Dollar
+2835	RUBIT/BTC	['YoBit']	RubleBit	Bitcoin
+2836	RUBIT/USD	['Synthetic']	RubleBit	US Dollar
+2837	RUFF/BTC	['Gate.io', 'Huobi']	Ruff	Bitcoin
+2838	RUFF/ETH	['Gate.io', 'Huobi']	Ruff	Ethereum
+2839	RUFF/USD	['Gate.io', 'Huobi']	Ruff	US Dollar
+2840	RUNE/BNB	['Binance']	THORChain	Binance Coin
+2841	RUNE/BTC	['Binance']	THORChain	Bitcoin
+2842	RUNE/INR	['Bitbns']	THORChain	Indian Rupee
+2843	RUNE/USD	['Binance', 'BitMax']	THORChain	US Dollar
+2844	RUNNERS/USD	['Synthetic']	Runners	US Dollar
+2845	RUP/BTC	['YoBit']	Rupee	Bitcoin
+2846	RUP/USD	['YoBit']	Rupee	US Dollar
+2847	RUPX/USD	['Synthetic']	Rupaya	US Dollar
+2848	R/USD	['Synthetic']	Revain	US Dollar
+2849	RVN/BCH	['CoinEx']	Ravencoin	Bitcoin Cash
+2850	RVN/BNB	['Binance']	Ravencoin	Binance Coin
+2851	RVN/BTC	['Binance', 'BitForex', 'Upbit']	Ravencoin	Bitcoin
+2852	RVN/TRY	['Binance', 'Paribu']	Ravencoin	Turkish Lira
+2853	RVN/USD	['Binance', 'Bittrex']	Ravencoin	US Dollar
+2854	RYO/BTC	['Crex24', 'TradeOgre']	Ryo Currency	Bitcoin
+2855	RYO/USD	['Synthetic']	Ryo Currency	US Dollar
+2856	SAFEMOON/USD	['Gate.io']	SafeMoon	US Dollar
+2857	SAFE/USD	['Bybit']	Safe	US Dollar
+2858	SAFEX/USD	['Synthetic']	Safe Exchange Coin	US Dollar
+2859	SAGA/USD	['Synthetic']	SagaCoin	US Dollar
+2860	SALT/BTC	['HitBTC']	SALT	Bitcoin
+2861	SALT/ETH	['Gate.io']	SALT	Ethereum
+2862	SALT/USD	['Gate.io']	SALT	US Dollar
+2863	SAN/BTC	['Bitfinex']	Santiment Network Token 	Bitcoin
+2864	SAND/BRL	['Binance', 'NovaDAX']	The Sandbox	Brazil Real
+2865	SAND/BTC	['Binance']	The Sandbox	Bitcoin
+2866	SAND/CAD	['Synthetic']	The Sandbox	Canadian Dollar
+2867	SAND/EUR	['BitStamp', 'Kraken']	The Sandbox	Euro
+2868	SANDG/USD	['Synthetic']	Save and Gain	US Dollar
+2869	SAND/TRY	['Binance']	The Sandbox	Turkish Lira
+2870	SAND/USD	['Binance', 'Huobi']	The Sandbox	US Dollar
+2871	SAN/ETH	['Bitfinex']	Santiment Network Token	Ethereum
+2872	SANTOS/BTC	['Binance']	Santos FC Fan Token	Bitcoin
+2873	SANTOS/TRY	['Binance']	Santos FC Fan Token	Turkish Lira
+2874	SANTOS/USD	['Binance']	Santos FC Fan Token	US Dollar
+2875	SAN/USD	['Bitfinex']	Santiment Network Token	US Dollar
+2876	SBDR/KRW	['Upbit']	Steem Dollars	Korean Won
+2877	SBDR/USD	['Synthetic']	Steem Dollars	US Dollar
+2878	SBTC/BTC	['Gate.io', 'Huobi', 'OKEx']	Super Bitcoin	Bitcoin
+2879	SBTC/USD	['Gate.io', 'YoBit']	Super Bitcoin	US Dollar
+2880	SC/BNB	['Binance']	Siacoin	Binance Coin
+2881	SC/BTC	['Binance', 'HitBTC', 'Poloniex']	Siacoin	Bitcoin
+2882	SC/ETH	['Binance', 'Huobi']	Siacoin	Ethereum
+2883	SC/EUR	['Kraken']	Siacoin	Euro
+2884	SC/KRW	['Upbit']	Siacoin	Korean Won
+2885	SCL/BTC	['YoBit']	Social	Bitcoin
+2886	SCL/USD	['YoBit']	Social	US Dollar
+2887	SCORE/USD	['Synthetic']	Scorecoin	US Dollar
+2888	SCRL/USD	['Synthetic']	SCRL	US Dollar
+2889	SCRM/ETH	['Hotbit']	Scorum Coins	Ethereum
+2890	SCRM/USD	['Synthetic']	Scorum Coins	US Dollar
+2891	SCRT/BTC	['YoBit']	SecretCoin	Bitcoin
+2892	SCRTn/BTC	['Binance']	Secret	Bitcoin
+2893	SCRTn/ETH	['Binance']	Secret	Ethereum
+2894	SCRTn/USD	['Gate.io']	Secret	US Dollar
+2895	SCRT/USD	['Synthetic']	SecretCoin	US Dollar
+2896	SCR/USD	['Binance']	Scroll	US Dollar
+2897	SCS/BTC	['YoBit']	Speedcash	Bitcoin
+2898	SCS/USD	['Synthetic']	Speedcash	US Dollar
+2899	SCT/USD	['Synthetic']	Soma	US Dollar
+2900	SC/USD	['Binance', 'Kraken', 'Synthetic', 'Upbit']	Siacoin	US Dollar
+2901	SDC/BTC	['YoBit']	ShadowCash	Bitcoin
+2902	SDC/USD	['Synthetic']	ShadowCash	US Dollar
+2903	SDN/USD	['Gate.io', 'KuCoin']	Shiden Network	US Dollar
+2904	SDP/BTC	['YoBit']	SydPak	Bitcoin
+2905	SDP/USD	['Synthetic']	SydPak	US Dollar
+2906	SDRN/USD	['Synthetic']	Senderon	US Dollar
+2907	SEELE/BTC	['CoinEx']	Seele	Bitcoin
+2908	SEELE/USD	['CoinEx']	Seele	US Dollar
+2909	SEI/USD	['Binance']	Sei	US Dollar
+2910	SEQ/USD	['Synthetic']	Sequence	US Dollar
+2911	SFC/USD	['Synthetic']	Solarflarecoin	US Dollar
+2912	SFP/BTC	['Binance']	SafePal	Bitcoin
+2913	SFP/USD	['Binance']	SafePal	US Dollar
+2914	SHA/USD	['Synthetic']	SHACoin	US Dollar
+2915	SHDW/BTC	['YoBit']	Shadow Token	Bitcoin
+2916	SHDW/USD	['Synthetic']	Shadow Token	US Dollar
+2917	SHELL/BTC	['YoBit']	ShellCoin	Bitcoin
+2918	SHELL/USD	['Synthetic']	ShellCoin	US Dollar
+2919	SHIB/BRL	['Binance', 'MercadoBitcoin']	Shiba Inu Brazil Real	Brazil Real
+2920	SHIB/CAD	['Synthetic']	SHIBA INU	Canadian Dollar
+2921	SHIB/EUR	['Synthetic']	SHIBA INU	Euro
+2922	SHIB/INR	['Bitbns']	SHIBA INU	Indian Rupee
+2923	SHIB/TRY	['Binance']	SHIBA INU	Turkish Lira
+2924	SHIB/USD	['Coinbase Pro', 'Huobi']	SHIBA INU	US Dollar
+2925	SHIP/BTC	['HitBTC']	ShipChain	Bitcoin
+2926	SHIP/USD	['Synthetic']	ShipChain	US Dollar
+2927	SHORTY/BTC	['YoBit']	Shorty	Bitcoin
+2928	SHORTY/USD	['Synthetic']	Shorty	US Dollar
+2929	SHOW/BTC	['BigONE']	Show	Bitcoin
+2930	SHOW/USD	['Synthetic']	Show	US Dollar
+2931	SH/USD	['Synthetic']	Shilling	US Dollar
+2932	SIB/BTC	['Bittrex', 'YoBit']	SIBCoin	Bitcoin
+2933	SIB/USD	['Synthetic']	SIBCoin	US Dollar
+2934	SIFT/USD	['Synthetic']	Smart Investment Fund Token	US Dollar
+2935	SIGMA/USD	['Synthetic']	SIGMAcoin	US Dollar
+2936	SIGNA/BTC	['Bittrex']	Signum	Bitcoin
+2937	SIGNA/USD	['Synthetic']	Signum	US Dollar
+2938	SIGT/BTC	['YoBit']	Signatum	Bitcoin
+2939	SIGT/USD	['Synthetic']	Signatum	US Dollar
+2940	SINS/BTC	['Crex24']	SafeInsure	Bitcoin
+2941	SINS/USD	['Synthetic']	SafeInsure	US Dollar
+2942	SISA/USD	['Synthetic']	SISA	US Dollar
+2943	SJCX/JPY	['Zaif']	Storjcoin X	Japanese Yen
+2944	SJCX/USD	['Synthetic']	Storjcoin X	US Dollar
+2945	SKB/ETH	['Mercatox']	Sakura Bloom	Ethereum
+2946	SKB/USD	['Synthetic']	Sakura Bloom	US Dollar
+2947	SKC/USD	['Synthetic']	Skeincoin	US Dollar
+2948	SKIN/ETH	['Mercatox']	SkinCoin	Ethereum
+2949	SKIN/USD	['Synthetic']	SkinCoin	US Dollar
+2950	SKL/USD	['Binance', 'Coinbase Pro']	SKALE Network	US Dollar
+2951	SKM/BTC	['Hotbit', 'Huobi']	Skrumble Network	Bitcoin
+2952	SKM/ETH	['Gate.io', 'Hotbit']	Skrumble Network	Ethereum
+2953	SKM/USD	['Gate.io', 'Huobi', 'Synthetic']	Skrumble Network	US Dollar
+2954	SKR/USD	['Synthetic']	Sakuracoin	US Dollar
+2955	SKULL/USD	['Synthetic']	Pirate Blocks	US Dollar
+2956	SKY/BTC	['Binance', 'FinexBox', 'Hotbit']	Skycoin	Bitcoin
+2957	SKY/USD	['Synthetic']	Skycoin	US Dollar
+2958	SLEVIN/USD	['Synthetic']	Slevin	US Dollar
+2959	SLFI/USD	['Synthetic']	Selfiecoin	US Dollar
+2960	SLING/BTC	['YoBit']	Sling	Bitcoin
+2961	SLING/USD	['Synthetic']	Sling	US Dollar
+2962	SLOTH/USD	['Synthetic']	Slothcoin	US Dollar
+2963	SLP/ETH	['Binance']	Smooth Love Potion	Ethereum
+2964	SLP/TRY	['Binance']	Smooth Love Potion	Turkish Lira
+2965	SLP/USD	['Binance']	Smooth Love Potion	US Dollar
+2966	SLS/BTC	['Bittrex', 'YoBit']	SaluS	Bitcoin
+2967	SLS/USD	['Synthetic']	SaluS	US Dollar
+2968	SLV/BNB	['Binance DEX']	Silverway	Binance Coin
+2969	SLV/USD	['Synthetic']	Silverway	US Dollar
+2970	SMART/BTC	['Exmo', 'HitBTC']	SmartCash	Bitcoin
+2971	SMART/ETH	['HitBTC']	SmartCash	Ethereum
+2972	SMART/EUR	['Exmo']	SmartCash	Euro
+2973	SMART/RUB	['Exmo']	SmartCash	Russian Ruble
+2974	SMART/USD	['Exmo', 'HitBTC', 'Synthetic']	SmartCash	US Dollar
+2975	SMC/BTC	['YoBit']	SmartCoin	Bitcoin
+2976	SMC/USD	['Synthetic']	SmartCoin	US Dollar
+2977	SmileyCoin/USD	['Kraken']	SmileyCoin	US Dollar
+2978	SMT/BTC	['Huobi']	SmartMesh	Bitcoin
+2979	SMT/ETH	['Gate.io', 'Huobi']	SmartMesh	Ethereum
+2980	SMT/USD	['Gate.io']	SmartMesh	US Dollar
+2981	SNC/BTC	['Huobi', 'OKEx']	SunContract	Bitcoin
+2982	SNC/ETH	['HitBTC', 'Huobi']	SunContract	Ethereum
+2983	SNC/USD	['YoBit']	SunContract	US Dollar
+2984	SND/USD	['Synthetic']	Sand Coin	US Dollar
+2985	SNGLS/BTC	['HitBTC']	SingularDTV	Bitcoin
+2986	SNGLS/USD	['Synthetic']	SingularDTV	US Dollar
+2987	SNL/BTC	['Crex24']	Sport AND Leisure	Bitcoin
+2988	SNL/ETH	['Crex24']	Sport AND Leisure	Ethereum
+2989	SNL/USD	['Synthetic']	Sport and Leisure	US Dollar
+2990	SNM/BTC	['Binance']	SONM	Bitcoin
+2991	SNM/USD	['Synthetic']	SONM	US Dollar
+2992	SNRG/USD	['Synthetic']	Synergy	US Dollar
+2993	SNT/BTC	['Binance', 'Huobi']	Status	Bitcoin
+2994	SNT/ETH	['Binance', 'Kucoin']	Status	Ethereum
+2995	SNT/KRW	['Upbit']	Status	Korean Won
+2996	SNTR/ETH	['IDEX']	Silent Notary	Ethereum
+2997	SNTR/USD	['Synthetic']	Silent Notary	US Dollar
+2998	SNT/USD	['Huobi', 'ZB.COM']	Status	US Dollar
+2999	SNTVT/BTC	['Hotbit']	Sentivate	Bitcoin
+3000	SNTVT/ETH	['Hotbit', 'Kucoin']	Sentivate	Ethereum
+3001	SNTVT/USD	['Synthetic']	Sentivate	US Dollar
+3002	SNX/BRL	['NovaDAX']	Synthetix	Brazil Real
+3003	SNX/BTC	['Binance', 'Kucoin']	Synthetix	Bitcoin
+3004	SNX/CAD	['Synthetic']	Synthetix	Canadian Dollar
+3005	SNX/ETH	['Kucoin']	Synthetix Network Token	Ethereum
+3006	SNX/EUR	['Coinbase Pro', 'Kraken']	Synthetix	Euro
+3007	SNX/TRY	['BTCTurk']	Synthetix	Turkish Lira
+3008	SNX/USD	['Binance', 'Coinbase Pro', 'Huobi']	Synthetix	US Dollar
+3009	SOAR/USD	['Synthetic']	Soarcoin	US Dollar
+3010	SOC/BTC	['Huobi']	All Sports	Bitcoin
+3011	SOCC/USD	['Synthetic']	SocialCoin	US Dollar
+3012	SOC/USD	['Huobi', 'OKEx']	All Sports	US Dollar
+3013	SOIL/USD	['Synthetic']	SOILcoin	US Dollar
+3014	SOL/BNB	['Binance']	Solana	Binance Coin
+3015	SOL/BRL	['Binance']	Solana	Brazil Real
+3016	SOL/BTC	['Binance', 'Kraken']	Solana	Bitcoin
+3017	SOL/CAD	['Synthetic']	Solana	Canadian Dollar
+3018	SOL/ETH	['Huobi']	Solana	Ethereum
+3019	SOL/EUR	['Binance', 'Kraken']	Solana	Euro
+3020	SOL/GBP	['Binance', 'Coinbase Pro', 'Kraken']	Solana	British Pound
+3021	SOL/INR	['Bitbns']	Solana	Indian Rupee
+3022	SOL/KRW	['Bithumb', 'Upbit']	Solana	Korean Won
+3023	SOLO/USD	['CoinField']	Sologenic	US Dollar
+3024	SOL/TRY	['Binance', 'Bitexen']	Solana	Turkish Lira
+3025	SOL/USD	['Binance', 'Coinbase Pro', 'FTX']	Solana	US Dollar
+3026	SolvBTC/USD	['Uniswap']	SolvBTC	US Dollar
+3027	SOLVE/BTC	['Kucoin', 'Upbit']	SOLVE	Bitcoin
+3028	SOLVE/ETH	['Bittrex']	SOLVE	Ethereum
+3029	SOLVE/USD	['Synthetic']	SOLVE	US Dollar
+3030	SONG/BTC	['YoBit']	SongCoin	Bitcoin
+3031	SONG/USD	['Synthetic']	SongCoin	US Dollar
+3032	SONIC/USD	['Bybit']	Sonic SVM	US Dollar
+3033	SOUL/BTC	['Hotbit', 'Kucoin']	Phantasma	Bitcoin
+3034	SOUL/ETH	['Hotbit', 'Kucoin']	Phantasma	Ethereum
+3035	SOUL/USD	['Gate.io']	Phantasma	US Dollar
+3036	SPC/BTC	['Bittrex']	SpaceChain	Bitcoin
+3037	SPC/USD	['Synthetic']	SpaceChain	US Dollar
+3038	SPELL/BTC	['Binance']	Spell Token	Bitcoin
+3039	SPELL/TRY	['Binance']	Spell Token	Turkish Lira
+3040	SPELL/USD	['Binance', 'Coinbase Pro']	Spell Token	US Dollar
+3041	SPEX/USD	['Synthetic']	SproutsExtreme	US Dollar
+3042	SPF/BTC	['Livecoin']	SportyCo	Bitcoin
+3043	SPF/USD	['Synthetic']	SportyCo	US Dollar
+3044	SPHR/BTC	['Bittrex']	Sphere	Bitcoin
+3045	SPHR/USD	['Synthetic']	Sphere	US Dollar
+3046	SPORT/USD	['Synthetic']	SportsCoin	US Dollar
+3047	SPR/BTC	['YoBit']	SpreadCoin	Bitcoin
+3048	SPR/USD	['Synthetic']	SpreadCoin	US Dollar
+3049	SPT/BTC	['YoBit']	Spots	Bitcoin
+3050	SPT/USD	['Synthetic']	Spots	US Dollar
+3051	SQUID/USD	['LBank', 'PancakeSwap']	Squid Game	US Dollar
+3052	SRCOIN/ETH	['Coinbene']	SRCOIN	Ethereum
+3053	SRCOIN/USD	['Synthetic']	SRCOIN	US Dollar
+3054	SRC/USD	['Synthetic']	SecureCoin	US Dollar
+3055	SREUR/USD	['p2pb2b']	SocialRemit	US Dollar
+3056	SRM/BNB	['Binance']	Serum	Binance Coin
+3057	SRM/BTC	['Binance']	Serum	Bitcoin
+3058	SRM/USD	['Binance']	Serum	US Dollar
+3059	SRN/BTC	['Bittrex', 'Huobi']	SIRIN LABS Token	Bitcoin
+3060	SRN/ETH	['Bittrex', 'Huobi']	SIRIN LABS Token	Ethereum
+3061	SRN/USD	['Synthetic']	SIRIN LABS Token	US Dollar
+3062	SS/BTC	['Hotbit']	Sharder	Bitcoin
+3063	SS/ETH	['Hotbit']	Sharder	Ethereum
+3064	SSS/USD	['Synthetic']	Sharechain	US Dollar
+3065	SS/USD	['Synthetic']	Sharder	US Dollar
+3066	STAR/ETH	['HitBTC']	Starbase	Ethereum
+3067	STARL/USD	['Gate.io', 'OKX']	Starlink	US Dollar
+3068	STARS/USD	['Synthetic']	StarCash Network	US Dollar
+3069	START/BTC	['YoBit']	Startcoin	Bitcoin
+3070	START/USD	['Synthetic']	Startcoin	US Dollar
+3071	STAR/USD	['Synthetic']	Starbase	US Dollar
+3072	STCN/USD	['Synthetic']	Stakecoin	US Dollar
+3073	STC/USD	['Bit-Z']	StarChain	US Dollar
+3074	STEEM/BTC	['Binance', 'Upbit']	Steem	Bitcoin
+3075	STEEM/ETH	['Binance']	Steem	Ethereum
+3076	STEEM/KRW	['Upbit']	Steem	Korean Won
+3077	STEEM/USD	['Synthetic']	Steem	US Dollar
+3078	STEEP/USD	['Synthetic']	SteepCoin	US Dollar
+3079	STEPS/USD	['Synthetic']	Steps	US Dollar
+3080	STETH/USD	['Bybit']	Lido stETH	US Dollar
+3081	STG/USD	['Binance']	Stargate Finance	US Dollar
+3082	STN/USD	['Synthetic']	Steneum Coin	US Dollar
+3083	STORJ/BTC	['Binance', 'Huobi']	Storj	Bitcoin
+3084	STORJ/ETH	['Gate.io']	Storj	Ethereum
+3085	STORJ/KRW	['Upbit']	Storj	Korean Won
+3086	STORJ/USD	['Huobi', 'OKEx']	Storj	US Dollar
+3087	STORM/BNB	['Binance']	Storm	Binance Coin
+3088	STORM/BTC	['Binance', 'HitBTC']	Storm	Bitcoin
+3089	STORM/ETH	['Binance']	Storm	Ethereum
+3090	STORM/USD	['Binance', 'Synthetic']	Storm	US Dollar
+3091	STQ/ETH	['YoBit']	Storiqa	Ethereum
+3092	STQ/USD	['Synthetic']	Storiqa	US Dollar
+3093	STRAT/BTC	['Binance', 'Bittrex', 'HitBTC']	Stratis	Bitcoin
+3094	STRAT/ETH	['Binance', 'Bittrex', 'HitBTC']	Stratis	Ethereum
+3095	STRAT/KRW	['Upbit']	Stratis	Korean Won
+3096	STRAT/USD	['Binance', 'HitBTC']	Stratis	US Dollar
+3097	STRK/USD	['Binance']	Starknet	US Dollar
+3098	STS/BTC	['YoBit']	Stress	Bitcoin
+3099	STS/USD	['Synthetic']	Stress	US Dollar
+3100	STV/USD	['Synthetic']	Sativacoin	US Dollar
+3101	STX/BTC	['HitBTC']	Stox	Bitcoin
+3102	STX/ETH	['Gate.io', 'HitBTC']	Stox	Ethereum
+3103	STXk/BTC	['Binance']	Blockstack	Bitcoin
+3104	STXk/KRW	['Upbit']	Stacks	Korean Won
+3105	STXk/USD	['Binance']	Blockstack	US Dollar
+3106	STX/USD	['Gate.io', 'HitBTC']	Stox	US Dollar
+3107	SUB/BTC	['HitBTC']	Substratum	Bitcoin
+3108	SUB/ETH	['HitBTC']	Substratum	Ethereum
+3109	SUB/INR	['Bitbns']	Substratum	Indian Rupee
+3110	SUB/USD	['Synthetic']	Substratum	US Dollar
+3111	SUI/USD	['Binance']	Sui	US Dollar
+3112	SUPER/BTC	['YoBit']	SuperCoin	Bitcoin
+3113	SUPERf/BTC	['Binance']	SuperFarm	Bitcoin
+3114	SUPERf/USD	['Binance']	SuperFarm	US Dollar
+3115	SUPER/USD	['Synthetic']	SuperCoin	US Dollar
+3116	SUR/BTC	['HitBTC']	Suretly	Bitcoin
+3117	SUR/ETH	['HitBTC']	Suretly	Ethereum
+3118	SUR/USD	['HitBTC']	Suretly	US Dollar
+3119	S/USD	['Binance']	Sonic (prev. FTM)	US Dollar
+3120	SUSD/USD	['Gate.io']	sUSD	US Dollar
+3121	SUSHI/BTC	['Binance', 'Huobi']	SushiSwap	Bitcoin
+3122	SUSHI/USD	['Binance', 'Huobi']	SushiSwap	US Dollar
+3123	SWEAT/USD	['Kucoin']	Sweat Economy	US Dollar
+3124	SWFTC/BTC	['Huobi', 'OKEx']	SwftCoin	Bitcoin
+3125	SWFTC/ETH	['Huobi', 'OKEx']	SwftCoin	Ethereum
+3126	SWFTC/USD	['HitBTC', 'OKEx']	SwftCoin	US Dollar
+3127	SWIFT/USD	['Synthetic']	Bitswift	US Dollar
+3128	SWING/BTC	['YoBit']	Swing	Bitcoin
+3129	SWING/USD	['Synthetic']	Swing	US Dollar
+3130	SWM/BTC	['HitBTC']	Swarm	Bitcoin
+3131	SWM/USD	['Synthetic']	Swarm	US Dollar
+3132	SWP/USD	['Synthetic']	Swapcoin	US Dollar
+3133	SWT/BTC	['YoBit']	Swarm City	Bitcoin
+3134	SWTH/ETH	['Gate.io']	Switcheo	Ethereum
+3135	SWTH/USD	['Gate.io']	Switcheo	US Dollar
+3136	SWT/USD	['Synthetic']	Swarm City	US Dollar
+3137	SXC/USD	['Synthetic']	Sexcoin	US Dollar
+3138	SXDT/BTC	['Crex24']	Spectre.ai Dividend Token	Bitcoin
+3139	SXDT/USD	['Synthetic']	Spectre.ai Dividend Token	US Dollar
+3140	SXP/BTC	['Kucoin']	Swipe	Bitcoin
+3141	SXP/EUR	['Binance']	Swipe	Euro
+3142	SXP/TRY	['Binance']	Swipe	Turkish Lira
+3143	SXP/USD	['Binance', 'Kucoin']	SXP	US Dollar
+3144	SYNX/BTC	['YoBit']	Syndicate	Bitcoin
+3145	SYNX/USD	['Synthetic']	Syndicate	US Dollar
+3146	SYS/BTC	['Binance', 'Bittrex']	SysCoin	Bitcoin
+3147	SYS/USD	['Synthetic']	SysCoin	US Dollar
+3148	TAAS/BTC	['Livecoin']	TaaS	Bitcoin
+3149	TAAS/USD	['Synthetic']	TaaS	US Dollar
+3150	TABOO/USD	['LBank']	TABOO TOKEN	US Dollar
+3151	TAG/BTC	['YoBit']	TagCoin	Bitcoin
+3152	TAGR/BTC	['YoBit']	TAGRcoin	Bitcoin
+3153	TAGR/USD	['Synthetic']	TAGRcoin	US Dollar
+3154	TAG/USD	['Synthetic']	TagCoin	US Dollar
+3155	TAGZ5/ETH	['p2pb2b']	TAGZ5	Ethereum
+3156	TAGZ5/USD	['Synthetic']	TAGZ5	US Dollar
+3157	TAIKO/USD	['Bybit']	Taiko	US Dollar
+3158	TAJ/USD	['Synthetic']	TajCoin	US Dollar
+3159	TALK/USD	['Synthetic']	BTCtalkcoin	US Dollar
+3160	TAO/USD	['Binance']	Bittensor	US Dollar
+3161	TAU/USD	['BigONE', 'Synthetic']	Lamden	US Dollar
+3162	TCC/BTC	['Mercatox']	The ChampCoin	Bitcoin
+3163	TCC/ETH	['Mercatox']	The ChampCoin	Ethereum
+3164	TCC/INR	['Synthetic']	The ChampCoin	Indian Rupee
+3165	TCC/USD	['Synthetic']	The ChampCoin	US Dollar
+3166	TCH/BTC	['Mercatox']	Thore Cash	Bitcoin
+3167	TCH/ETH	['Mercatox']	Thore Cash	Ethereum
+3168	TCHTRX/BTC	['Thore Exchange']	ThoreCashTRX	Bitcoin
+3169	TCHTRX/USD	['Synthetic']	ThoreCashTRX	US Dollar
+3170	TCH/USD	['Synthetic', 'Thore Exchange']	Thore Cash	US Dollar
+3171	TCOIN/USD	['Synthetic']	T-coin	US Dollar
+3172	TCR/USD	['Synthetic']	TheCreed	US Dollar
+3173	TCT/ETH	['Gate.io']	TokenClub	Ethereum
+3174	TCT/USD	['Binance', 'OKEx']	TokenClub	US Dollar
+3175	TEAMS/BTC	['Bit-Z']	TokenStars	Bitcoin
+3176	TEAMS/ETH	['Bit-Z']	TokenStars	Ethereum
+3177	TEAMS/USD	['Synthetic']	TokenStars	US Dollar
+3178	TEAM/USD	['Synthetic']	TeamUp	US Dollar
+3179	TEK/DOGE	['YoBit']	TEKcoin	Dogecoin
+3180	TEK/USD	['Synthetic']	TEKcoin	US Dollar
+3181	TEL/BTC	['Kucoin']	Telcoin	Bitcoin
+3182	TEL/ETH	['Kucoin']	Telcoin	Ethereum
+3183	TELL/USD	['Synthetic']	Tellurion	US Dollar
+3184	TEL/USD	['Synthetic']	Telcoin	US Dollar
+3185	TEN/BTC	['Tokenomy']	Tokenomy	Bitcoin
+3186	TEN/IDR	['Indodax']	Tokenomy	Indonesian Rupiah
+3187	TEN/USD	['Synthetic']	Tokenomy	US Dollar
+3188	TER/BTC	['Livecoin']	TerraNova	Bitcoin
+3189	TER/USD	['Synthetic']	TerraNova	US Dollar
+3190	TFEUL/KRW	['Upbit']	Theta Fuel	Korean Won
+3191	TFL/BTC	['Kucoin']	TrueFlip	Bitcoin
+3192	TFL/USD	['Synthetic']	TrueFlip	US Dollar
+3193	TFUEL/BTC	['Binance']	Theta Fuel	Bitcoin
+3194	TFUEL/ETH	['Gate.io']	Theta Fuel	Ethereum
+3195	TFUEL/USD	['Binance', 'Gate.io']	Theta Fuel	US Dollar
+3196	TGAME/ETH	['Hotbit']	Truegame	Ethereum
+3197	TGAME/USD	['Synthetic']	Truegame	US Dollar
+3198	TGT/USD	['Synthetic']	Target Coin	US Dollar
+3199	THC/BTC	['Graviex']	HempCoin	Bitcoin
+3200	THC/USD	['Synthetic']	HempCoin	US Dollar
+3201	THE/BTC	['Thore Exchange']	Thore Exchange	Bitcoin
+3202	THETA/BNB	['Binance']	THETA	Binance Coin
+3203	THETA/BTC	['Binance', 'OKEx']	THETA	Bitcoin
+3204	THETA/CAD	['Synthetic']	Theta Network	Canadian Dollar
+3205	THETA/ETH	['Binance', 'Hotbit', 'Huobi']	THETA	Ethereum
+3206	THETA/INR	['Bitbns']	THETA	Indian Rupee
+3207	THETA/KRW	['Bithumb', 'Upbit']	THETA	Korean Won
+3208	THETA/USD	['Binance', 'Kucoin', 'OKEx']	Theta Network	US Dollar
+3209	THE/USD	['Synthetic']	Thore Exchange	US Dollar
+3210	THR/BTC	['Crex24']	ThoreCoin	Bitcoin
+3211	THR/USD	['Synthetic']	ThoreCoin	US Dollar
+3212	THS/BTC	['Livecoin']	TechShares	Bitcoin
+3213	THS/USD	['Synthetic']	TechShares	US Dollar
+3214	THX/BTC	['Crex24']	ThoreNext	Bitcoin
+3215	THX/USD	['Synthetic', 'Thore Exchange']	ThoreNext	US Dollar
+3216	TIA/USD	['Binance']	Celestia	US Dollar
+3217	TIE/BTC	['YoBit']	Ties.DB	Bitcoin
+3218	TIE/USD	['Synthetic']	TIES Network	US Dollar
+3219	TIME/BTC	['YoBit']	Chronobank	Bitcoin
+3220	TIME/USD	['Synthetic']	Chronobank	US Dollar
+3221	TITAN/USD	['Huobi', 'Kucoin']	TitanSwap	US Dollar
+3222	TITn/USD	['Synthetic']	Titcoin	US Dollar
+3223	TIT/USD	['Synthetic']	TittieCoin	US Dollar
+3224	TIX/BTC	['Crex24']	Blocktix	Bitcoin
+3225	TIX/USD	['Synthetic']	Blocktix	US Dollar
+3226	TKO/BTC	['Binance']	Toko Token	Bitcoin
+3227	TKO/USD	['Binance']	Toko Token	US Dollar
+3228	TKS/USD	['Synthetic']	Tokes	US Dollar
+3229	TKY/BTC	['Kucoin']	THEKEY	Bitcoin
+3230	TKY/ETH	['Kucoin']	THEKEY	Ethereum
+3231	TKY/USD	['Kucoin', 'Synthetic']	THEKEY	US Dollar
+3232	TLM/BTC	['Binance']	Alien Worlds	Bitcoin
+3233	TLM/TRY	['Binance']	Alien Worlds	Turkish Lira
+3234	TLM/USD	['Binance']	Alien Worlds	US Dollar
+3235	TLR/USD	['Synthetic']	Taler Coin	US Dollar
+3236	TNB/BTC	['Huobi']	Time New Bank	Bitcoin
+3237	TNB/ETH	['Bibox', 'Huobi']	Time New Bank	Ethereum
+3238	TNB/USD	['Synthetic']	Time New Bank	US Dollar
+3239	TNC/BTC	['Gate.io']	Trinity Network Credit 	Bitcoin
+3240	TNC/ETH	['Gate.io']	Trinity Network Credit	Ethereum
+3241	TNC/USD	['Gate.io', 'Synthetic']	Trinity Network Credit	US Dollar
+3242	TNT/USD	['HitBTC']	Tierion	US Dollar
+3243	TOA/USD	['Synthetic']	ToaCoin	US Dollar
+3244	TODAY/USD	['Synthetic']	TodayCoin	US Dollar
+3245	TOKC/BTC	['YoBit']	TOKYO	Bitcoin
+3246	TOKC/USD	['YoBit']	TOKYO	US Dollar
+3247	TOKEN/USD	['YoBit']	SwapToken	US Dollar
+3248	TOK/USD	['Synthetic']	Tokugawa	US Dollar
+3249	TOMO/BNB	['Binance DEX']	TomoChain	Binance Coin
+3250	TOMO/BTC	['Hotbit', 'Kucoin']	TomoChain	Bitcoin
+3251	TOMO/ETH	['Gate.io', 'Kucoin']	TomoChain	Ethereum
+3252	TOMO/USD	['Binance', 'Gate.io', 'Synthetic']	TomoChain	US Dollar
+3253	TONE/BTC	['KuCoin']	TE-FOOD	Bitcoin
+3254	TONE/ETH	['KuCoin']	TE-FOOD	Ethereum
+3255	TONE/USD	['Synthetic']	TE-FOOD	US Dollar
+3256	TON/USD	['Bybit']	Toncoin	US Dollar
+3257	TOPAZ/USD	['Synthetic']	Topaz Coin	US Dollar
+3258	TOPC/BTC	['Huobi']	TopChain	Bitcoin
+3259	TOPC/ETH	['Huobi']	TopChain	Ethereum
+3260	TOPC/USD	['OKEx']	TopChain	US Dollar
+3261	TOR/USD	['Synthetic']	Torcoin	US Dollar
+3262	TPAY/BTC	['BitForex', 'Liquid']	TokenPay	Bitcoin
+3263	TPAY/USD	['BitForex', 'Synthetic']	TokenPay	US Dollar
+3264	TRAC/BTC	['Kucoin']	OriginTrail	Bitcoin
+3265	TRAC/ETH	['Kucoin']	OriginTrail	Ethereum
+3266	TRAC/USD	['Synthetic']	OriginTrail	US Dollar
+3267	TRC/BTC	['SouthXchange']	Terracoin	Bitcoin
+3268	TRCT/BTC	['Tidex']	Tracto	Bitcoin
+3269	TRC/USD	['Synthetic']	Terracoin	US Dollar
+3270	TRIA/USD	['Synthetic']	Triaconta	US Dollar
+3271	TRIBE/USD	['Gate.io', 'MEXC']	Tribe	US Dollar
+3272	TRICK/BTC	['YoBit']	TrickyCoin	Bitcoin
+3273	TRICK/USD	['Synthetic']	TrickyCoin	US Dollar
+3274	TRI/USD	['Synthetic']	Triangles	US Dollar
+3275	TRK/USD	['Synthetic']	Truckcoin	US Dollar
+3276	TROLL/BTC	['C-Patex']	Trollcoin	Bitcoin
+3277	TROLL/USD	['Synthetic']	Trollcoin	US Dollar
+3278	TRU/BTC	['Binance']	TrueFi	Bitcoin
+3279	TRUE/BNB	['Binance DEX']	TrueChain	Binance Coin
+3280	TRUE/BTC	['OKEx']	TrueChain	Bitcoin
+3281	TRUE/ETH	['DragonEX']	TrueChain	Ethereum
+3282	TRUE/USD	['OKEx']	TrueChain	US Dollar
+3283	TRUMP/BTC	['YoBit']	TrumpCoin	Bitcoin
+3284	TRUMP/USD	['Synthetic']	TrumpCoin	US Dollar
+3285	TRUST/USD	['Synthetic']	TrustPlus	US Dollar
+3286	TRU/USD	['Binance', 'Coinbase Pro']	TrueFi	US Dollar
+3287	TRX/AUD	['Synthetic']	TRON	Australian Dollar
+3288	TRX/BITCNY	['CoinTiger']	TRON	bitCNY
+3289	TRX/BRL	['NovaDAX']	TRON	Brazil Real
+3290	TRX/BTC	['Binance', 'OKEx']	TRON	Bitcoin
+3291	TRX/CAD	['Synthetic']	TRON	Canadian Dollar
+3292	TRX/CNY	['Synthetic']	TRON	Chinese Yuan
+3293	TRX/ETH	['Binance', 'BitMart']	TRON	Ethereum
+3294	TRX/EUR	['Synthetic']	TRON	Euro
+3295	TRX/HKD	['Synthetic']	TRON	Hong Kong Dollar
+3296	TRX/ILS	['Synthetic']	TRON	Israeli Shekel
+3297	TRX/INR	['Bitbns', 'Synthetic']	TRON	Indian Rupee
+3298	TRX/KRW	['Bithumb', 'Upbit']	TRON	Korean Won
+3299	TRX/MXN	['Synthetic']	TRON	Mexican Peso
+3300	TRX/MYR	['Synthetic']	TRON	Malaysian Ringgit
+3301	TRX/PLN	['Synthetic']	TRON	Polish Zloty
+3302	TRX/RUB	['Synthetic']	TRON	Russian Ruble
+3303	TRX/SAR	['Synthetic']	TRON	Saudi Riyal
+3304	TRX/SEK	['Synthetic']	TRON	Swedish Krona
+3305	TRX/TRY	['Binance', 'BTCTurk', 'Paribu', 'Synthetic']	TRON	Turkish Lira
+3306	TRX/USD	['Binance', 'Bitrue', 'Huobi']	TRON	US Dollar
+3307	TRX/VND	['Synthetic']	TRON	Vietnamese Dong
+3308	TRX/XRP	['Bitrue']	TRON	XRP
+3309	TRX/ZAR	['Synthetic']	TRON	South African Rand
+3310	TSE/USD	['Synthetic']	Tattoocoin (Standard	US Dollar
+3311	TSL/USD	['Gate.io']	Energo	US Dollar
+3312	TSR/USD	['ZB.COM']	Tesra	US Dollar
+3313	TSTR/USD	['Synthetic']	Tristar Coin	US Dollar
+3314	TTCP/ETH	['Bibox']	TTC	Ethereum
+3315	TTCP/USD	['Synthetic']	TTC	US Dollar
+3316	TUBE/BTC	['Bittrex', 'TradeOgre']	BitTube	Bitcoin
+3317	TUBE/USD	['Synthetic']	BitTube	US Dollar
+3318	TURBO/USD	['Synthetic']	TurboCoin	US Dollar
+3319	TUSD/BTC	['Bittrex', 'OKEx']	TrueUSD	Bitcoin
+3320	TUSD/ETH	['Hotbit']	TrueUSD	Ethereum
+3321	TUSD/USD	['Binance', 'BitMart', 'Coinsbit']	TrueUSD	US Dollar
+3322	TVK/BTC	['Binance']	Terra Virtua Kolect	Bitcoin
+3323	TVK/USD	['Binance']	Terra Virtua Kolect	US Dollar
+3324	TWT/BTC	['Binance']	Trust Wallet Token	Bitcoin
+3325	TWT/USD	['Binance']	Trust Wallet Token	US Dollar
+3326	TX/BTC	['YoBit']	TransferCoin	Bitcoin
+3327	TX/USD	['Synthetic']	TransferCoin	US Dollar
+3328	TZC/BTC	['Graviex']	TrezarCoin	Bitcoin
+3329	TZC/USD	['Synthetic']	TrezarCoin	US Dollar
+3330	UAHPAY/USD	['Synthetic']	UAHPay	US Dollar
+3331	UBQ/BTC	['Bittrex']	Ubiq	Bitcoin
+3332	UBQ/USD	['Synthetic']	Ubiq	US Dollar
+3333	UBT/BTC	['Hotbit']	Unibright	Bitcoin
+3334	UBTC/BTC	['YoBit']	United Bitcoin	Bitcoin
+3335	UBTC/USD	['OKEx']	United Bitcoin	US Dollar
+3336	UBT/ETH	['Hotbit', 'IDEX']	Unibright	Ethereum
+3337	UBT/USD	['Synthetic']	Unibright	US Dollar
+3338	UCA/BTC	['Crex24', 'STEX']	UCA Coin	Bitcoin
+3339	UCA/USD	['Synthetic']	UCA Coin	US Dollar
+3340	UEDC/USD	['XT.COM']	UNITED EMIRATE DECENTRALIZED COIN.	US Dollar
+3341	UFO/USD	['Synthetic']	Uniform Fiscal Object	US Dollar
+3342	UGAS/BTC	['MEXC']	UGAS	Bitcoin
+3343	UGAS/USD	['MEXC']	UGAS	US Dollar
+3344	UGC/BTC	['IDAX']	ugChain	Bitcoin
+3345	UGC/USD	['Synthetic']	ugChain	US Dollar
+3346	UIS/USD	['Synthetic']	Unitus	US Dollar
+3347	UKG/BTC	['Bittrex']	Unikoin Gold	Bitcoin
+3348	UKG/USD	['Synthetic']	Unikoin Gold	US Dollar
+3349	ULA/USD	['Synthetic']	Ulatech	US Dollar
+3350	UMA/BTC	['Coinbase Pro']	UMA	Bitcoin
+3351	UMA/USD	['Binance', 'Coinbase Pro']	UMA	US Dollar
+3352	UNB/USD	['Synthetic']	UnbreakableCoin	US Dollar
+3353	UNC/USD	['Synthetic']	UNCoin	US Dollar
+3354	UNIC/USD	['Synthetic']	UniCoin	US Dollar
+3355	UNIFY/BTC	['YoBit']	Unify	Bitcoin
+3356	UNIFY/USD	['Synthetic', 'YoBit']	Unify	US Dollar
+3357	UNIs/BRL	['Synthetic']	Uniswap	Brazil Real
+3358	UNIs/BTC	['Binance']	Uniswap	Bitcoin
+3359	UNIs/CAD	['Synthetic']	Uniswap	Canadian Dollar
+3360	UNIs/EUR	['Binance', 'Kraken']	Uniswap	Euro
+3361	UNIs/TRY	['Paribu']	Uniswap	Turkish Lira
+3362	UNIs/USD	['Binance', 'Huobi']	Uniswap	US Dollar
+3363	UNIT/BTC	['YoBit']	Universal Currency	Bitcoin
+3364	UNITS/BTC	['YoBit']	GameUnits	Bitcoin
+3365	UNITS/USD	['Synthetic']	GameUnits	US Dollar
+3366	UNIT/USD	['Synthetic']	Universal Currency	US Dollar
+3367	UNI/USD	['Binance']	Uniswap	US Dollar
+3368	UNRC/USD	['Livecoin']	UniversalRoyalCoin	US Dollar
+3369	UOS/BTC	['KuCoin']	Ultra	Bitcoin
+3370	UOS/KRW	['Bithumb']	Ultra	Korean Won
+3371	UOS/USD	['Gate.io', 'KuCoin']	Ultra	US Dollar
+3372	UPP/ETH	['Hotbit']	Sentinel Protocol	Ethereum
+3373	UPP/KRW	['Upbit']	Sentinel Protocol	Korean Won
+3374	UPP/USD	['Synthetic']	Sentinel Protocol	US Dollar
+3375	URC/USD	['Synthetic']	Unrealcoin	US Dollar
+3376	URO/BTC	['YoBit']	Uro	Bitcoin
+3377	URO/USD	['Synthetic']	Uro	US Dollar
+3378	USC/BTC	['YoBit']	Ultimate Secure Cash	Bitcoin
+3379	USC/USD	['Synthetic']	Ultimate Secure Cash	US Dollar
+3380	USDB/USD	['Uniswap']	USDB	US Dollar
+3381	USDC/BTC	['Bittrex', 'OKEx']	USD Coin	Bitcoin
+3382	USDC/INR	['Bitbns']	USD Coin	Indian Rupee
+3383	USDC/KRW	['ProBit Exchange']	USD Coin	Korean Won
+3384	USDC/USD	['Binance', 'OKEx']	USD Coin	US Dollar
+3385	USDD/USD	['Gate.io', 'Huobi', 'Poloniex']	USDD	US Dollar
+3386	USDE/BTC	['YoBit']	USDe	Bitcoin
+3387	USDe/USD	['Uniswap']	Ethena USDe	US Dollar
+3388	USDE/USD	['YoBit']	USDe	US Dollar
+3389	USDN/BTC	['Bittrex']	Neutrino USD	Bitcoin
+3390	USDN/USD	['Bittrex', 'KuCoin']	Neutrino USD	US Dollar
+3391	USDP/CAD	['Synthetic']	Pax Dollar	Canadian Dollar
+3392	USDP/USD	['Binance']	USDP Stablecoin	US Dollar
+3393	USDT/BRL	['Binance']	Tether	Brazil Real
+3394	USDT/CAD	['Kraken']	Tether	Canadian Dollar
+3395	USDT/INR	['Bitbns']	Tether	Indian Rupee
+3396	USDT/RUB	['Binance', 'Exmo']	Tether	Russian Ruble
+3397	USDT/THB	['Bitkub', 'Satang Pro']	Tether	Thai Baht
+3398	USDT/TRY	['Binance', 'BTCTurk', 'Paribu']	Tether	Turkish Lira
+3399	USDT/USD	['Bitfinex', 'Kraken']	Tether	US Dollar
+3400	USDY/USD	['Uniswap']	Ondo US Dollar Yield	US Dollar
+3401	USNBT/USD	['SouthXchange']	NuBits	US Dollar
+3402	USTC/USD	['Huobi', 'Kraken', 'Kucoin']	TerraClassicUSD	US Dollar
+3403	UST/USD	['Coinbase Pro']	TerraUSD	US Dollar
+3404	UTC/USD	['Synthetic']	UltraCoin	US Dollar
+3405	UTK/BTC	['Huobi', 'Kucoin']	UTRUST	Bitcoin
+3406	UTK/ETH	['Huobi', 'Kucoin']	UTRUST	Ethereum
+3407	UTK/USD	['Binance', 'OKEx', 'Synthetic']	Utrust	US Dollar
+3408	UTNP/BTC	['IDCM']	Universa	Bitcoin
+3409	UTNP/ETH	['IDCM']	Universa	Ethereum
+3410	UTNP/USD	['Synthetic']	Universa	US Dollar
+3411	UTT/BTC	['HitBTC']	United Traders Token	Bitcoin
+3412	UTT/ETH	['HitBTC']	United Traders Token	Ethereum
+3413	UTT/USD	['HitBTC']	United Traders Token	US Dollar
+3414	VAL/USD	['Synthetic']	Valorbit	US Dollar
+3415	VASH/USD	['Synthetic']	VPNCoin	US Dollar
+3416	VC/USD	['Synthetic']	VirtualCoin	US Dollar
+3417	VEC2/BTC	['YoBit']	VectorAI	Bitcoin
+3418	VEC2/USD	['Synthetic']	VectorAI	US Dollar
+3419	VEE/BTC	['Bittrex']	BLOCKv	Bitcoin
+3420	VEE/USD	['Ethfinex']	BLOCKv	US Dollar
+3421	VEGI/BTC	['SouthXchange']	Veggie	Bitcoin
+3422	VEGI/USD	['SouthXchange']	Veggie	US Dollar
+3423	VELO/USD	['Binance']	Velo	US Dollar
+3424	VERI/BTC	['Mercatox']	Veritaseum	Bitcoin
+3425	VERI/ETH	['Mercatox']	Veritaseum	Ethereum
+3426	VERI/USD	['Synthetic']	Veritaseum	US Dollar
+3427	VET/AUD	['Synthetic']	VeChain	Australian Dollar
+3428	VET/BNB	['Binance']	VeChain	Binance Coin
+3429	VET/BTC	['Binance', 'BitMart', 'HitBTC']	VeChain	Bitcoin
+3430	VET/CAD	['Synthetic']	VeChain	Canadian Dollar
+3431	VET/CNY	['Synthetic']	VeChain	Chinese Yuan
+3432	VET/ETH	['Binance', 'BitMart']	VeChain	Ethereum
+3433	VET/EUR	['Binance', 'Synthetic']	VeChain	Euro
+3434	VET/GBP	['Binance']	VeChain	British Pound
+3435	VET/HKD	['Synthetic']	VeChain	Hong Kong Dollar
+3436	VET/ILS	['Synthetic']	VeChain	Israeli Shekel
+3437	VET/INR	['Synthetic']	VeChain	Indian Rupee
+3438	VET/KRW	['Bithumb', 'Synthetic', 'Upbit']	VeChain	Korean Won
+3439	VET/MXN	['Synthetic']	VeChain	Mexican Peso
+3440	VET/MYR	['Synthetic']	VeChain	Malaysian Ringgit
+3441	VET/PLN	['Synthetic']	VeChain	Polish Zloty
+3442	VET/RUB	['Synthetic']	VeChain	Russian Ruble
+3443	VET/SAR	['Synthetic']	VeChain	Saudi Riyal
+3444	VET/SEK	['Synthetic']	VeChain	Swedish Krona
+3445	VET/TRY	['Synthetic']	VeChain	Turkish Lira
+3446	VET/USD	['Binance', 'Huobi']	VeChain	US Dollar
+3447	VET/VND	['Synthetic']	VeChain	Vietnamese Dong
+3448	VET/ZAR	['Synthetic']	VeChain	South African Rand
+3449	VEX/BTC	['BTC-Alpha']	Vexanium	Bitcoin
+3450	VEX/IDR	['Indodax']	Vexanium	Indonesian Rupiah
+3451	VEX/USD	['BTC-Alpha']	Vexanium	US Dollar
+3452	VIA/BTC	['Bittrex', 'YoBit']	Viacoin	Bitcoin
+3453	VIA/USD	['Synthetic']	Viacoin	US Dollar
+3454	VIB/BTC	['Binance', 'HitBTC']	Viberate	Bitcoin
+3455	VIBE/BTC	['HitBTC']	VIBE	Bitcoin
+3456	VIB/ETH	['Binance', 'HitBTC']	Viberate	Ethereum
+3457	VIBE/USD	['Synthetic']	VIBE	US Dollar
+3458	VIB/USD	['HitBTC']	Viberate	US Dollar
+3459	VIDZ/USD	['Synthetic']	PureVidz	US Dollar
+3460	VIP/USD	['Synthetic']	VIP Tokens	US Dollar
+3461	VISIO/BTC	['YoBit']	Visio	Bitcoin
+3462	VISIO/USD	['Synthetic']	Visio	US Dollar
+3463	VITE/BTC	['OKEx']	VITE	Bitcoin
+3464	VITE/ETH	['Hotbit']	VITE	Ethereum
+3465	VITE/USD	['Binance', 'Synthetic']	VITE	US Dollar
+3466	VIU/USD	['Synthetic']	Viuly	US Dollar
+3467	VIVO/USD	['Synthetic']	VIVO	US Dollar
+3468	VLT/BTC	['YoBit']	Veltor	Bitcoin
+3469	VLTC/USD	['Synthetic']	Vault Coin	US Dollar
+3470	VLT/USD	['Synthetic']	Veltor	US Dollar
+3471	VLX/BTC	['Bittrex']	Velas	Bitcoin
+3472	VLX/USD	['Bittrex']	Velas	US Dollar
+3473	VOLLAR/BTC	['Hotbit']	V-Dimension	Bitcoin
+3474	VOLLAR/ETH	['Hotbit']	V-Dimension	Ethereum
+3475	VOLLAR/USD	['Hotbit']	V-Dimension	US Dollar
+3476	VOLT/BTC	['YoBit']	Bitvolt	Bitcoin
+3477	VOLT/USD	['Synthetic']	Bitvolt	US Dollar
+3478	VOX/USD	['Synthetic']	Voxels	US Dollar
+3479	VOYA/USD	['Synthetic']	Voyacoin	US Dollar
+3480	VPRC/USD	['Synthetic']	VapersCoin	US Dollar
+3481	VRC/BTC	['Bittrex']	VeriCoin	Bitcoin
+3482	VRC/USD	['Synthetic']	VeriCoin	US Dollar
+3483	VRM/BTC	['Livecoin']	VeriumReserve	Bitcoin
+3484	VRM/USD	['Synthetic']	VeriumReserve	US Dollar
+3485	VSL/USD	['Synthetic']	vSlice	US Dollar
+3486	VSYS/BTC	['BitForex', 'Huobi', 'Kucoin']	V Systems	Bitcoin
+3487	VSYS/USD	['Bitfinex', 'Huobi']	V Systems	US Dollar
+3488	VTC/BTC	['Bittrex', 'YoBit']	Vertcoin	Bitcoin
+3489	VTC/USD	['Synthetic']	Vertcoin	US Dollar
+3490	VTR/USD	['Synthetic']	vTorrent	US Dollar
+3491	VULC/BTC	['Crex24']	VULCANO	Bitcoin
+3492	VULC/USD	['BitMart', 'Synthetic']	Vulcano	US Dollar
+3493	V/USD	['Synthetic']	Version	US Dollar
+3494	VVS/USD	['Crypto.com Exchange']	VVS Finance	US Dollar
+3495	WABI/BNB	['Binance']	Wabi	Binance Coin
+3496	WABI/BTC	['Binance']	Wabi	Bitcoin
+3497	WABI/USD	['Synthetic']	Wabi	US Dollar
+3498	WAN/BTC	['Binance', 'Bitrue', 'Huobi']	Wanchain	Bitcoin
+3499	WAN/ETH	['Binance', 'Huobi']	Wanchain	Ethereum
+3500	WAN/USD	['Synthetic']	Wanchain	US Dollar
+3501	WAN/XRP	['Bitrue']	Wanchain	XRP
+3502	WARP/BTC	['YoBit']	WARP	Bitcoin
+3503	WARP/USD	['Synthetic']	WARP	US Dollar
+3504	WAVES/BNB	['Binance']	Waves	Binance Coin
+3505	WAVES/BRL	['Coingecko']	Waves	Brazil Real
+3506	WAVES/BTC	['Binance', 'Tidex']	Waves	Bitcoin
+3507	WAVES/ETH	['Binance', 'Bittrex']	Waves	Ethereum
+3508	WAVES/EUR	['Kraken']	Waves	Euro
+3509	WAVES/IDR	['BTC Indonesia']	Waves	Indonesian Rupiah
+3510	WAVES/KRW	['Upbit']	Waves	Korean Won
+3511	WAVES/RUB	['Exmo']	Waves	Russian Ruble
+3512	WAVES/TRY	['Paribu']	Waves	Turkish Lira
+3513	WAVES/USD	['Binance', 'LATOKEN']	Waves	US Dollar
+3514	WAX/BTC	['Kucoin']	WAX	Bitcoin
+3515	WAX/ETH	['Kucoin']	WAX	Ethereum
+3516	WAXP/CAD	['Synthetic']	WAX	Canadian Dollar
+3517	WAXP/USD	['Binance']	WAX	US Dollar
+3518	WAX/USD	['Ethfinex', 'HitBTC', 'Synthetic']	WAX	US Dollar
+3519	WAY/USD	['Synthetic']	WayGuide	US Dollar
+3520	WBB/BTC	['YoBit']	Wild Beast Block	Bitcoin
+3521	WBB/USD	['Synthetic']	Wild Beast Block	US Dollar
+3522	WBTC/BTC	['Binance', 'Coinbase Pro', 'FTX', 'Huobi']	Wrapped Bitcoin	Bitcoin
+3523	WBTC/CAD	['Synthetic']	Wrapped Bitcoin	Canadian Dollar
+3524	WBTC/USD	['FTX', 'Synthetic']	Wrapped Bitcoin	US Dollar
+3525	WBX/BRL	['MercadoBitcoin']	WiBX	Brazil Real
+3526	WBX/BTC	['ProBit Exchange']	WiBX	Bitcoin
+3527	WBX/USD	['Coinbene', 'Synthetic']	WiBX	US Dollar
+3528	WC/BTC	['Crex24']	WINCOIN	Bitcoin
+3529	WCT/BTC	['Tidex']	Waves Community Token 	Bitcoin
+3530	WCT/USD	['Synthetic']	Waves Community Token	US Dollar
+3531	WC/USD	['Synthetic']	WINCOIN	US Dollar
+3532	WDC/USD	['Synthetic']	WorldCoin	US Dollar
+3533	WEB/USD	['Synthetic']	Webchain	US Dollar
+3534	WEMIX/KRW	['Bithumb', 'Coinone']	WEMIX	Korean Won
+3535	WEMIX/USD	['Gate.io', 'Huobi']	WEMIX	US Dollar
+3536	WGO/BTC	['Tidex']	WavesGo	Bitcoin
+3537	WGO/USD	['Synthetic']	WavesGo	US Dollar
+3538	WGR/BTC	['YoBit']	Wagerr	Bitcoin
+3539	WGR/USD	['Synthetic']	Wagerr	US Dollar
+3540	WICC/BNB	['Binance DEX']	WaykiChain	Binance Coin
+3541	WICC/BTC	['Huobi']	WaykiChain	Bitcoin
+3542	WICC/ETH	['Huobi']	WaykiChain	Ethereum
+3543	WICC/USD	['Huobi']	WaykiChain	US Dollar
+3544	WIC/USD	['Synthetic']	Wi Coin	US Dollar
+3545	WILD/BTC	['Crex24']	Wild Crypto	Bitcoin
+3546	WILD/ETH	['Crex24']	Wild Crypto	Ethereum
+3547	WILD/USD	['Synthetic']	Wild Crypto	US Dollar
+3548	WINGS/USD	['Synthetic']	Wings	US Dollar
+3549	WIN/USD	['Binance', 'Poloniex']	WINkLink	US Dollar
+3550	WISH/BNB	['Binance DEX']	MyWish	Binance Coin
+3551	WISH/USD	['Synthetic']	MyWish	US Dollar
+3552	WLD/USD	['Binance']	Worldcoin	US Dollar
+3553	WMC/USD	['Synthetic']	WMCoin	US Dollar
+3554	WOMEN/USD	['Synthetic']	WomenCoin	US Dollar
+3555	Woodcoin/USD	['Kraken']	Woodcoin	US Dollar
+3556	WOO/USD	['Gate.io', 'Huobi', 'KuCoin']	WOO Network	US Dollar
+3557	WORM/USD	['Synthetic']	HealthyWormCoin	US Dollar
+3558	WOW/USD	['Synthetic']	Wowcoin	US Dollar
+3559	WOZX/ETH	['Gate.io']	EFFORCE	Ethereum
+3560	WOZX/USD	['Synthetic']	EFFORCE	US Dollar
+3561	WPR/BTC	['Huobi']	WePower	Bitcoin
+3562	WPR/INR	['Bitbns']	WePower	Indian Rupee
+3563	WPR/USD	['Synthetic']	WePower	US Dollar
+3564	WRC/BTC	['YoBit']	Worldcore	Bitcoin
+3565	WRC/ETH	['YoBit']	Worldcore	Ethereum
+3566	WRC/USD	['Synthetic']	Worldcore	US Dollar
+3567	WRX/BTC	['Binance']	WazirX	Bitcoin
+3568	WRX/INR	['WazirX']	WazirX	Indian Rupee
+3569	WRX/USD	['Binance']	WazirX	US Dollar
+3570	WTC/BTC	['Binance', 'Bitrue', 'OKEx']	Waltonchain	Bitcoin
+3571	WTC/ETH	['Huobi']	Waltonchain	Ethereum
+3572	WTC/USD	['Huobi', 'OKEx']	Waltonchain	US Dollar
+3573	WTC/XRP	['Bitrue']	Waltonchain	XRP
+3574	WTT/ETH	['YoBit']	Giga Watt Token	Ethereum
+3575	WTT/USD	['Synthetic']	Giga Watt Token	US Dollar
+3576	WXT/BTC	['Kucoin', 'OKEx']	Wirex Token	Bitcoin
+3577	WXT/USD	['Kucoin', 'OKEx']	Wirex Token	US Dollar
+3578	X2/USD	['Synthetic']	X2	US Dollar
+3579	X8X/BNT	['Bancor Network']	X8X Token	Bancor
+3580	X8X/USD	['Synthetic']	X8X Token	US Dollar
+3581	XAUR/BTC	['HitBTC']	Xaurum	Bitcoin
+3582	XAUR/USD	['Synthetic']	Xaurum	US Dollar
+3583	XBC/BTC	['Graviex']	Bitcoin Plus	Bitcoin
+3584	XBC/USD	['Synthetic']	Bitcoin Plus	US Dollar
+3585	XBL/USD	['Synthetic']	Billionaire Token	US Dollar
+3586	XBTC21/BTC	['YoBit']	Bitcoin 21	Bitcoin
+3587	XBTC21/USD	['Synthetic']	Bitcoin 21	US Dollar
+3588	XBTS/BTC	['YoBit']	Beatcoin	Bitcoin
+3589	XBTS/USD	['Synthetic']	Beatcoin	US Dollar
+3590	XBY/BTC	['YoBit']	XTRABYTES	Bitcoin
+3591	XBY/USD	['Synthetic']	XTRABYTES	US Dollar
+3592	XCH/USD	['Gate.io', 'Huobi']	Chia Network	US Dollar
+3593	XCN/USD	['Synthetic']	Cryptonite	US Dollar
+3594	XCO/BTC	['YoBit']	X-Coin	Bitcoin
+3595	XCO/USD	['Synthetic']	X-Coin	US Dollar
+3596	XCP/JPY	['Zaif']	Counterparty	Japanese Yen
+3597	XCP/USD	['Synthetic']	Counterparty	US Dollar
+3598	XCXT/USD	['Synthetic']	CoinonatX	US Dollar
+3599	XDB/BTC	['Bittrex', 'KuCoin']	DigitalBits	Bitcoin
+3600	XDB/USD	['Bittrex', 'KuCoin']	DigitalBits	US Dollar
+3601	XDC/CAD	['Synthetic']	XDC Network	Canadian Dollar
+3602	XDC/ETH	['Kucoin']	XinFin Network	Ethereum
+3603	XDC/USD	['Gate.io', 'Kucoin', 'Synthetic']	XDC Network	US Dollar
+3604	XDE2/BTC	['YoBit']	XDE II	Bitcoin
+3605	XDE2/USD	['Synthetic']	XDE II	US Dollar
+3606	XDN/BTC	['Bittrex', 'HitBTC']	DigitalNote	Bitcoin
+3607	XDN/ETH	['HitBTC']	DigitalNote	Ethereum
+3608	XDN/USD	['HitBTC']	DigitalNote	US Dollar
+3609	XEC/USD	['Binance', 'Huobi']	eCash	US Dollar
+3610	XEL/BTC	['Bittrex']	XEL	Bitcoin
+3611	XEL/USD	['Synthetic']	XEL	US Dollar
+3612	XEM/AUD	['Synthetic']	NEM	Australian Dollar
+3613	XEM/BITCNY	['CoinTiger']	NEM	bitCNY
+3614	XEM/BTC	['Binance', 'DragonEX', 'HitBTC', 'OKEx']	NEM	Bitcoin
+3615	XEM/CAD	['Synthetic']	NEM	Canadian Dollar
+3616	XEM/CNY	['Synthetic']	NEM	Chinese Yuan
+3617	XEM/ETH	['Binance', 'Gate.io', 'HitBTC', 'OKEx']	NEM	Ethereum
+3618	XEM/EUR	['Synthetic']	NEM	Euro
+3619	XEM/HKD	['Synthetic']	NEM	Hong Kong Dollar
+3620	XEM/ILS	['Synthetic']	NEM	Israeli Shekel
+3621	XEM/INR	['Synthetic']	NEM	Indian Rupee
+3622	XEM/JPY	['Zaif']	NEM	Japanese Yen
+3623	XEM/KRW	['Bithumb', 'Synthetic', 'Upbit']	NEM	Korean Won
+3624	XEM/MXN	['Synthetic']	NEM	Mexican Peso
+3625	XEM/MYR	['Synthetic']	NEM	Malaysian Ringgit
+3626	XEM/PLN	['Synthetic']	NEM	Polish Zloty
+3627	XEM/RUB	['Synthetic']	NEM	Russian Ruble
+3628	XEM/SAR	['Synthetic']	NEM	Saudi Riyal
+3629	XEM/SEK	['Synthetic']	NEM	Swedish Krona
+3630	XEM/TRY	['Synthetic']	NEM	Turkish Lira
+3631	XEM/USD	['HitBTC', 'OKEx']	NEM	US Dollar
+3632	XEM/VND	['Synthetic']	NEM	Vietnamese Dong
+3633	XEM/XRP	['Bitrue']	NEM	XRP
+3634	XEM/ZAR	['Synthetic']	NEM	South African Rand
+3635	XETn/USD	['BitMart', 'MEXC']	Xfinite Entertainment Token	US Dollar
+3636	XET/USD	['Synthetic']	ETERNAL TOKEN	US Dollar
+3637	XFT/USD	['Synthetic']	Footy Cash	US Dollar
+3638	XGOX/USD	['SouthXchange']	XGOX	US Dollar
+3639	XHI/BTC	['YoBit']	HiCoin	Bitcoin
+3640	XHI/USD	['Synthetic']	HiCoin	US Dollar
+3641	XHV/BTC	['TradeOgre']	Haven Protocol	Bitcoin
+3642	XHV/USD	['Synthetic']	Haven Protocol	US Dollar
+3643	XID/USD	['Synthetic']	Sphre AIR	US Dollar
+3644	XIN/BTC	['BigONE']	Mixin	Bitcoin
+3645	XIN/EOS	['BigONE']	Mixin	EOS
+3646	XIN/ETH	['BigONE']	Mixin	Ethereum
+3647	XIN/USD	['BigONE']	Mixin	US Dollar
+3648	XIOS/BTC	['YoBit']	Xios	Bitcoin
+3649	XIOS/USD	['YoBit']	Xios	US Dollar
+3650	XJO/BTC	['YoBit']	Joulecoin	Bitcoin
+3651	XJO/USD	['Synthetic']	Joulecoin	US Dollar
+3652	XLC/USD	['Synthetic']	LeviarCoin	US Dollar
+3653	XLM/AUD	['Synthetic']	Stellar	Australian Dollar
+3654	XLM/BNB	['Binance']	Stellar	Binance Coin
+3655	XLM/BRL	['NovaDAX']	Stellar	Brazil Real
+3656	XLM/BTC	['Binance', 'OKEx']	Stellar	Bitcoin
+3657	XLM/CAD	['Synthetic']	Stellar	Canadian Dollar
+3658	XLM/CNY	['Synthetic']	Stellar	Chinese Yuan
+3659	XLM/ETH	['Binance', 'BitMart', 'HitBTC']	Stellar	Ethereum
+3660	XLM/EUR	['Coinbase Pro', 'Synthetic']	Stellar	Euro
+3661	XLM/GBP	['BitStamp']	Stellar	British Pound
+3662	XLM/HKD	['Synthetic']	Stellar	Hong Kong Dollar
+3663	XLM/IDR	['BTC Indonesia']	Stellar	Indonesian Rupiah
+3664	XLM/ILS	['Synthetic']	Stellar	Israeli Shekel
+3665	XLM/INR	['Bitbns', 'Synthetic']	Stellar	Indian Rupee
+3666	XLM/JPY	['Bitbank']	Stellar	Japanese Yen
+3667	XLM/KRW	['Bithumb', 'Upbit']	Stellar	Korean Won
+3668	XLM/MXN	['Synthetic']	Stellar	Mexican Peso
+3669	XLM/MYR	['Synthetic']	Stellar	Malaysian Ringgit
+3670	XLM/PLN	['Synthetic']	Stellar	Polish Zloty
+3671	XLM/RUB	['Synthetic']	Stellar	Russian Ruble
+3672	XLM/SAR	['Synthetic']	Stellar	Saudi Riyal
+3673	XLM/SEK	['Synthetic']	Stellar	Swedish Krona
+3674	XLM/THB	['Satang Pro']	Stellar	Thai Baht
+3675	XLM/TRY	['BTCTurk', 'Paribu', 'Synthetic']	Stellar	Turkish Lira
+3676	XLM/USD	['Binance', 'Coinbase Pro', 'Huobi', 'OKEx', 'ZB.COM']	Stellar	US Dollar
+3677	XLM/VND	['Synthetic']	Stellar	Vietnamese Dong
+3678	XLM/ZAR	['Synthetic']	Stellar	South African Rand
+3679	XLQ/BTC	['Graviex']	ALQO	Bitcoin
+3680	XMCC/USD	['Synthetic']	Monoeci	US Dollar
+3681	XMG/BTC	['YoBit']	Magi	Bitcoin
+3682	XMG/USD	['Synthetic']	Magi	US Dollar
+3683	XMR/AUD	['Synthetic']	Monero	Australian Dollar
+3684	XMR/BNB	['Binance']	Monero	Binance Coin
+3685	XMR/BRL	['NovaDAX']	Monero	Brazil Real
+3686	XMR/BTC	['Binance', 'HitBTC', 'OKEx']	Monero	Bitcoin
+3687	XMR/CAD	['Synthetic']	Monero	Canadian Dollar
+3688	XMR/CNY	['Synthetic']	Monero	Chinese Yuan
+3689	XMR/ETH	['Binance', 'HitBTC', 'OKEx']	Monero	Ethereum
+3690	XMR/EUR	['Kraken']	Monero	Euro
+3691	XMR/HKD	['Synthetic']	Monero	Hong Kong Dollar
+3692	XMR/ILS	['Synthetic']	Monero	Israeli Shekel
+3693	XMR/INR	['Synthetic']	Monero	Indian Rupee
+3694	XMR/MXN	['Synthetic']	Monero	Mexican Peso
+3695	XMR/MYR	['Synthetic']	Monero	Malaysian Ringgit
+3696	XMR/PLN	['Synthetic']	Monero	Polish Zloty
+3697	XMR/RUB	['Synthetic']	Monero	Russian Ruble
+3698	XMR/SAR	['Synthetic']	Monero	Saudi Riyal
+3699	XMR/SEK	['Synthetic']	Monero	Swedish Krona
+3700	XMR/TRY	['Synthetic']	Monero	Turkish Lira
+3701	XMR/USD	['Gate.io', 'HitBTC']	Monero	US Dollar
+3702	XMR/VND	['Synthetic']	Monero	Vietnamese Dong
+3703	XMR/ZAR	['Synthetic']	Monero	South African Rand
+3704	XMY/BTC	['Bittrex']	Myriad	Bitcoin
+3705	XMY/USD	['Bittrex', 'Synthetic']	Myriad	US Dollar
+3706	XNN/USD	['Synthetic']	Xenon	US Dollar
+3707	XOC/BTC	['YoBit']	Xonecoin	Bitcoin
+3708	XOC/USD	['Synthetic']	Xonecoin	US Dollar
+3709	XP/BTC	['Graviex']	Experience Points	Bitcoin
+3710	XPRT/ETH	['Gate.io']	Persistence	Ethereum
+3711	XPRT/USD	['Gate.io', 'Huobi']	Persistence	US Dollar
+3712	XPR/USD	['Kucoin']	Proton	US Dollar
+3713	XPTX/BTC	['YoBit']	PlatinumBAR	Bitcoin
+3714	XPTX/USD	['Synthetic']	PlatinumBAR	US Dollar
+3715	XP/USD	['Synthetic']	Experience Points	US Dollar
+3716	XPX/BTC	['ProBit Exchange']	ProximaX	Bitcoin
+3717	XPX/USD	['ProBit Exchange', 'Synthetic']	ProximaX	US Dollar
+3718	XPY/BTC	['YoBit']	PayCoin	Bitcoin
+3719	XPY/USD	['Synthetic']	PayCoin	US Dollar
+3720	XQN/USD	['Synthetic']	Quotient	US Dollar
+3721	XRA/USD	['Synthetic']	Ratecoin	US Dollar
+3722	XRC/USD	['Synthetic']	Rawcoin	US Dollar
+3723	XRE/USD	['Synthetic']	RevolverCoin	US Dollar
+3724	XRL/BTC	['YoBit']	Rialto	Bitcoin
+3725	XRL/USD	['Synthetic']	Rialto	US Dollar
+3726	XRP/AED	['CoinField']	XRP	UAE Dirham
+3727	XRP/ARS	['Synthetic']	XRP	Argentinian Peso
+3728	XRP/AUD	['BTC Markets', 'Synthetic']	XRP	Australian Dollar
+3729	XRP/BRL	['MercadoBitcoin', 'NovaDAX']	XRP	Brazil Real
+3730	XRP/BTC	['Binance', 'HitBTC']	XRP	Bitcoin
+3731	XRP/CAD	['CoinField', 'Synthetic']	XRP	Canadian Dollar
+3732	XRP/CNY	['Synthetic']	XRP	Chinese Yuan
+3733	XRP/EOS	['HitBTC']	XRP	EOS
+3734	XRP/ETH	['Binance', 'OKEx']	XRP	Ethereum
+3735	XRP/EUR	['BitStamp', 'Kraken']	XRP	Euro
+3736	XRP/GBP	['CoinField']	XRP	British Pound
+3737	XRP/HKD	['Synthetic']	XRP	Hong Kong Dollar
+3738	XRP/IDR	['BTC Indonesia']	XRP	Indonesian Rupiah
+3739	XRP/ILS	['Synthetic']	XRP	Israeli Shekel
+3740	XRP/INR	['Bitbns', 'Synthetic']	XRP	Indian Rupee
+3741	XRP/JPY	['Bitbank', 'Liquid']	XRP	Japanese Yen
+3742	XRP/KRW	['Bithumb', 'Coinone', 'Upbit']	XRP	Korean Won
+3743	XRP/MXN	['Bitso', 'Synthetic']	XRP	Mexican Peso
+3744	XRP/MYR	['Luno', 'Synthetic']	XRP	Malaysian Ringgit
+3745	XRP/NGN	['Luno']	XRP	Nigerian Naira
+3746	XRP/PLN	['Synthetic']	XRP	Polish Zloty
+3747	XRP/RUB	['Exmo']	XRP	Russian Ruble
+3748	XRP/SAR	['Synthetic']	XRP	Saudi Riyal
+3749	XRP/SEK	['Synthetic']	XRP	Swedish Krona
+3750	XRP/THB	['Bitkub', 'Satang Pro']	XRP	Thai Baht
+3751	XRP/TRX	['Synthetic']	XRP	TRON
+3752	XRP/TRY	['Binance', 'BTCTurk', 'Paribu', 'Synthetic']	XRP	Turkish Lira
+3753	XRP/USD	['Binance', 'Bitrue', 'Huobi', 'OKEx']	XRP	US Dollar
+3754	XRP/VND	['Synthetic']	XRP	Vietnamese Dong
+3755	XRP/ZAR	['Luno', 'Synthetic']	XRP	South African Rand
+3756	XSH/BTC	['SouthXchange']	SHIELD	Bitcoin
+3757	XSH/USD	['Synthetic']	SHIELD	US Dollar
+3758	XST/BTC	['Bittrex']	Stealthcoin	Bitcoin
+3759	XSTC/USD	['Synthetic']	Safe Trade Coin	US Dollar
+3760	XST/USD	['Synthetic']	Stealthcoin	US Dollar
+3761	XTD/USD	['Synthetic']	XTD Coin	US Dollar
+3762	XTO/USD	['Synthetic']	Tao	US Dollar
+3763	XTRL/USD	['Synthetic']	TurkeyEnergyToken	US Dollar
+3764	XTZ/BRL	['NovaDAX']	Tezos	Brazil Real
+3765	XTZ/BTC	['BitMax', 'HitBTC', 'Huobi']	Tezos	Bitcoin
+3766	XTZ/CAD	['Synthetic']	Tezos	Canadian Dollar
+3767	XTZ/ETH	['Huobi', 'Kraken']	Tezos	Ethereum
+3768	XTZ/EUR	['Kraken']	Tezos	Euro
+3769	XTZ/KRW	['Coinone']	Tezos	Korean Won
+3770	XTZ/TRY	['BTCTurk', 'Paribu']	Tezos	Turkish Lira
+3771	XTZ/USD	['Binance', 'Huobi']	Tezos	US Dollar
+3772	XUC/BTC	['HitBTC']	Exchange Union	Bitcoin
+3773	XUC/ETH	['HitBTC']	Exchange Union	Ethereum
+3774	XUC/USD	['HitBTC', 'OKEx']	Exchange Union	US Dollar
+3775	XVC/USD	['Synthetic']	Vcash	US Dollar
+3776	XVE/USD	['Synthetic']	The Vegan Initiative	US Dollar
+3777	XVG/AUD	['Synthetic']	Verge	Australian Dollar
+3778	XVG/BTC	['Binance', 'HitBTC']	Verge	Bitcoin
+3779	XVG/ETH	['Binance', 'HitBTC']	Verge	Ethereum
+3780	XVG/USD	['Binance', 'HitBTC']	Verge	US Dollar
+3781	XVS/BTC	['Binance']	Venus	Bitcoin
+3782	XVS/USD	['Binance']	Venus	US Dollar
+3783	XWC/USD	['EXX']	WhiteCoin	US Dollar
+3784	XWP/BTC	['TradeOgre']	Swap	Bitcoin
+3785	XWP/USD	['Synthetic']	Swap	US Dollar
+3786	XYM/BTC	['KuCoin']	Symbol	Bitcoin
+3787	XYM/JPY	['Zaif']	Symbol	Japanese Yen
+3788	XYM/USD	['Gate.io', 'KuCoin']	Symbol	US Dollar
+3789	XYO/BTC	['Kucoin']	XYO	Bitcoin
+3790	XYO/ETH	['Kucoin']	XYO	Ethereum
+3791	XYO/USD	['Synthetic']	XYO	US Dollar
+3792	XZC/THB	['Satang Pro']	Zcoin	Thai Baht
+3793	YAC/BTC	['YoBit']	Yacoin	Bitcoin
+3794	YAC/USD	['Synthetic']	Yacoin	US Dollar
+3795	YEE/BTC	['CoinTiger', 'Huobi']	Yee	Bitcoin
+3796	YEE/ETH	['CoinTiger', 'Huobi']	Yee	Ethereum
+3797	YEE/USD	['OKEx']	Yee	US Dollar
+3798	YEL/USD	['Synthetic']	Yellow Token	US Dollar
+3799	YENTEN/USD	['Kraken']	YENTEN	US Dollar
+3800	YES/USD	['Synthetic']	Yescoin	US Dollar
+3801	YFI/BTC	['Binance']	yearn.finance	Bitcoin
+3802	YFI/INR	['Bitbns']	yearn.finance	Indian Rupee
+3803	YFII/USD	['Binance', 'Huobi']	DFI.Money	US Dollar
+3804	YFI/USD	['Binance']	yearn.finance	US Dollar
+3805	YGG/USD	['Binance', 'Huobi']	Yield Guild Games	US Dollar
+3806	YOYOW/BTC	['Binance', 'HitBTC']	YOYOW	Bitcoin
+3807	YOYOW/USD	['OKEx']	YOYOW	US Dollar
+3808	YUP/USD	['Synthetic']	Crowdholding	US Dollar
+3809	ZAP/BTC	['HitBTC']	Zap	Bitcoin
+3810	ZAP/USD	['Synthetic']	Zap	US Dollar
+3811	ZBC/USD	['Synthetic']	Zilbercoin	US Dollar
+3812	ZB/USD	['ZB.COM']	ZB Token	US Dollar
+3813	ZCL/BTC	['Hotbit']	ZClassic	Bitcoin
+3814	ZCL/USD	['Synthetic']	ZClassic	US Dollar
+3815	ZCN/USD	['Gate.io', 'Synthetic']	0Chain	US Dollar
+3816	ZCO/ETH	['Hotbit']	Zebi	Ethereum
+3817	ZCO/USD	['Synthetic']	Zebi	US Dollar
+3818	ZEC/AUD	['Synthetic']	Zcash	Australian Dollar
+3819	ZEC/BTC	['Binance', 'YoBit']	Zcash	Bitcoin
+3820	ZEC/CAD	['CoinField']	Zcash	Canadian Dollar
+3821	ZEC/ETH	['HitBTC', 'Poloniex']	Zcash	Ethereum
+3822	ZEC/EUR	['Exmo', 'Kraken']	Zcash	Euro
+3823	ZEC/GBP	['Synthetic']	Zcash	British Pound
+3824	ZEC/INR	['Bitbns']	Zcash	Indian Rupee
+3825	ZEC/RUB	['Exmo']	Zcash	Russian Ruble
+3826	ZEC/TRY	['Bitci.com']	Zcash	Turkish Lira
+3827	ZEC/USD	['Binance', 'Huobi', 'LBank', 'OKEx']	Zcash	US Dollar
+3828	ZEIT/USD	['Synthetic']	Zeitcoin	US Dollar
+3829	ZEN/BTC	['Binance', 'DragonEX']	Horizen	Bitcoin
+3830	ZENI/BTC	['YoBit']	Zennies	Bitcoin
+3831	ZENI/USD	['Synthetic']	Zennies	US Dollar
+3832	ZEN/USD	['Synthetic']	ZenCash	US Dollar
+3833	ZER/BTC	['Crex24']	Zero	Bitcoin
+3834	ZER/USD	['Synthetic']	Zero	US Dollar
+3835	ZET/BTC	['YoBit']	Zetacoin	Bitcoin
+3836	ZET/USD	['Synthetic']	Zetacoin	US Dollar
+3837	ZIL/BNB	['Binance']	Zilliqa	Binance Coin
+3838	ZIL/BTC	['Binance', 'OKEx']	Zilliqa	Bitcoin
+3839	ZIL/ETH	['Binance', 'OKEx']	Zilliqa	Ethereum
+3840	ZIL/GBP	['Synthetic']	Zilliqa	British Pound
+3841	ZIL/KRW	['Upbit']	Zilliqa	Korean Won
+3842	ZIL/THB	['Bitkub']	Zilliqa	Thai Baht
+3843	ZIL/USD	['Binance', 'OKEx']	Zilliqa	US Dollar
+3844	ZK/USD	['Binance']	zkSync	US Dollar
+3845	ZMC/USD	['Synthetic']	ZetaMicron	US Dollar
+3846	ZNE/BTC	['YoBit']	Zonecoin	Bitcoin
+3847	ZNE/USD	['Synthetic']	Zonecoin	US Dollar
+3848	ZNN/USD	['Synthetic']	Zenon	US Dollar
+3849	ZNY/BTC	['Crex24']	Bitzeny	Bitcoin
+3850	ZNY/USD	['Synthetic']	Bitzeny	US Dollar
+3851	ZOI/USD	['Synthetic']	Zoin	US Dollar
+3852	ZPT/USD	['Gate.io']	Zeepin	US Dollar
+3853	ZRC/BTC	['Tidex']	ZrCoin	Bitcoin
+3854	ZRC/USD	['Gate.io']	ZrCoin	US Dollar
+3855	ZRO/USD	['Binance']	LayerZero	US Dollar
+3856	ZRX/BTC	['Binance', 'HitBTC', 'OKEx']	0x	Bitcoin
+3857	ZRX/ETH	['Binance', 'Bitrue']	0x	Ethereum
+3858	ZRX/EUR	['Coinbase Pro']	0x	Euro
+3859	ZRX/INR	['Bitbns']	0x	Indian Rupee
+3860	ZRX/TRY	['Synthetic']	0x	Turkish Lira
+3861	ZRX/USD	['Binance', 'Coinbase Pro', 'Huobi']	0x	US Dollar
+3862	ZRX/XRP	['Bitrue']	0x	XRP
+3863	ZSC/ETH	['Gate.io']	Zeusshield	Ethereum
+3864	ZSC/USD	['Gate.io']	Zeusshield	US Dollar
+3865	ZUR/USD	['Synthetic']	Zurcoin	US Dollar
+3866	ZYD/BTC	['YoBit']	Zayedcoin	Bitcoin
+3867	ZYD/USD	['Synthetic']	Zayedcoin	US Dollar
+3868	ZZC/USD	['Synthetic']	ZoZoCoin	US Dollar

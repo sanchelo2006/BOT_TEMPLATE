@@ -40,6 +40,9 @@ async def main():
 
     # init bot and dispatcher
     bot = Bot(token=config.tg_bot.token, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
+    
+    # get api_key for using in project
+    api_key = config.tg_bot.api_key
 
     dp = Dispatcher(storage=storage)
 

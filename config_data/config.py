@@ -15,6 +15,7 @@ class DatabaseConfig:
 class TgBot:
     token: str              # токен бота
     admin_ids: list[int]    # список id администраторов бота
+    api_key: str            # api_key для twelve data
 
 @dataclass
 class Config:
@@ -33,6 +34,7 @@ def load_config(path: str | None = None) -> Config:
     return Config(
         tg_bot=TgBot(
             token=env('BOT_TOKEN'),
+            api_key = env('API_KEY'),
             admin_ids=list(map(int, env.list('ADMIN_IDS')))
         ),
         db = DatabaseConfig(
